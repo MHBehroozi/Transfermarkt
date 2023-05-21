@@ -5,6 +5,9 @@ st.set_page_config(
     page_title='Transfermarkt',
     page_icon= ':soccer:'
 )
+
+st.image('https://getlogo.net/wp-content/uploads/2021/08/transfermarkt-logo-vector.png', use_column_width=True)
+
 st.title("Tranfermarkt DataAnalysis")
 
 """
@@ -22,7 +25,7 @@ st.title("Tranfermarkt DataAnalysis")
     * Statistical Analysis
     * Estimation and use of Machine Learning tools
 
-    See full problem explanation in persion on: [Wiki](https://github.com/MHBehoozi/Transfermarkt/wiki/Problem-Explanation)
+    See full problem explanation in link: [Wiki](https://github.com/MHBehoozi/Transfermarkt/wiki/Problem-Explanation)
 
     ### Team members:
     * [Mr. Behroozi, Mohammad Hoseyn](https://github.com/MHBehoozi)
