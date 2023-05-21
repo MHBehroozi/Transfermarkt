@@ -13,7 +13,7 @@ The following members are present in this team, arranged in alphabetical order:
 * [Ms. Mousavi, Fateme](https://github.com/fatememousavi97)
 * Mr. Parsa, Ali
 
-This team has completed the project under the mentoring of Mr. Abdolkarimi, Yousof.
+This team has completed the project under the mentoring of [Mr. Abdolkarimi, Yousof](https://github.com/josefkarimi).
 
 ---
 

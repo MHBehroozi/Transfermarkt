@@ -35,7 +35,7 @@ st.title("Tranfermarkt DataAnalysis")
     * [Ms. Mousavi, Fateme](https://github.com/fatememousavi97)
     * Mr. Parsa, Ali
 
-    This team has completed the project under the mentoring of Mr. Abdolkarimi, Yousof.
+    This team has completed the project under the mentoring of [Mr. Abdolkarimi, Yousof](https://github.com/josefkarimi).
 
     GitHub Repository link:
     [GitHub.com/MHBehoozi/Transfermarkt/](https://github.com/MHBehoozi/Transfermarkt/)
