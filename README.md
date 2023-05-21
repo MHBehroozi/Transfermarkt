@@ -11,7 +11,7 @@ The following members are present in this team, arranged in alphabetical order:
 * Mr. Hosseini, Amirreza
 * [Mr. Mapar, Masoud](https://github.com/masoud533)
 * [Ms. Mousavi, Fateme](https://github.com/fatememousavi97)
-* Mr. Parsa, Ali
+* [Mr. Parsa, Ali](https://github.com/parsa009)
 
 This team has completed the project under the mentoring of [Mr. Abdolkarimi, Yousof](https://github.com/josefkarimi).
 
