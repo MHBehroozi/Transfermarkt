@@ -29,9 +29,9 @@ This team has completed the project under the mentoring of [Mr. Abdolkarimi, You
   </p>
   <ul style='text-align:right'>
     <li><a style='text-align:right' href = 'https://github.com/MHBehoozi'> آقای محمدحسین بهروزی </a></li>
-    <li> آقای علی پارسا </li>
+    <li><a href = 'https://github.com/parsa009'> آقای علی پارسا </a></li>
     <li><a href = 'https://github.com/mahla-chr'> خانم مهلا چارقدچی </a></li>
-    <li> آقای امیررضا حسینی </li>
+    <li><a href = 'https://github.com/AmirrezaHosseini/AmirrezaHosseini'> آقای امیررضا حسینی </a></li>
     <li><a href = 'https://github.com/masoud533'> آقای مسعود ماپار </a></li>
     <li><a href = 'https://github.com/fatememousavi97'> خانم فاطمه موسوی </a></li>
   </ul>
