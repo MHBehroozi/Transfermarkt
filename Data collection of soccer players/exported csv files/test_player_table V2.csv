@@ -1,0 +1,31 @@
+,player_id,name,birth_date,height,current_international,main_position,foot,current_club,goals_scored,goals_assisted,goals_conceded,clean_sheets,total_appearence,agent
+0,238223,Ederson,"['Aug', '17', '1993']",188.0,Brazil,Goalkeeper,left,Man City,-,-,341,192,413,Gestifute
+1,221624,Zack Steffen,"['Apr', '2', '1995']",191.0,United States,Goalkeeper,right,Middlesbrough,-,-,254,51,191,Wasserman
+2,14555,Scott Carson,"['Sep', '3', '1985']",188.0,England,Goalkeeper,right,Man City,-,4,661,153,522,Wasserman
+3,621997,Cieran Slicker,"['Sep', '15', '2002']",,Scotland,Goalkeeper,,Man City U21,-,1,83,18,59,Unique Sports Group
+4,258004,Rúben Dias,"['May', '14', '1997']",187.0,Portugal,Defender Centre Back,right,Man City,16,13,nan,nan,337,Gestifute
+5,176553,Aymeric Laporte,"['May', '27', '1994']",189.0,Spain,Defender Centre Back,left,Man City,22,11,nan,nan,407,
+6,186590,John Stones,"['May', '28', '1994']",188.0,England,Defender Centre Back,right,Man City,17,6,nan,nan,361,Wasserman
+7,177476,Nathan Aké,"['Feb', '18', '1995']",180.0,Netherlands,Defender Centre Back,left,Man City,23,12,nan,nan,298,Wasserman
+8,340460,Philippe Sandler,"['Feb', '10', '1997']",190.0,Netherlands,Defender Centre Back,right,NEC Nijmegen,6,3,nan,nan,125,Team Raiola
+9,581669,CJ Egan-Riley,"['Jan', '2', '2003']",183.0,England,Defender Centre Back,right,Hibernian FC,1,3,nan,nan,94,
+10,105470,Alisson,"['Oct', '2', '1992']",193.0,Brazil,Goalkeeper,right,Liverpool,1,1,331,153,353,NWS - Neis World ...
+11,340918,Caoimhín Kelleher,"['Nov', '23', '1998']",188.0,Ireland,Goalkeeper,right,Liverpool,-,1,104,22,72,CAA Stellar
+12,85864,Loris Karius,"['Jun', '22', '1993']",191.0,Germany,Goalkeeper,right,Newcastle,-,-,320,79,249,ROGON
+13,71271,Adrián,"['Jan', '3', '1987']",190.0,Spain,Goalkeeper,right,Liverpool,-,-,372,80,269,Bahía Internacional
+14,662334,Marcelo Pitaluga,"['Dec', '20', '2002']",193.0,Brazil,Goalkeeper,right,Macclesfield,-,-,58,8,34,
+15,494284,Liam Hughes,"['Aug', '19', '2001']",193.0,Northern Ireland,Goalkeeper,right,Liverpool U21,-,-,14,2,9,CAA Base Ltd
+16,706815,Harvey Davies,"['Sep', '3', '2003']",190.0,England,Goalkeeper,left,Liverpool U21,-,-,79,18,60,Unique Sports Group
+17,139208,Virgil van Dijk,"['Jul', '8', '1991']",193.0,Netherlands,Defender Centre Back,right,Liverpool,49,24,nan,nan,487,ROOF
+18,357119,Ibrahima Konaté,"['May', '25', '1999']",194.0,France,Defender Centre Back,right,Liverpool,8,2,nan,nan,163,CAA Stellar
+19,256178,Joe Gomez,"['May', '23', '1997']",188.0,England,Defender Centre Back,right,Liverpool,1,7,nan,nan,205,Wasserman
+20,442531,Edouard Mendy,"['Mar', '1', '1992']",194.0,Senegal,Goalkeeper,right,Chelsea,-,-,217,101,234,LIAN Sports Group
+21,192279,Kepa Arrizabalaga,"['Oct', '3', '1994']",186.0,Spain,Goalkeeper,right,Chelsea,-,1,347,112,325,AC Talent
+22,116648,Marcus Bettinelli,"['May', '24', '1992', 'Happy', 'Birthday']",193.0,England,Goalkeeper,right,Chelsea,-,1,318,74,257,World in Motion
+23,490606,Lucas Bergström,"['Sep', '5', '2002']",205.0,Finland,Goalkeeper,right,Chelsea U21,-,-,122,14,78,CAA Stellar
+24,731466,Teddy Sharman-Lowe,"['Mar', '30', '2003']",189.0,England,Goalkeeper,right,Havant & Water.,-,-,87,4,47,10Ten Football
+25,86202,Antonio Rüdiger,"['Mar', '3', '1993']",190.0,Germany,Defender Centre Back,right,Real Madrid,26,13,nan,nan,476,FSB – ...
+26,196948,Andreas Christensen,"['Apr', '10', '1996']",187.0,Denmark,Defender Centre Back,right,Barcelona,14,11,nan,nan,339,KIN Partners
+27,157509,Kurt Zouma,"['Oct', '27', '1994']",190.0,France,Defender Centre Back,right,West Ham,20,10,nan,nan,365,
+28,346314,Trevoh Chalobah,"['Jul', '5', '1999']",192.0,England,Defender Centre Back,right,Chelsea,13,9,nan,nan,247,CAA Base Ltd
+29,344596,Malang Sarr,"['Jan', '23', '1999']",183.0,France,Defender Centre Back,left,Monaco,5,3,nan,nan,189,P&P Sport ...
