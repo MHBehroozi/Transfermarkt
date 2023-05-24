@@ -243,7 +243,7 @@ def create_player_detial_dataframe (id): # id is for returning an eeror
     print(detail_link_format.format(id)+" detail table not found!")
 
   # find column names
-  column_values=[]
+  column_values=['player_id']
   try:
     header = detail_page.find('table', class_='items').find('thead').find('tr').find_all('th')
     for th in header:
@@ -265,6 +265,7 @@ def create_player_detial_dataframe (id): # id is for returning an eeror
     rows = detail_page.find('table', class_='items').find('tbody').find_all('tr')
     for row in rows:
       table_row = []
+      table_row.append(id)
       for section in row.find_all('td'):
         if section.text !='':
           table_row.append(section.text)
@@ -277,7 +278,10 @@ def create_player_detial_dataframe (id): # id is for returning an eeror
   except:
     print(detail_link_format.format(id)+" table row not found!")
 
+  return detail_table
+
   #find total row and add to dataframe
+  '''
   total = []
   try:
     total_row = detail_page.find('table', class_='items').find('tfoot').find('tr').find_all('td')
@@ -290,7 +294,7 @@ def create_player_detial_dataframe (id): # id is for returning an eeror
   except:
     print(detail_link_format.format(id)+" total row not found!")
   detail_table.loc[len(detail_table.index)]= total
-
+  '''
   return detail_table
 
 
@@ -514,7 +518,7 @@ def find_player_info(link):
   #transfer table
   
 
-  return player, player_transfer_history_dataframe(page, link)
+  return player, player_transfer_history_dataframe(page, link) , create_player_detial_dataframe(player_id(link))
 
 
 # + [markdown] id="lAIEnoCOawG8"
@@ -680,16 +684,61 @@ transfer_table.to_csv('trasnfer_table.csv', encoding='utf-8')
 # # Test area
 
 # + id="b81_gHjy0vHF"
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (HTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
-    'Accept-Language' : 'en-US,en;q=0.9'
-}
+def test (id): # id is for returning an eeror 
+  detail_page = detail_page_request(id)
+  detail_link_format = 'https://www.transfermarkt.com/ruben-dias/leistungsdatendetails/spieler/{}/saison//verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1'
+  # find table in html
+  try:
+    table = detail_page.find('table', class_='items')
+  except:
+    print(detail_link_format.format(id)+" detail table not found!")
 
-#player_page_link = 'https://www.transfermarkt.com/ruben-dias/profil/spieler/258004'
-player_page_link = 'https://www.transfermarkt.com/erling-haaland/profil/spieler/418560'
-page = requests.get(player_page_link, headers=headers)
-page = BeautifulSoup(page.content, 'html.parser')
-print(current_club(page,player_page_link))
+  # find column names
+  column_values=['player_id']
+  try:
+    header = detail_page.find('table', class_='items').find('thead').find('tr').find_all('th')
+    for th in header:
+      if th['id'] == 'yw1_c2':
+        continue
+      try:
+        column_values.append(th.find('a').find('span')['title'])
+      except:
+        column_values.append(th.text)
+    #print(column_values)
+  except:
+    print(detail_link_format.format(id)+" table column_value found!")
+
+  # creat data frame 
+  detail_table= pd.DataFrame(columns = column_values)
+
+  # find table rows and add to dataframe 
+  try:
+    rows = detail_page.find('table', class_='items').find('tbody').find_all('tr')
+    for row in rows:
+      table_row = []
+      table_row.append(id)
+      for section in row.find_all('td'):
+        if section.text !='':
+          table_row.append(section.text)
+        else:
+          try:
+            table_row.append(section.a['title'])
+          except:
+            continue
+      detail_table.loc[len(detail_table.index)]= table_row  
+  except:
+    print(detail_link_format.format(id)+" table row not found!")
+
+  return detail_table
+
+
+# + id="LAYf53cFnMMG"
+id = ['357885', '120629']
+table = pd.DataFrame()
+for i in id:
+  table = pd.concat([table, test(i)], axis=0)
+table.head
+table.to_csv('stat_test1.csv', encoding='utf-8')
 
 
 # + [markdown] id="eTlA_fkhmllh"
@@ -794,10 +843,12 @@ transfer_table_culomns = ['player_id', 'Season', 'Date', 'Left', 'Joined', 'MV',
 
 player = pd.DataFrame(columns = player_table_culomns)
 transfer = pd.DataFrame(columns = transfer_table_culomns)
+statistics = pd.DataFrame()
 
 #final tables (all datas from players)
 player_table = pd.DataFrame(columns = player_table_culomns)
 transfer_table = pd.DataFrame(columns = transfer_table_culomns)
+statistics_table= pd.DataFrame()
 
 
 for c_id in tqdm(country_id, desc ="countries"):
@@ -825,10 +876,11 @@ for c_id in tqdm(country_id, desc ="countries"):
               player_count+=1
               #print ('new id added','   ',player_count,'  ', player_id(player_link))
               player_ids.append(player_id(player_link))
-              player, transfer = find_player_info(player_link)
+              player, transfer, statistics = find_player_info(player_link)
               
               player_table.loc[len(player_table.index)]= player
               transfer_table = pd.concat([transfer_table, transfer], axis=0)
+              statistics_table = pd.concat([statistics_table, statistics], axis=0)
             else:
               print(player_link + ' duplicate id found and skiped')
             continue
@@ -840,6 +892,7 @@ for c_id in tqdm(country_id, desc ="countries"):
 
 player_table.to_csv('test_player_table.csv', encoding='utf-8')
 transfer_table.to_csv('test_trasnfer_table.csv', encoding='utf-8')
+statistics_table.to_csv('test_statistics_table.csv', encoding='utf-8')
 #df.to_csv(file_name, sep='\t', encoding='utf-8')
 
     
