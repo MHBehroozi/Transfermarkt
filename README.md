@@ -36,5 +36,5 @@ This team has completed the project under the mentoring of [Mr. Abdolkarimi, You
     <li><a href = 'https://github.com/fatememousavi97'> خانم فاطمه موسوی </a></li>
   </ul>
  <p dir=rtl style="text-align:justify">
-  این تیم پروژه را تحت منتورینگ آقای یوسف عبدالکریمی تکمیل کرده است.
+  این تیم، پروژه را تحت منتورینگ <a href='https://github.com/josefkarimi'>آقای یوسف عبدالکریمی</a> تکمیل کرده است.
   </p>
