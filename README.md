@@ -19,7 +19,7 @@ This team has completed the project under the mentoring of [Mr. Abdolkarimi, You
 
 <p dir=rtl style="text-align:justify">
   <b>
-ریپازیتوری برای اولی پروژه کارآموزی بوت کمپ تحلیل داده کوئرا
+ریپازیتوری برای اولین پروژه کارآموزی بوت کمپ تحلیل داده کوئرا
   </b><br><br>
   بوت کمپ تحلیل داده کوئرا به مدت 10 هفته از فروردین تا خرداد سال 1402 برگزار شده است. در این بوت کمپ ما مهارتهای فنی و مهارتهای نرم را یاد گرفتیم تا آماده کار کردن به عنوان تحلیلگر داده در بازار و صنعت باشیم.
   <br><br>
@@ -36,5 +36,5 @@ This team has completed the project under the mentoring of [Mr. Abdolkarimi, You
     <li><a href = 'https://github.com/fatememousavi97'> خانم فاطمه موسوی </a></li>
   </ul>
  <p dir=rtl style="text-align:justify">
-  این تیم پروژه را تحت منتورینگ آقای یوسف عبدالکریمی تکمیل کرده است.
+  این تیم، پروژه را تحت منتورینگ <a href='https://github.com/josefkarimi'>آقای یوسف عبدالکریمی</a> تکمیل کرده است.
   </p>
