@@ -1,0 +1,1520 @@
+,player_id,name,birth_date,height,current_international,main_position,foot,current_club,goals_scored,goals_assisted,goals_conceded,clean_sheets,total_appearence,agent
+0,108390,Thibaut Courtois,"['May', '11', '1992']",200.0,Belgium,Goalkeeper,left,Real Madrid,-,1,542,239,580,Christophe Henrotay
+1,404839,Andriy Lunin,"['Feb', '11', '1999']",191.0,Ukraine,Goalkeeper,right,Real Madrid,-,-,124,34,107,Relatives
+2,623525,Luis López,"['May', '8', '2001']",193.0,Spain,Goalkeeper,left,RM Castilla,-,-,37,6,30,Best of You
+3,623526,Toni Fuidias,"['Apr', '15', '2001']",195.0,Spain,Goalkeeper,right,Girona,-,1,57,8,43,Relatives
+4,926850,Diego Piñeiro,"['Feb', '13', '2004']",,Spain,Goalkeeper,,Real Madrid U19,-,-,13,3,10,Manuel García ...
+5,401530,Éder Militão,"['Jan', '18', '1998']",186.0,Brazil,Defender Centre Back,right,Real Madrid,19,9,nan,nan,224,UJ Football Talent
+6,59016,David Alaba,"['Jun', '24', '1992']",180.0,Austria,Defender Centre Back,left,Real Madrid,49,73,nan,nan,604,Relatives
+7,58884,Nacho Fernández,"['Jan', '18', '1990']",180.0,Spain,Defender Centre Back,right,Real Madrid,20,9,nan,nan,427,Niagara Sports ...
+8,251896,Jesús Vallejo,"['Jan', '5', '1997']",184.0,Spain,Defender Centre Back,right,Real Madrid,3,3,nan,nan,170,
+9,618341,Mario Gila,"['Aug', '29', '2000']",185.0,Spain,Defender Centre Back,right,Lazio,6,3,nan,nan,90,Footfeel ISM
+10,662261,Rafa Marín,"['May', '19', '2002']",191.0,Spain,Defender Centre Back,right,RM Castilla,3,1,nan,nan,64,LEADERBROCK
+11,291417,Ferland Mendy,"['Jun', '8', '1995']",180.0,France,Defender Left Back,left,Real Madrid,10,23,nan,nan,262,FS Management
+12,525299,Miguel Gutiérrez,"['Jul', '27', '2001']",180.0,Spain,Defender Left Back,left,Girona,9,15,nan,nan,91,Wasserman
+13,44501,Marcelo,"['May', '12', '1988']",174.0,Brazil,Defender Left Back,left,Fluminense,45,103,nan,nan,576,Relatives
+14,138927,Daniel Carvajal,"['Jan', '11', '1992']",173.0,Spain,Defender Right Back,right,Real Madrid,11,76,nan,nan,477,Ginés Carvajal
+15,221316,Lucas Vázquez,"['Jul', '1', '1991']",173.0,Spain,Defender Right Back,right,Real Madrid,52,77,nan,nan,440,AC Talent
+16,280730,Álvaro Odriozola,"['Dec', '14', '1995']",176.0,Spain,Defender Right Back,right,Real Madrid,9,27,nan,nan,231,Best of You
+17,537759,Sergio Santos,"['Jan', '3', '2001']",180.0,Spain,Defender Right Back,right,CD Mirandés,2,4,nan,nan,67,Epic Sports
+18,16306,Casemiro,"['Feb', '23', '1992']",185.0,Brazil,midfield Defensive Midfield,right,Man Utd,49,48,nan,nan,515,Best of You
+19,495621,Antonio Blanco,"['Jul', '23', '2000']",176.0,Spain,midfield Defensive Midfield,right,Alavés,2,4,nan,nan,109,
+20,369081,Federico Valverde,"['Jul', '22', '1998']",182.0,Uruguay,midfield Central Midfield,right,Real Madrid,21,18,nan,nan,276,Wasserman
+21,640428,Eduardo Camavinga,"['Nov', '10', '2002']",182.0,France,midfield Central Midfield,left,Real Madrid,4,9,nan,nan,184,CAA Stellar
+22,31909,Toni Kroos,"['Jan', '4', '1990']",183.0,Germany,midfield Central Midfield,right,Real Madrid,72,155,nan,nan,702,Sports360 GmbH
+23,319745,Dani Ceballos,"['Aug', '7', '1996']",179.0,Spain,midfield Central Midfield,right,Real Madrid,15,25,nan,nan,303,Relatives
+24,27992,Luka Modric,"['Sep', '9', '1985']",172.0,Croatia,midfield Central Midfield,right,Real Madrid,76,123,nan,nan,718,Universal Twenty Two
+25,85288,Isco,"['Apr', '21', '1992']",176.0,Spain,midfield Attacking Midfield,right,Without Club,74,70,nan,nan,487,Gestifute
+26,371998,Vinicius Junior,"['Jul', '12', '2000']",176.0,Brazil,Attack Left Winger,right,Real Madrid,73,69,nan,nan,278,TFM Agency
+27,50202,Eden Hazard,"['Jan', '7', '1991']",175.0,Belgium,Attack Left Winger,right,Real Madrid,167,157,nan,nan,623,Relatives
+28,412363,Rodrygo,"['Jan', '9', '2001']",174.0,Brazil,Attack Right Winger,right,Real Madrid,46,37,nan,nan,214,Un1que Football
+29,296622,Marco Asensio,"['Jan', '21', '1996']",182.0,Spain,Attack Right Winger,left,Real Madrid,72,56,nan,nan,377,Gestifute
+30,39381,Gareth Bale,"['Jul', '16', '1989']",186.0,Wales,Attack Right Winger,left,Retired,186,137,nan,nan,554,CAA Stellar
+31,710004,Peter González,"['Jul', '25', '2002']",180.0,Dominican Republic,Attack Right Winger,left,RM Castilla,12,15,nan,nan,104,
+32,18922,Karim Benzema,"['Dec', '19', '1987']",185.0,France,Attack Centre Forward,right,Real Madrid,418,192,nan,nan,794,
+33,257462,Luka Jovic,"['Dec', '23', '1997']",182.0,Serbia,Attack Centre Forward,both,Fiorentina,72,26,nan,nan,261,LIAN Sports Group
+34,225020,Mariano Díaz,"['Aug', '1', '1993']",180.0,Dominican Republic,Attack Centre Forward,right,Real Madrid,84,12,nan,nan,225,YOU FIRST
+35,623521,Juanmi Latasa,"['Mar', '23', '2001']",192.0,Spain,Attack Centre Forward,left,Getafe,23,1,nan,nan,77,Niagara Sports ...
+36,74857,Marc-André ter Stegen,"['Apr', '30', '1992']",187.0,Germany,Goalkeeper,right,Barcelona,-,1,555,233,574,ROOF
+37,283170,Iñaki Peña,"['Mar', '2', '1999']",184.0,Spain,Goalkeeper,right,Barcelona,-,-,82,32,85,INTEGRAL ADVISING ...
+38,111819,Neto,"['Jul', '19', '1989']",190.0,Brazil,Goalkeeper,right,Bournemouth,-,-,310,97,288,Bertolucci Sports
+39,466783,Arnau Tenas,"['May', '30', '2001']",185.0,Spain,Goalkeeper,right,Barça Atlètic,-,1,77,24,70,"Puyol, De la Peña ..."
+40,344457,Lazar Carevic,"['Mar', '16', '1999']",195.0,Montenegro,Goalkeeper,right,Vojvodina,-,-,134,42,135,Igor Gluscevic
+41,480267,Ronald Araújo,"['Mar', '7', '1999']",188.0,Uruguay,Defender Centre Back,right,Barcelona,19,8,nan,nan,202,Excellence Sport
+42,466794,Eric García,"['Jan', '9', '2001']",182.0,Spain,Defender Centre Back,right,Barcelona,7,4,nan,nan,151,"Puyol, De la Peña ..."
+43,182904,Clément Lenglet,"['Jun', '17', '1995']",186.0,France,Defender Centre Back,left,Tottenham,14,8,nan,nan,353,Wasserman
+44,331505,Óscar Mingueza,"['May', '13', '1999']",184.0,Spain,Defender Centre Back,right,Celta de Vigo,2,9,nan,nan,142,TACTIC GRUP - ...
+45,18944,Gerard Piqué,"['Feb', '2', '1987']",194.0,Spain,Defender Centre Back,right,Retired,58,14,nan,nan,667,AC Talent
+46,126540,Samuel Umtiti,"['Nov', '14', '1993']",182.0,France,Defender Centre Back,left,Lecce,7,4,nan,nan,326,AC Talent
+47,388542,Arnau Comas,"['Apr', '11', '2000']",191.0,Spain,Defender Centre Back,right,FC Basel,4,1,nan,nan,110,Wasserman
+48,617060,Mika Mármol,"['Jul', '1', '2001']",182.0,Spain,Defender Centre Back,left,FC Andorra,3,3,nan,nan,110,TACTIC GRUP - ...
+49,69751,Jordi Alba,"['Mar', '21', '1989']",170.0,Spain,Defender Left Back,left,Barcelona,37,107,nan,nan,604,InterStarDeporte
+50,636688,Alejandro Balde,"['Oct', '18', '2003']",175.0,Spain,Defender Left Back,left,Barcelona,1,10,nan,nan,85,Gestifute
+51,476344,Emerson Royal,"['Jan', '14', '1999']",183.0,Brazil,Defender Right Back,right,Tottenham,9,13,nan,nan,183,
+52,361104,Sergiño Dest,"['Nov', '3', '2000']",171.0,United States,Defender Right Back,right,AC Milan,11,20,nan,nan,200,CAA Stellar
+53,85370,Sergi Roberto,"['Feb', '7', '1992']",178.0,Spain,Defender Right Back,right,Barcelona,23,43,nan,nan,453,TACTIC GRUP - ...
+54,15951,Dani Alves,"['May', '6', '1983']",172.0,Brazil,Defender Right Back,right,Without Club,60,178,nan,nan,859,"Flashforward, S.L."
+55,331508,Guillem Jaime,"['Jan', '6', '1999']",177.0,Spain,Defender Right Back,right,Intercity,5,11,nan,nan,134,TACTIC GRUP - ...
+56,65230,Sergio Busquets,"['Jul', '16', '1988']",189.0,Spain,midfield Defensive Midfield,right,Barcelona,18,45,nan,nan,723,TACTIC GRUP - ...
+57,388548,Jandro Orellana,"['Aug', '7', '2000']",176.0,Spain,midfield Defensive Midfield,right,FC Andorra,1,7,nan,nan,111,AC Talent
+58,466806,Álvaro Sanz,"['Feb', '14', '2001']",170.0,Spain,midfield Defensive Midfield,right,CD Mirandés,2,4,nan,nan,90,Wasserman
+59,683840,Pedri,"['Nov', '25', '2002']",174.0,Spain,midfield Central Midfield,right,Barcelona,20,15,nan,nan,146,LEADERBROCK
+60,326330,Frenkie de Jong,"['May', '12', '1997']",181.0,Netherlands,midfield Central Midfield,right,Barcelona,35,47,nan,nan,348,HCM Sports ...
+61,646740,Gavi,"['Aug', '5', '2004']",173.0,Spain,midfield Central Midfield,right,Barcelona,4,12,nan,nan,97,"Puyol, De la Peña ..."
+62,466805,Nico González,"['Jan', '3', '2002']",188.0,Spain,midfield Central Midfield,right,Valencia,5,5,nan,nan,101,Gestifute
+63,44162,Miralem Pjanic,"['Apr', '2', '1990']",178.0,Bosnia-Herzegovina,midfield Central Midfield,right,Sharjah FC,77,117,nan,nan,603,LIAN Sports Group
+64,331511,Riqui Puig,"['Aug', '13', '1999']",169.0,Spain,midfield Central Midfield,right,Los Angeles,11,18,nan,nan,148,AC Talent
+65,388555,Lucas de Vega,"['Jan', '16', '2000']",180.0,Brazil,midfield Central Midfield,right,Atl. Baleares,4,5,nan,nan,93,GLOBAL ASES
+66,466810,Ansu Fati,"['Oct', '31', '2002']",178.0,Spain,Attack Left Winger,right,Barcelona,30,13,nan,nan,116,Relatives
+67,398184,Ferran Torres,"['Feb', '29', '2000']",182.0,Spain,Attack Left Winger,right,Barcelona,40,30,nan,nan,221,LEADERBROCK
+68,80444,Philippe Coutinho,"['Jun', '12', '1992']",172.0,Brazil,Attack Left Winger,right,Aston Villa,107,78,nan,nan,468,Sports Invest UK ltd
+69,724520,Abde Ezzalzouli,"['Dec', '17', '2001']",177.0,Morocco,Attack Left Winger,right,CA Osasuna,12,9,nan,nan,86,INTEGRAL ADVISING ...
+70,913539,Estanis Pedrola,"['Aug', '24', '2003']",185.0,Spain,Attack Left Winger,right,Barça Atlètic,9,1,nan,nan,32,EMG Mundial
+71,288230,Ousmane Dembélé,"['May', '15', '1997']",178.0,France,Attack Right Winger,both,Barcelona,62,68,nan,nan,262,Relatives
+72,204103,Adama Traoré,"['Jan', '25', '1996']",178.0,Spain,Attack Right Winger,right,Wolves,31,59,nan,nan,372,Gestifute
+73,548031,Yusuf Demir,"['Jun', '2', '2003']",173.0,Austria,Attack Right Winger,left,Galatasaray,18,7,nan,nan,97,SBE Management AG
+74,709969,Ilias Akhomach,"['Apr', '16', '2004']",175.0,Spain,Attack Right Winger,left,Barça Atlètic,5,-,nan,nan,54,
+75,125781,Antoine Griezmann,"['Mar', '21', '1991']",176.0,France,Attack Second Striker,left,Atlético Madrid,242,108,nan,nan,642,BY AND FOR
+76,167850,Memphis Depay,"['Feb', '13', '1994']",178.0,Netherlands,Attack Centre Forward,right,Atlético Madrid,163,96,nan,nan,428,TEAM DEPAY
+77,58864,Pierre-Emerick Aubameyang,"['Jun', '18', '1989']",186.0,Gabon,Attack Centre Forward,right,Chelsea,315,93,nan,nan,630,Premier Sports ...
+78,95732,Martin Braithwaite,"['Jun', '5', '1991']",177.0,Denmark,Attack Centre Forward,right,Espanyol,104,45,nan,nan,436,HCM Sports ...
+79,72522,Luuk de Jong,"['Aug', '27', '1990']",188.0,Netherlands,Attack Centre Forward,right,PSV Eindhoven,226,116,nan,nan,562,V4S
+80,599231,Ferran Jutglà,"['Feb', '1', '1999']",175.0,Spain,Attack Centre Forward,right,Club Brugge,48,17,nan,nan,141,YOU FIRST
+81,308278,Rey Manaj,"['Feb', '24', '1997']",182.0,Albania,Attack Centre Forward,right,Without Club,51,3,nan,nan,213,Niagara Sports ...
+82,26399,Sergio Agüero,"['Jun', '2', '1988']",173.0,Argentina,Attack Centre Forward,right,Retired,385,119,nan,nan,685,Eleven Talent Group
+83,121483,Jan Oblak,"['Jan', '7', '1993']",188.0,Slovenia,Goalkeeper,right,Atlético Madrid,-,1,408,235,503,Miha Mlakar
+84,127181,Benjamin Lecomte,"['Apr', '26', '1991']",186.0,France,Goalkeeper,left,Montpellier,-,2,406,102,337,
+85,226073,Ivo Grbic,"['Jan', '18', '1996']",195.0,Croatia,Goalkeeper,right,Atlético Madrid,-,-,151,39,142,
+86,461613,Christian Gómez,"['May', '18', '2000']",187.0,Spain,Goalkeeper,right,CD Leganés B,-,-,23,3,16,Relatives
+87,618801,Alejandro Iturbe,"['Sep', '2', '2003']",186.0,Spain,Goalkeeper,right,Atl. Madrid B,-,-,34,14,34,
+88,930415,Antonio Gomis,"['May', '20', '2003']",,Spain,Goalkeeper,left,Atl. Madrid B,-,-,19,6,18,
+89,250845,José María Giménez,"['Jan', '20', '1995']",185.0,Uruguay,Defender Centre Back,right,Atlético Madrid,12,10,nan,nan,299,VIDA 11
+90,281769,Mario Hermoso,"['Jun', '18', '1995']",184.0,Spain,Defender Centre Back,left,Atlético Madrid,13,9,nan,nan,256,Gesport Espizua SL
+91,107010,Stefan Savic,"['Jan', '8', '1991']",187.0,Montenegro,Defender Centre Back,right,Atlético Madrid,10,7,nan,nan,446,Zarko Pelicic
+92,491693,Nehuén Pérez,"['Jun', '24', '2000']",184.0,Argentina,Defender Centre Back,right,Udinese Calcio,5,1,nan,nan,111,Universal Twenty Two
+93,156501,Felipe,"['May', '16', '1989']",190.0,Brazil,Defender Centre Back,right,Nottm Forest,19,11,nan,nan,374,Bertolucci Sports
+94,534376,Marco Moreno,"['Feb', '20', '2001']",191.0,Spain,Defender Centre Back,right,Atl. Madrid B,4,-,nan,nan,49,NLN SPORT MANAGEMENT
+95,784717,Fran González,"['Aug', '13', '1998']",190.0,Spain,Defender Centre Back,right,Atl. Madrid B,-,-,nan,nan,36,Eloísa López
+96,628464,Manu Lama,"['Feb', '12', '2001']",192.0,Spain,Defender Centre Back,right,CF Fuenlabrada,1,-,nan,nan,25,
+97,537458,Joan Rojas,"['Jan', '14', '2000']",185.0,Spain,Defender Centre Back,left,Calahorra,2,1,nan,nan,65,Goal Management
+98,668273,Ibra Cámara,"['Jan', '18', '2003']",181.0,Spain,Defender Centre Back,,Atl. Madrid B,-,-,nan,nan,12,ROOF Talents
+99,476352,Renan Lodi,"['Apr', '8', '1998']",173.0,Brazil,Defender Left Back,left,Nottm Forest,11,19,nan,nan,199,
+100,240692,Reinildo Mandava,"['Jan', '21', '1994']",180.0,Mozambique,Defender Left Back,left,Atlético Madrid,7,1,nan,nan,208,Blueprivate ...
+101,95810,Kieran Trippier,"['Sep', '19', '1990']",173.0,England,Defender Right Back,right,Newcastle,13,87,nan,nan,496,CAA Base Ltd
+102,63463,Daniel Wass,"['May', '31', '1989']",178.0,Denmark,Defender Right Back,right,Bröndby IF,62,61,nan,nan,561,CAA Stellar
+103,76061,Sime Vrsaljko,"['Jan', '10', '1992']",181.0,Croatia,Defender Right Back,right,Retired,4,38,nan,nan,317,Universal Twenty Two
+104,379632,Sergio Camus,"['Apr', '19', '1997']",176.0,Spain,Defender Right Back,right,Atl. Madrid B,-,-,nan,nan,95,EGGO Asesores ...
+105,935456,Sergio Diez,"['Jul', '28', '2003']",178.0,Spain,Defender Right Back,right,Atl. Madrid B,2,2,nan,nan,39,MESAS SPORT
+106,127189,Geoffrey Kondogbia,"['Feb', '15', '1993']",188.0,Central African Republic,midfield Defensive Midfield,left,Atlético Madrid,15,21,nan,nan,396,Sport Cover
+107,282411,Marcos Llorente,"['Jan', '30', '1995']",184.0,Spain,midfield Central Midfield,right,Atlético Madrid,26,31,nan,nan,297,
+108,255901,Rodrigo de Paul,"['May', '24', '1994']",180.0,Argentina,midfield Central Midfield,right,Atlético Madrid,50,56,nan,nan,384,Augustin Jimenez
+109,74229,Koke,"['Jan', '8', '1992']",176.0,Spain,midfield Central Midfield,right,Atlético Madrid,54,111,nan,nan,650,Gesport Espizua SL
+110,148928,Saúl Ñíguez,"['Nov', '21', '1994']",184.0,Spain,midfield Central Midfield,left,Atlético Madrid,56,22,nan,nan,505,CAA Stellar
+111,122043,Héctor Herrera,"['Apr', '19', '1990']",180.0,Mexico,midfield Central Midfield,right,Houston,40,45,nan,nan,407,Ocelot Sports
+112,668177,Javi Serrano,"['Jan', '16', '2003']",178.0,Spain,midfield Central Midfield,right,UD Ibiza,1,-,nan,nan,45,YOU FIRST
+113,568149,Alberto Moreno,"['Apr', '19', '2002']",175.0,Spain,midfield Central Midfield,right,Atl. Madrid B,-,2,nan,nan,39,Footfeel ISM
+114,775605,Pablo Barrios,"['Jun', '15', '2003']",181.0,Spain,midfield Central Midfield,right,Atlético Madrid,5,2,nan,nan,45,CAA Stellar
+115,205562,Thomas Lemar,"['Nov', '12', '1995']",171.0,France,midfield Attacking Midfield,left,Atlético Madrid,33,59,nan,nan,337,Kemari
+116,140776,Yannick Carrasco,"['Sep', '4', '1993']",181.0,Belgium,Attack Left Winger,right,Atlético Madrid,90,85,nan,nan,418,Gol International
+117,266807,Ángel Correa,"['Mar', '9', '1995']",171.0,Argentina,Attack Right Winger,right,Atlético Madrid,79,76,nan,nan,434,Augustin Jimenez
+118,462250,João Félix,"['Nov', '10', '1999']",181.0,Portugal,Attack Second Striker,right,Chelsea,71,35,nan,nan,236,Gestifute
+119,517894,Matheus Cunha,"['May', '27', '1999']",183.0,Brazil,Attack Centre Forward,right,Wolves,41,30,nan,nan,199,Bertolucci Sports
+120,44352,Luis Suárez,"['Jan', '24', '1987']",182.0,Uruguay,Attack Centre Forward,right,Grêmio,456,249,nan,nan,737,Relatives
+121,505674,Sergio Camello,"['Feb', '10', '2001']",177.0,Spain,Attack Centre Forward,right,Rayo Vallecano,44,10,nan,nan,146,Best of You
+122,274347,Ivan Saponjic,"['Aug', '2', '1997']",190.0,Serbia,Attack Centre Forward,right,Bandirmaspor,49,15,nan,nan,218,Relatives
+123,742201,Giuliano Simeone,"['Dec', '18', '2002']",173.0,Argentina,Attack Centre Forward,right,Real Zaragoza,12,3,nan,nan,53,AC Talent
+124,618813,Carlos Martín,"['Apr', '22', '2002']",180.0,Spain,Attack Centre Forward,right,Atl. Madrid B,19,4,nan,nan,45,Antonio López ...
+125,229604,Gerónimo Rulli,"['May', '20', '1992']",189.0,Argentina,Goalkeeper,right,Ajax,-,-,380,131,355,CAA Stellar
+126,51710,Sergio Asenjo,"['Jun', '28', '1989']",189.0,Spain,Goalkeeper,right,Real Valladolid,-,-,453,122,380,
+127,547248,Iker Álvarez,"['Jul', '25', '2001']",190.0,Andorra,Goalkeeper,right,Villarreal CF B,-,-,55,15,44,Promoesport
+128,585323,Filip Jörgensen,"['Apr', '16', '2002']",190.0,Denmark,Goalkeeper,right,Villarreal,-,-,58,17,53,Goal Management
+129,399776,Pau Torres,"['Jan', '16', '1997']",191.0,Spain,Defender Centre Back,left,Villarreal,15,5,nan,nan,277,InterStarDeporte
+130,494880,Jorge Cuenca,"['Nov', '17', '1999']",190.0,Spain,Defender Centre Back,left,Villarreal,7,2,nan,nan,167,InterStarDeporte
+131,80293,Aïssa Mandi,"['Oct', '22', '1991']",184.0,Algeria,Defender Centre Back,right,Villarreal,24,16,nan,nan,397,Wasserman
+132,15452,Raúl Albiol,"['Sep', '4', '1985']",190.0,Spain,Defender Centre Back,right,Villarreal,22,11,nan,nan,707,Football Capital
+133,341263,Adrián de la Fuente,"['Feb', '26', '1999']",179.0,Spain,Defender Centre Back,right,Villarreal CF B,10,3,nan,nan,145,Gesport Espizua SL
+134,349599,Pervis Estupiñán,"['Jan', '21', '1998']",175.0,Ecuador,Defender Left Back,left,Brighton,7,23,nan,nan,273,Promoesport
+135,356197,Alfonso Pedraza,"['Apr', '9', '1996']",184.0,Spain,Defender Left Back,left,Villarreal,30,33,nan,nan,301,LEADERBROCK
+136,207917,Alberto Moreno,"['Jul', '5', '1992']",171.0,Spain,Defender Left Back,left,Villarreal,19,23,nan,nan,342,
+137,627282,Dani Tasende,"['Jul', '6', '2000']",172.0,Spain,Defender Left Back,left,Villarreal CF B,8,6,nan,nan,99,VIDA 11
+138,480763,Juan Foyth,"['Jan', '12', '1998']",187.0,Argentina,Defender Right Back,right,Villarreal,4,5,nan,nan,140,Primotempo
+139,127032,Serge Aurier,"['Dec', '24', '1992']",176.0,Cote d'Ivoire,Defender Right Back,right,Nottm Forest,22,47,nan,nan,379,
+140,73250,Mario Gaspar,"['Nov', '24', '1990']",180.0,Spain,Defender Right Back,right,Watford,11,26,nan,nan,532,Toreta d.o.o.
+141,238868,Rubén Peña,"['Jul', '18', '1991']",170.0,Spain,Defender Right Back,right,CA Osasuna,21,18,nan,nan,293,
+142,631098,Lanchi,"['Jun', '23', '2001']",,Spain,Defender Right Back,right,San Fernando CD,2,-,nan,nan,48,YOU FIRST
+143,74869,Francis Coquelin,"['May', '13', '1991']",177.0,France,midfield Defensive Midfield,right,Villarreal,11,11,nan,nan,414,One Team Football
+144,63494,Étienne Capoue,"['Jul', '11', '1988']",189.0,France,midfield Defensive Midfield,right,Villarreal,39,28,nan,nan,521,World Soccer Star ...
+145,65467,Vicente Iborra,"['Jan', '16', '1988']",190.0,Spain,midfield Defensive Midfield,right,Levante,57,24,nan,nan,551,Wasserman
+146,348795,Giovani Lo Celso,"['Apr', '9', '1996']",177.0,Argentina,midfield Central Midfield,left,Villarreal,35,38,nan,nan,284,DCGLOBALSL
+147,188854,Manu Trigueros,"['Oct', '17', '1991']",178.0,Spain,midfield Central Midfield,right,Villarreal,40,44,nan,nan,489,
+148,59561,Dani Parejo,"['Apr', '16', '1989']",182.0,Spain,midfield Central Midfield,right,Villarreal,94,104,nan,nan,669,AC Talent
+149,335225,Manu Morlanes,"['Jan', '12', '1999']",178.0,Spain,midfield Central Midfield,right,RCD Mallorca,7,8,nan,nan,169,Goal Management
+150,568156,Antonio Pacheco,"['Jan', '3', '2002']",184.0,Spain,midfield Central Midfield,right,Villarreal CF B,8,3,nan,nan,84,Wasserman
+151,627287,Carlo García,"['Feb', '12', '2001']",182.0,Spain,midfield Attacking Midfield,right,Villarreal CF B,6,4,nan,nan,94,Promoesport
+152,355861,Arnaut Danjuma,"['Jan', '31', '1997']",178.0,Netherlands,Attack Left Winger,right,Tottenham,75,36,nan,nan,229,Panthera Sports
+153,175449,Moi Gómez,"['Jun', '23', '1994']",176.0,Spain,Attack Left Winger,right,CA Osasuna,34,51,nan,nan,418,InterStarDeporte
+154,614464,Nikita Iosifov,"['Apr', '11', '2001']",175.0,Russia,Attack Left Winger,right,Villarreal CF B,12,13,nan,nan,102,CAA Stellar
+155,568157,Yéremy Pino,"['Oct', '20', '2002']",172.0,Spain,Attack Right Winger,right,Villarreal,18,12,nan,nan,120,CAA Stellar
+156,401922,Samuel Chukwueze,"['May', '22', '1999']",172.0,Nigeria,Attack Right Winger,left,Villarreal,41,33,nan,nan,224,10Management
+157,413262,Dani Raba,"['Oct', '29', '1995']",185.0,Spain,Attack Right Winger,left,CD Leganés,23,16,nan,nan,166,Antonio López ...
+158,177467,Gerard Moreno,"['Apr', '7', '1992']",180.0,Spain,Attack Centre Forward,left,Villarreal,170,54,nan,nan,418,YOU FIRST
+159,626913,Boulaye Dia,"['Nov', '16', '1996']",180.0,Senegal,Attack Centre Forward,right,Salernitana,68,16,nan,nan,183,Frederic Guerra ...
+160,126716,Paco Alcácer,"['Aug', '30', '1993']",175.0,Spain,Attack Centre Forward,right,Sharjah FC,133,50,nan,nan,392,Toldra Consulting ...
+161,627294,Fer Niño,"['Oct', '24', '2000']",191.0,Spain,Attack Centre Forward,right,Villarreal CF B,16,5,nan,nan,105,YOU FIRST
+162,776890,Nicolas Jackson,"['Jun', '20', '2001']",188.0,Senegal,Attack Centre Forward,right,Villarreal,18,15,nan,nan,88,Epic Sports
+163,461631,Juan Carlos Arana,"['Feb', '8', '2000']",182.0,Spain,Attack Centre Forward,right,SD Eibar,22,5,nan,nan,75,CAA Stellar
+164,207834,Bono,"['Apr', '5', '1991']",192.0,Morocco,Goalkeeper,left,Sevilla FC,1,2,360,114,316,no agent
+165,94308,Marko Dmitrović,"['Jan', '24', '1992']",189.0,Serbia,Goalkeeper,left,Sevilla FC,1,1,308,94,266,IDUB GLOBAL
+166,396107,Javi Díaz,"['May', '15', '1997']",185.0,Spain,Goalkeeper,right,CD Tenerife,-,-,47,17,48,Football Evolution
+167,537367,Alfonso Pastor,"['Oct', '4', '2000']",190.0,Spain,Goalkeeper,right,Castellón,-,-,114,28,86,Niagara Sur
+168,537369,Adrián González,"['Mar', '20', '2000']",188.0,Spain,Goalkeeper,right,Sevilla Atl.,-,-,5,2,6,380amk
+169,766552,Alberto Flores,"['Nov', '10', '2003']",187.0,Spain,Goalkeeper,left,Sevilla Atl.,-,-,34,16,40,YOU FIRST
+170,411975,Jules Koundé,"['Nov', '12', '1998']",180.0,France,Defender Centre Back,right,Barcelona,14,10,nan,nan,242,ESN
+171,329145,Diego Carlos,"['Mar', '15', '1993']",185.0,Brazil,Defender Centre Back,right,Aston Villa,12,1,nan,nan,299,Bertolucci Sports
+172,182579,Karim Rekik,"['Dec', '2', '1994']",186.0,Netherlands,Defender Centre Back,left,Sevilla FC,8,8,nan,nan,282,Juzzt Football
+173,766583,Kike Salas,"['Apr', '23', '2002']",188.0,Spain,Defender Centre Back,left,CD Tenerife,3,4,nan,nan,60,YOU FIRST
+174,60410,Marcos Acuña,"['Oct', '28', '1991']",172.0,Argentina,Defender Left Back,left,Sevilla FC,34,63,nan,nan,384,Eleven Talent Group
+175,170646,Ludwig Augustinsson,"['Apr', '21', '1994']",181.0,Sweden,Defender Left Back,left,RCD Mallorca,11,64,nan,nan,333,HCM Sports ...
+176,628923,Juan María Alcedo,"['Feb', '5', '2001']",179.0,Spain,Defender Left Back,left,Albacete,1,4,nan,nan,81,
+177,711628,Pablo Pérez,"['Aug', '18', '2001']",174.0,Spain,Defender Left Back,left,Sevilla Atl.,2,1,nan,nan,52,YOU FIRST
+178,402733,Gonzalo Montiel,"['Jan', '1', '1997']",175.0,Argentina,Defender Right Back,right,Sevilla FC,8,20,nan,nan,207,Interplayers
+179,341272,Alejandro Pozo,"['Feb', '22', '1999']",173.0,Spain,Defender Right Back,right,UD Almería,13,19,nan,nan,238,
+180,15956,Jesús Navas,"['Nov', '21', '1985']",172.0,Spain,Defender Right Back,right,Sevilla FC,44,156,nan,nan,827,Bahía Internacional
+181,537373,Valentino Fattore,"['Aug', '10', '2001']",178.0,Spain,Defender Right Back,right,Sevilla Atl.,9,3,nan,nan,82,RR-Soccer ...
+182,711625,José Ángel Carmona,"['Jan', '29', '2002']",184.0,Spain,Defender Right Back,right,Elche CF,3,2,nan,nan,61,380amk
+183,74294,Nemanja Gudelj,"['Nov', '16', '1991']",187.0,Serbia,midfield Defensive Midfield,right,Sevilla FC,43,36,nan,nan,475,Promoesport
+184,51174,Fernando,"['Jul', '25', '1987']",183.0,Brazil,midfield Defensive Midfield,right,Sevilla FC,22,27,nan,nan,578,no agent
+185,263727,Joan Jordán,"['Jul', '6', '1994']",185.0,Spain,midfield Central Midfield,right,Sevilla FC,34,24,nan,nan,397,LEADERBROCK
+186,214775,Óliver Torres,"['Nov', '10', '1994']",175.0,Spain,midfield Central Midfield,right,Sevilla FC,28,45,nan,nan,396,YOU FIRST
+187,32467,Ivan Rakitic,"['Mar', '10', '1988']",184.0,Croatia,midfield Central Midfield,right,Sevilla FC,120,131,nan,nan,810,AC Talent
+188,91849,Thomas Delaney,"['Sep', '3', '1991']",182.0,Denmark,midfield Central Midfield,left,TSG Hoffenheim,37,36,nan,nan,437,Elite Sports ...
+189,610238,Pedro Ortiz,"['Aug', '19', '2000']",184.0,Spain,midfield Central Midfield,left,Vizela,5,5,nan,nan,86,MagicPlayers
+190,284884,Óscar Rodríguez,"['Jun', '28', '1998']",174.0,Spain,midfield Attacking Midfield,right,Celta de Vigo,29,20,nan,nan,220,RR-Soccer ...
+191,536826,Nacho Quintana,"['Feb', '23', '2001']",178.0,Spain,midfield Attacking Midfield,right,Sevilla Atl.,9,6,nan,nan,79,380amk
+192,189441,Lucas Ocampos,"['Jul', '11', '1994']",187.0,Argentina,Attack Left Winger,both,Sevilla FC,91,46,nan,nan,464,Interplayers
+193,20005,Papu Gómez,"['Feb', '15', '1988']",167.0,Argentina,Attack Left Winger,right,Sevilla FC,115,114,nan,nan,633,Gr Sports
+194,241391,Oussama Idrissi,"['Feb', '26', '1996']",183.0,Morocco,Attack Left Winger,right,Feyenoord,72,53,nan,nan,310,
+195,125165,Tecatito,"['Jan', '6', '1993']",173.0,Mexico,Attack Right Winger,both,Sevilla FC,56,84,nan,nan,421,CANTERA LATINA / ...
+196,111630,Erik Lamela,"['Mar', '4', '1992']",184.0,Argentina,Attack Right Winger,left,Sevilla FC,74,72,nan,nan,430,Interplayers
+197,111961,Suso,"['Nov', '19', '1993']",177.0,Spain,Attack Right Winger,left,Sevilla FC,53,71,nan,nan,389,Promoesport
+198,676042,Juanlu Sánchez,"['Aug', '15', '2003']",186.0,Spain,Attack Right Winger,right,CD Mirandés,10,10,nan,nan,113,Promoesport
+199,610461,Luismi Cruz,"['May', '23', '2001']",166.0,Spain,Attack Right Winger,left,Barça Atlètic,14,18,nan,nan,93,YOU FIRST
+200,587562,Antonio Zarzana,"['Mar', '21', '2002']",177.0,Spain,Attack Right Winger,left,CD Numancia,3,5,nan,nan,66,Promoesport
+201,433049,Youssef En-Nesyri,"['Jun', '1', '1997']",192.0,Morocco,Attack Centre Forward,left,Sevilla FC,73,9,nan,nan,247,starbox
+202,361254,Rafa Mir,"['Jun', '18', '1997']",191.0,Spain,Attack Centre Forward,right,Sevilla FC,83,15,nan,nan,259,Gestifute
+203,182877,Anthony Martial,"['Dec', '5', '1995']",181.0,France,Attack Centre Forward,right,Man Utd,103,62,nan,nan,382,USFA Management
+204,223725,Munir El Haddadi,"['Sep', '1', '1995']",175.0,Morocco,Attack Centre Forward,left,Getafe,84,37,nan,nan,310,Feel Winner
+205,628886,Iván Romero,"['Apr', '10', '2001']",173.0,Spain,Attack Centre Forward,right,CD Tenerife,22,9,nan,nan,95,33 Sport
+206,212862,Álex Remiro,"['Mar', '24', '1995']",191.0,Spain,Goalkeeper,right,Real Sociedad,-,-,268,104,270,Feel Winner
+207,128969,Mathew Ryan,"['Apr', '8', '1992']",184.0,Australia,Goalkeeper,right,AZ Alkmaar,-,1,483,135,413,Beckster Int.
+208,561702,Gaizka Ayesa,"['Apr', '2', '2001']",182.0,Spain,Goalkeeper,right,CD Numancia,-,1,75,18,66,IDUB GLOBAL
+209,625657,Unai Marrero,"['Oct', '9', '2001']",189.0,Spain,Goalkeeper,right,Real Sociedad B,-,-,46,23,57,
+210,351809,Robin Le Normand,"['Nov', '11', '1996']",187.0,France,Defender Centre Back,right,Real Sociedad,8,7,nan,nan,259,AC Talent
+211,229804,Aritz Elustondo,"['Mar', '28', '1994']",182.0,Spain,Defender Centre Back,right,Real Sociedad,18,10,nan,nan,290,IDUB GLOBAL
+212,355628,Igor Zubeldia,"['Mar', '30', '1997']",181.0,Spain,Defender Centre Back,right,Real Sociedad,7,9,nan,nan,267,Wasserman
+213,580560,Jon Pacheco,"['Jan', '8', '2001']",184.0,Spain,Defender Centre Back,left,Real Sociedad,-,1,nan,nan,76,IDUB GLOBAL
+214,625651,Urko González,"['Mar', '20', '2001']",189.0,Spain,Defender Centre Back,right,Real Sociedad B,-,1,nan,nan,77,IDUB GLOBAL
+215,517842,Aihen Muñoz,"['Aug', '16', '1997']",175.0,Spain,Defender Left Back,left,Real Sociedad,1,3,nan,nan,147,YOU FIRST
+216,249513,Diego Rico,"['Feb', '23', '1993']",183.0,Spain,Defender Left Back,left,Real Sociedad,11,20,nan,nan,323,IDUB GLOBAL
+217,43003,Nacho Monreal,"['Feb', '26', '1986']",179.0,Spain,Defender Left Back,left,Retired,19,36,nan,nan,517,GLOBAL ASES
+218,674501,Jonathan Gómez,"['Sep', '1', '2003']",178.0,United States,Defender Left Back,left,Real Sociedad B,3,13,nan,nan,90,Octagon
+219,696890,Cristo Romero,"['Apr', '30', '2000']",174.0,Spain,Defender Left Back,left,Intercity,-,4,nan,nan,64,Best of You
+220,289255,Andoni Gorosabel,"['Aug', '4', '1996']",174.0,Spain,Defender Right Back,right,Real Sociedad,3,15,nan,nan,202,
+221,197135,Joseba Zaldua,"['Jun', '24', '1992']",174.0,Spain,Defender Right Back,right,Cádiz CF,4,17,nan,nan,297,IDUB GLOBAL
+222,434990,Álex Sola,"['Jun', '9', '1999']",178.0,Spain,Defender Right Back,right,Real Sociedad,5,5,nan,nan,131,LEADERBROCK
+223,423440,Martín Zubimendi,"['Feb', '2', '1999']",181.0,Spain,midfield Defensive Midfield,right,Real Sociedad,8,7,nan,nan,190,IDUB GLOBAL
+224,59344,Asier Illarramendi,"['Mar', '8', '1990']",179.0,Spain,midfield Defensive Midfield,right,Real Sociedad,19,19,nan,nan,407,Bahía Internacional
+225,338424,Mikel Merino,"['Jun', '22', '1996']",189.0,Spain,midfield Central Midfield,left,Real Sociedad,28,31,nan,nan,295,Bahía Internacional
+226,465967,Ander Guevara,"['Jul', '7', '1997']",180.0,Spain,midfield Central Midfield,right,Real Sociedad,3,2,nan,nan,173,YOU FIRST
+227,634431,Beñat Turrientes,"['Jan', '31', '2002']",181.0,Spain,midfield Central Midfield,right,Real Sociedad,1,3,nan,nan,62,IDUB GLOBAL
+228,289257,Jon Guridi,"['Feb', '28', '1995']",179.0,Spain,midfield Central Midfield,left,Alavés,17,12,nan,nan,223,IDUB GLOBAL
+229,625660,Jon Ander Olasagasti,"['Aug', '16', '2000']",176.0,Spain,midfield Central Midfield,,Real Sociedad B,11,5,nan,nan,95,IDUB GLOBAL
+230,129473,Rafinha,"['Feb', '12', '1993']",174.0,Brazil,midfield Attacking Midfield,left,Al-Arabi SC,43,48,nan,nan,333,The Player ...
+231,35518,David Silva,"['Jan', '8', '1986']",170.0,Spain,midfield Attacking Midfield,left,Real Sociedad,121,194,nan,nan,743,IFM
+232,563137,Robert Navarro,"['Apr', '12', '2002']",178.0,Spain,midfield Attacking Midfield,right,Real Sociedad,20,12,nan,nan,113,
+233,351478,Mikel Oyarzabal,"['Apr', '21', '1997']",181.0,Spain,Attack Left Winger,left,Real Sociedad,86,51,nan,nan,310,
+234,616369,Ander Barrenetxea,"['Dec', '27', '2001']",175.0,Spain,Attack Left Winger,right,Real Sociedad,12,5,nan,nan,119,Wasserman
+235,594926,Näis Djouahra,"['Nov', '23', '1999']",172.0,France,Attack Left Winger,right,HNK Rijeka,13,6,nan,nan,129,YOU FIRST
+236,177847,Adnan Januzaj,"['Feb', '5', '1995']",186.0,Belgium,Attack Right Winger,left,Basaksehir,42,46,nan,nan,328,Rafaela Pimenta
+237,99353,Portu,"['May', '21', '1992']",167.0,Spain,Attack Right Winger,right,Getafe,63,42,nan,nan,474,Wasserman
+238,548188,Germán Valera,"['Mar', '16', '2002']",170.0,Spain,Attack Right Winger,left,FC Andorra,11,4,nan,nan,109,Excellence Sport
+239,625658,Ander Martín,"['Nov', '16', '2000']",177.0,Spain,Attack Right Winger,left,Real Sociedad B,7,8,nan,nan,80,YOU FIRST
+240,349066,Alexander Isak,"['Sep', '21', '1999']",192.0,Sweden,Attack Centre Forward,right,Newcastle,92,21,nan,nan,241,Universal Twenty Two
+241,238407,Alexander Sørloth,"['Dec', '5', '1995']",195.0,Norway,Attack Centre Forward,left,Real Sociedad,104,41,nan,nan,326,Keypass AS
+242,216464,Carlos Fernández,"['May', '22', '1996']",185.0,Spain,Attack Centre Forward,left,Real Sociedad,67,11,nan,nan,254,Relatives
+243,711382,Jon Karrikaburu,"['Sep', '19', '2002']",183.0,Spain,Attack Centre Forward,right,CD Leganés,20,4,nan,nan,76,Bahía Internacional
+244,625654,Julen Lobete,"['Sep', '18', '2000']",177.0,Spain,Attack Centre Forward,right,RKC Waalwijk,21,13,nan,nan,118,Wasserman
+245,289236,Jon Bautista,"['Jul', '3', '1995']",180.0,Spain,Attack Centre Forward,right,SD Eibar,53,17,nan,nan,254,IDUB GLOBAL
+246,502676,Giorgi Mamardashvili,"['Sep', '29', '2000']",197.0,Georgia,Goalkeeper,left,Valencia,-,-,157,35,127,Free Football
+247,146227,Jasper Cillessen,"['Apr', '22', '1989']",187.0,Netherlands,Goalkeeper,right,NEC Nijmegen,-,-,352,117,325,SEG
+248,227805,Jaume Doménech,"['Nov', '5', '1990']",185.0,Spain,Goalkeeper,right,Valencia,-,1,211,51,173,Wasserman
+249,398131,Cristian Rivero,"['Mar', '21', '1998']",188.0,Spain,Goalkeeper,right,Valencia,-,-,117,22,87,INTEGRAL ADVISING ...
+250,707271,Charlie Pérez,"['Jun', '7', '2002']",,Spain,Goalkeeper,,Valencia B,-,-,5,-,3,PARRI GROUP
+251,353032,Omar Alderete,"['Dec', '26', '1996']",188.0,Paraguay,Defender Centre Back,left,Getafe,7,3,nan,nan,173,La Squadra Sports
+252,149498,Gabriel Paulista,"['Nov', '26', '1990']",187.0,Brazil,Defender Centre Back,right,Valencia,10,7,nan,nan,389,ADM Esporte
+253,346289,Mouctar Diakhaby,"['Dec', '19', '1996']",192.0,Guinea,Defender Centre Back,right,Valencia,15,4,nan,nan,227,VV Consulting
+254,298583,Eray Cömert,"['Feb', '4', '1998']",183.0,Switzerland,Defender Centre Back,right,Valencia,17,5,nan,nan,255,Libera Sports
+255,163086,Cristiano Piccini,"['Sep', '26', '1992']",189.0,Italy,Defender Centre Back,right,1.FC Magdeburg,12,11,nan,nan,317,CAA Base Ltd
+256,646750,Cristhian Mosquera,"['Jun', '27', '2004']",191.0,Spain,Defender Centre Back,right,Valencia B,-,-,nan,nan,21,INVSPORT (Sergio ...
+257,707274,César Tárrega,"['Feb', '26', '2002']",194.0,Spain,Defender Centre Back,right,Valencia B,1,-,nan,nan,32,Wasserman
+258,668212,Rubén Iranzo,"['Mar', '14', '2003']",182.0,Spain,Defender Centre Back,right,Valencia B,1,-,nan,nan,31,Promoesport
+259,221322,José Gayà,"['May', '25', '1995', 'Happy', 'Birthday']",172.0,Spain,Defender Left Back,left,Valencia,13,38,nan,nan,388,Toldra Consulting ...
+260,623024,Jesús Vázquez,"['Jan', '2', '2003']",182.0,Spain,Defender Left Back,left,Valencia,1,2,nan,nan,58,LEADERBROCK
+261,320271,Toni Lato,"['Nov', '21', '1997']",171.0,Spain,Defender Left Back,left,Valencia,5,8,nan,nan,165,Toldra Consulting ...
+262,367466,Thierry Correia,"['Mar', '9', '1999']",176.0,Portugal,Defender Right Back,right,Valencia,2,3,nan,nan,106,Gestifute
+263,170472,Dimitri Foulquier,"['Mar', '23', '1993']",183.0,Guadeloupe,Defender Right Back,right,Valencia,6,19,nan,nan,308,ACE
+264,589459,Joseda Menargues,"['May', '1', '2002']",181.0,Spain,Defender Right Back,right,UD Ibiza,4,1,nan,nan,54,Antonio López ...
+265,495629,Hugo Guillamón,"['Jan', '31', '2000']",178.0,Spain,midfield Defensive Midfield,right,Valencia,6,4,nan,nan,164,InterStarDeporte
+266,417575,Uros Racic,"['Mar', '17', '1998']",193.0,Serbia,midfield Defensive Midfield,both,SC Braga,14,7,nan,nan,221,Igor Gluscevic
+267,372246,Carlos Soler,"['Jan', '2', '1997']",180.0,Spain,midfield Central Midfield,right,Paris SG,48,36,nan,nan,306,Promoesport
+268,503991,Yunus Musah,"['Nov', '29', '2002']",178.0,United States,midfield Central Midfield,right,Valencia,11,6,nan,nan,148,Relatives
+269,617074,Ilaix Moriba,"['Jan', '19', '2003']",185.0,Guinea,midfield Central Midfield,right,Valencia,5,9,nan,nan,100,ROGON
+270,569375,Koba Koindredi,"['Oct', '27', '2001']",184.0,Neukaledonien,midfield Central Midfield,left,Real Oviedo,7,4,nan,nan,80,Team Spirit ...
+271,834764,Javi Guerra,"['May', '13', '2003']",187.0,Spain,midfield Central Midfield,right,Valencia B,2,1,nan,nan,34,INTEGRAL ADVISING ...
+272,944124,Lass Sangaré,"['Nov', '20', '2001']",183.0,Cote d'Ivoire,midfield Central Midfield,right,CF Talavera,1,-,nan,nan,32,SL Management Group
+273,941869,Yellu Santiago,"['May', '25', '2004', 'Happy', 'Birthday']",192.0,Spain,midfield Central Midfield,right,Valencia B,1,-,nan,nan,30,LEADERBROCK
+274,699771,Pedro Alemañ,"['Mar', '21', '2002']",182.0,Spain,midfield Attacking Midfield,left,Sparta R.,2,2,nan,nan,32,INTEGRAL ADVISING ...
+275,537382,Bryan Gil,"['Feb', '11', '2001']",175.0,Spain,Attack Left Winger,left,Sevilla FC,13,19,nan,nan,156,IFM
+276,527350,Manu Vallejo,"['Feb', '14', '1997']",167.0,Spain,Attack Left Winger,right,Real Oviedo,27,9,nan,nan,132,Promoesport
+277,98322,Denis Cheryshev,"['Dec', '26', '1990']",179.0,Russia,Attack Left Winger,left,Venezia,49,42,nan,nan,356,Eleven Talent Group
+278,328914,Álex Blanco,"['Dec', '16', '1998']",175.0,Spain,Attack Left Winger,left,Como,20,14,nan,nan,157,AC Talent
+279,173900,Hélder Costa,"['Jan', '12', '1994']",179.0,Angola,Attack Right Winger,left,Al-Ittihad Club,51,58,nan,nan,336,Gestifute
+280,263860,Jason,"['Jul', '6', '1994']",178.0,Spain,Attack Right Winger,right,Alavés,26,14,nan,nan,280,LEADERBROCK
+281,707279,Hugo González,"['Feb', '7', '2003']",,Spain,Attack Right Winger,,Valencia B,6,1,nan,nan,47,INTEGRAL ADVISING ...
+282,225122,Gonçalo Guedes,"['Nov', '29', '1996']",179.0,Portugal,Attack Second Striker,right,Benfica,66,65,nan,nan,340,Gestifute
+283,396894,Maxi Gómez,"['Aug', '14', '1996']",186.0,Uruguay,Attack Centre Forward,right,Trabzonspor,89,39,nan,nan,270,AIS Football
+284,573775,Hugo Duro,"['Nov', '10', '1999']",182.0,Spain,Attack Centre Forward,left,Valencia,39,10,nan,nan,151,MESAS SPORT
+285,481084,Marcos André,"['Oct', '20', '1996']",185.0,Brazil,Attack Centre Forward,right,Valencia,47,13,nan,nan,218,ADM PRO
+286,85383,Rubén Sobrino,"['Jun', '1', '1992']",185.0,Spain,Attack Centre Forward,right,Cádiz CF,37,22,nan,nan,299,LEADERBROCK
+287,617081,Diego López,"['May', '13', '2002']",,Spain,Attack Centre Forward,,Valencia B,6,2,nan,nan,30,Gelu Rodríguez
+288,941867,Mario Dominguez,"['Feb', '10', '2004']",175.0,Spain,Attack Centre Forward,,Valencia U19,-,-,nan,nan,11,LEADERBROCK
+289,234811,Rui Silva,"['Feb', '7', '1994']",191.0,Portugal,Goalkeeper,left,Real Betis,-,-,293,78,242,Team of Future
+290,101118,Joel Robles,"['Jun', '17', '1990']",197.0,Spain,Goalkeeper,right,Leeds,-,-,266,71,216,InterStarDeporte
+291,40423,Claudio Bravo,"['Apr', '13', '1983']",184.0,Chile,Goalkeeper,right,Real Betis,1,-,498,162,445,
+292,566666,Dani Rebollo,"['Dec', '10', '1999']",188.0,Spain,Goalkeeper,right,Dep. Aragón,1,-,90,19,70,CAA Stellar
+293,401624,Edgar González,"['Apr', '1', '1997']",193.0,Spain,Defender Centre Back,right,Real Betis,6,2,nan,nan,165,InterStarDeporte
+294,99922,Marc Bartra,"['Jan', '15', '1991']",184.0,Spain,Defender Centre Back,right,Trabzonspor,25,14,nan,nan,420,InterStarDeporte
+295,113133,Germán Pezzella,"['Jun', '27', '1991']",187.0,Argentina,Defender Centre Back,right,Real Betis,16,8,nan,nan,343,Guastadisegno
+296,27374,Sidnei,"['Aug', '23', '1989']",184.0,Brazil,Defender Centre Back,right,UD Las Palmas,17,10,nan,nan,363,YOU FIRST
+297,62920,Víctor Ruiz,"['Jan', '25', '1989']",184.0,Spain,Defender Centre Back,left,Real Betis,10,9,nan,nan,432,MagicPlayers
+298,531824,Kike Hermoso,"['Aug', '10', '1999']",190.0,Spain,Defender Centre Back,right,Vilafranquense,1,-,nan,nan,67,PROTIO SPORT
+299,193098,Álex Moreno,"['Jun', '8', '1993']",179.0,Spain,Defender Left Back,left,Aston Villa,21,31,nan,nan,372,Gol International
+300,341227,Juan Miranda,"['Jan', '19', '2000']",185.0,Spain,Defender Left Back,left,Real Betis,8,16,nan,nan,133,AC Talent
+301,388512,Marc Baró,"['Aug', '23', '1999']",184.0,Spain,Defender Left Back,left,Atl. Baleares,3,3,nan,nan,103,
+302,630998,José Calderón,"['Jan', '7', '2000']",170.0,Spain,Defender Left Back,left,Córdoba CF,3,8,nan,nan,80,Promoesport
+303,191217,Héctor Bellerín,"['Mar', '19', '1995']",178.0,Spain,Defender Right Back,right,Sporting CP,15,41,nan,nan,335,Goal Management
+304,135492,Youssouf Sabaly,"['Mar', '5', '1993']",173.0,Senegal,Defender Right Back,right,Real Betis,5,24,nan,nan,294,
+305,378139,Aitor Ruibal,"['Mar', '22', '1996']",176.0,Spain,Defender Right Back,right,Real Betis,33,10,nan,nan,235,JV SPORTS SL
+306,68645,Martín Montoya,"['Apr', '14', '1991']",175.0,Spain,Defender Right Back,right,Real Betis,5,28,nan,nan,301,OLIMPUS ESPORT ...
+307,711638,Fran Delgado,"['Jul', '11', '2001']",181.0,Spain,Defender Right Back,right,Betis Deportivo,-,5,nan,nan,80,Footfeel ISM
+308,342385,Guido Rodríguez,"['Apr', '12', '1994']",185.0,Argentina,midfield Defensive Midfield,right,Real Betis,25,5,nan,nan,340,Interplayers
+309,100131,William Carvalho,"['Apr', '7', '1992']",187.0,Portugal,midfield Defensive Midfield,right,Real Betis,24,28,nan,nan,421,PCR Sports
+310,429901,Paul Akouokou,"['Dec', '20', '1997']",181.0,Cote d'Ivoire,midfield Defensive Midfield,right,Real Betis,4,6,nan,nan,112,Promoesport
+311,20506,Andrés Guardado,"['Sep', '28', '1986']",167.0,Mexico,midfield Central Midfield,left,Real Betis,41,82,nan,nan,582,
+312,263856,Víctor Camarasa,"['May', '28', '1994']",183.0,Spain,midfield Central Midfield,right,Real Oviedo,14,13,nan,nan,230,Promoesport
+313,718580,Antonio Marchena,"['Jul', '27', '2002']",182.0,Spain,midfield Central Midfield,,Betis Deportivo,2,1,nan,nan,59,YOU FIRST
+314,203496,Nabil Fekir,"['Jul', '18', '1993']",173.0,France,midfield Attacking Midfield,left,Real Betis,97,72,nan,nan,331,Relatives
+315,66106,Sergio Canales,"['Feb', '16', '1991']",178.0,Spain,midfield Attacking Midfield,left,Real Betis,68,65,nan,nan,505,Best of You
+316,630995,Rodri Sánchez,"['May', '16', '2000']",175.0,Spain,midfield Attacking Midfield,left,Real Betis,6,13,nan,nan,94,Bahía Internacional
+317,395694,Yassin Fekir,"['May', '5', '1997']",170.0,France,midfield Attacking Midfield,right,R. B. Linense,23,5,nan,nan,148,Promoesport
+318,126737,Juanmi,"['May', '20', '1993']",172.0,Spain,Attack Left Winger,right,Real Betis,81,22,nan,nan,350,LIAN Sports Group
+319,141834,Cristian Tello,"['Aug', '11', '1991']",178.0,Spain,Attack Left Winger,both,Al-Fateh,74,64,nan,nan,434,TACTIC GRUP - ...
+320,371174,Diego Lainez,"['Jun', '9', '2000']",167.0,Mexico,Attack Right Winger,left,Tigres UANL,11,13,nan,nan,160,PitZGroup
+321,505675,Rober González,"['Jan', '8', '2001']",169.0,Spain,Attack Right Winger,both,Alavés,20,7,nan,nan,125,ELITE INTERNACIONAL ...
+322,7663,Joaquín,"['Jul', '21', '1981']",181.0,Spain,Attack Right Winger,right,Real Betis,112,103,nan,nan,844,Juzzt Football
+323,278359,Borja Iglesias,"['Jan', '17', '1993']",187.0,Spain,Attack Centre Forward,right,Real Betis,170,21,nan,nan,397,Toldra Consulting ...
+324,122155,Willian José,"['Nov', '23', '1991']",189.0,Brazil,Attack Centre Forward,right,Real Betis,119,30,nan,nan,451,Un1que Football
+325,354741,Loren Morón,"['Dec', '30', '1993']",185.0,Spain,Attack Centre Forward,right,UD Las Palmas,65,8,nan,nan,231,YOU FIRST
+326,631002,Raúl García,"['Nov', '3', '2000']",192.0,Spain,Attack Centre Forward,right,CD Mirandés,41,10,nan,nan,101,Fernando Galvez ...
+327,262396,Unai Simón,"['Jun', '11', '1997']",190.0,Spain,Goalkeeper,right,Athletic,-,2,211,78,218,CAA Stellar
+328,625014,Julen Agirrezabala,"['Dec', '26', '2000']",187.0,Spain,Goalkeeper,left,Athletic,-,-,63,20,65,YOU FIRST
+329,379548,Jokin Ezkieta,"['Aug', '17', '1996']",193.0,Spain,Goalkeeper,right,Racing,-,-,106,26,89,
+330,480958,Ander Iru,"['Aug', '22', '1998']",188.0,Spain,Goalkeeper,left,Athletic,-,-,31,10,29,IDUB GLOBAL
+331,158863,Iñigo Martínez,"['May', '17', '1991']",182.0,Spain,Defender Centre Back,left,Athletic,26,13,nan,nan,447,Carmelo Sánchez
+332,255488,Yeray Álvarez,"['Jan', '24', '1995']",182.0,Spain,Defender Centre Back,right,Athletic,4,5,nan,nan,275,
+333,524000,Dani Vivian,"['Jul', '5', '1999']",184.0,Spain,Defender Centre Back,right,Athletic,9,4,nan,nan,140,Acción Sport
+334,338285,Unai Núñez,"['Jan', '30', '1997']",186.0,Spain,Defender Centre Back,right,Celta de Vigo,6,3,nan,nan,192,LEADERBROCK
+335,591916,Aitor Paredes,"['Apr', '29', '2000']",185.0,Spain,Defender Centre Back,right,Athletic,4,1,nan,nan,70,CAA Stellar
+336,61812,Yuri Berchiche,"['Feb', '10', '1990']",181.0,Spain,Defender Left Back,left,Athletic,24,35,nan,nan,414,Media Base Sports
+337,85258,Mikel Balenziaga,"['Feb', '29', '1988']",177.0,Spain,Defender Left Back,left,Athletic,1,16,nan,nan,475,Football Promotions ...
+338,255501,Iñigo Lekue,"['May', '4', '1993']",180.0,Spain,Defender Right Back,right,Athletic,5,19,nan,nan,274,
+339,197545,Ander Capa,"['Feb', '8', '1992']",175.0,Spain,Defender Right Back,right,Athletic,20,27,nan,nan,326,
+340,96718,Óscar de Marcos,"['Apr', '14', '1989']",182.0,Spain,Defender Right Back,right,Athletic,40,54,nan,nan,517,
+341,527838,Álex Petxa,"['Feb', '6', '1997']",180.0,Spain,Defender Right Back,right,FC Andorra,4,10,nan,nan,103,IDUB GLOBAL
+342,300168,Mikel Vesga,"['Apr', '8', '1993']",191.0,Spain,midfield Defensive Midfield,left,Athletic,13,17,nan,nan,297,Football Promotions ...
+343,447052,Peru Nolaskoain,"['Oct', '25', '1998']",186.0,Spain,midfield Defensive Midfield,right,SD Eibar,12,4,nan,nan,170,CAA Stellar
+344,610083,Unai Vencedor,"['Nov', '15', '2000']",176.0,Spain,midfield Central Midfield,right,Athletic,5,9,nan,nan,144,
+345,524010,Oier Zarraga,"['Jan', '4', '1999']",175.0,Spain,midfield Central Midfield,right,Athletic,9,7,nan,nan,108,
+346,178425,Dani García,"['May', '24', '1990']",179.0,Spain,midfield Central Midfield,right,Athletic,3,12,nan,nan,464,RGFOOTBALL
+347,54235,Iker Muniain,"['Dec', '19', '1992']",169.0,Spain,midfield Attacking Midfield,right,Athletic,76,70,nan,nan,551,Jesus Medina Martin
+348,571020,Oihan Sancet,"['Apr', '25', '2000']",188.0,Spain,midfield Attacking Midfield,right,Athletic,25,10,nan,nan,141,
+349,338425,Álex Berenguer,"['Jul', '4', '1995']",175.0,Spain,Attack Left Winger,right,Athletic,35,40,nan,nan,306,YOU FIRST
+350,455349,Jon Morcillo,"['Sep', '15', '1998']",183.0,Spain,Attack Left Winger,left,Athletic,14,13,nan,nan,108,Football Promotions ...
+351,668183,Nico Serrano,"['Mar', '5', '2003']",176.0,Spain,Attack Left Winger,left,CD Mirandés,7,8,nan,nan,74,
+352,834755,Luis Bilbao,"['Mar', '24', '2003']",183.0,Spain,Attack Left Winger,left,Bilbao Athletic,5,4,nan,nan,46,
+353,709187,Nico Williams,"['Jul', '12', '2002']",181.0,Spain,Attack Right Winger,right,Athletic,21,19,nan,nan,110,
+354,626960,Juan Artola,"['Apr', '7', '2000']",177.0,Spain,Attack Right Winger,right,Burgos CF,27,8,nan,nan,122,CAA Stellar
+355,255508,Iñaki Williams,"['Jun', '15', '1994']",186.0,Ghana,Attack Centre Forward,right,Athletic,107,58,nan,nan,411,
+356,251897,Asier Villalibre,"['Sep', '30', '1997']",184.0,Spain,Attack Centre Forward,left,Alavés,59,25,nan,nan,260,
+357,34601,Raúl García,"['Jul', '11', '1986']",184.0,Spain,Attack Centre Forward,right,Athletic,150,69,nan,nan,789,Bahía Internacional
+358,226012,David Soria,"['Apr', '4', '1993']",192.0,Spain,Goalkeeper,right,Getafe,-,3,272,108,272,Promoesport
+359,246335,Rubén Yáñez,"['Oct', '12', '1993']",188.0,Spain,Goalkeeper,right,Málaga CF,-,-,126,39,116,Niagara Sports ...
+360,341713,Diego Conde,"['Oct', '28', '1998']",188.0,Spain,Goalkeeper,,Getafe,-,-,61,14,48,Manuel García ...
+361,221150,Djené,"['Dec', '31', '1991']",178.0,Togo,Defender Centre Back,right,Getafe,2,7,nan,nan,317,SPORTBACK
+362,302991,Erick Cabaco,"['Apr', '19', '1995']",185.0,Uruguay,Defender Centre Back,right,Granada CF,6,4,nan,nan,175,InterStarDeporte
+363,143029,Stefan Mitrovic,"['May', '22', '1990']",189.0,Serbia,Defender Centre Back,both,Getafe,13,4,nan,nan,375,
+364,70245,Ignasi Miquel,"['Sep', '28', '1992']",189.0,Spain,Defender Centre Back,left,Granada CF,13,4,nan,nan,313,no agent
+365,248330,Chema Rodríguez,"['Mar', '3', '1992']",189.0,Spain,Defender Centre Back,left,SD Eibar,12,1,nan,nan,203,Sport Agency 4U
+366,577486,Gastón Álvarez,"['Mar', '24', '2000']",184.0,Uruguay,Defender Centre Back,left,Getafe,6,-,nan,nan,74,FGM
+367,783873,Álvaro López,"['Jun', '7', '1999']",,Spain,Defender Centre Back,,Unión Adarve,-,-,nan,nan,26,
+368,857939,Chinchu,"['Mar', '5', '2002']",,Spain,Defender Centre Back,,CD Mirandés B,-,-,nan,nan,14,AIM fútbol
+369,284857,Marc Cucurella,"['Jul', '22', '1998']",173.0,Spain,Defender Left Back,left,Chelsea,9,22,nan,nan,258,EMG Mundial
+370,376514,Mathías Olivera,"['Oct', '31', '1997']",185.0,Uruguay,Defender Left Back,left,SSC Napoli,5,11,nan,nan,166,GBG Global Business ...
+371,189453,Jonathan Silva,"['Jun', '29', '1994']",178.0,Argentina,Defender Left Back,left,Granada CF,10,27,nan,nan,258,Sergio Esayan
+372,809639,Koffi,"['Nov', '20', '2001']",,Ghana,Defender Left Back,,Getafe CF B,-,1,nan,nan,27,JV SPORTS SL
+373,390688,Juan Iglesias,"['Jul', '3', '1998']",187.0,Spain,Defender Right Back,right,Getafe,1,3,nan,nan,162,IFM
+374,76746,Damián Suárez,"['Apr', '27', '1988']",173.0,Uruguay,Defender Right Back,right,Getafe,9,33,nan,nan,457,GBG Global Business ...
+375,111508,Allan Nyom,"['May', '10', '1988']",189.0,Cameroon,Defender Right Back,right,CD Leganés,7,16,nan,nan,523,JV SPORTS SL
+376,889717,Pablo Montero,"['May', '9', '2002']",168.0,Spain,midfield,,Madrid 2021,-,-,nan,nan,3,
+377,357162,Florentino,"['Aug', '19', '1999']",184.0,Portugal,midfield Defensive Midfield,right,Benfica,3,10,nan,nan,210,Team of Future
+378,137616,Okay Yokuslu,"['Mar', '9', '1994']",191.0,Turkey,midfield Defensive Midfield,right,West Brom,28,15,nan,nan,401,FOOTALENT
+379,158795,David Timor,"['Oct', '17', '1989']",185.0,Spain,midfield Defensive Midfield,left,SD Huesca,36,18,nan,nan,444,Pedro Bravo - ...
+380,638589,Ángel Algobia,"['Jun', '23', '1999']",188.0,Spain,midfield Defensive Midfield,right,Getafe,1,-,nan,nan,52,JONATHAN SÁNCHEZ
+381,290249,Mauro Arambarri,"['Sep', '30', '1995']",175.0,Uruguay,midfield Central Midfield,right,Getafe,7,15,nan,nan,249,Relatives
+382,273152,Nemanja Maksimovic,"['Jan', '26', '1995']",184.0,Serbia,midfield Central Midfield,right,Getafe,22,10,nan,nan,311,Promoesport
+383,284854,Carles Aleñá,"['Jan', '5', '1998']",180.0,Spain,midfield Central Midfield,left,Getafe,33,24,nan,nan,251,"Puyol, De la Peña ..."
+384,398163,Gonzalo Villar,"['Mar', '23', '1998']",181.0,Spain,midfield Central Midfield,right,Getafe,4,4,nan,nan,184,Footfeel ISM
+385,841121,John Joe Patrick Finn,"['Oct', '24', '2003']",192.0,Ireland,midfield Central Midfield,right,Getafe CF B,-,-,nan,nan,11,Niagara Sports ...
+386,708500,Totti,"['Dec', '14', '2001']",181.0,Spain,midfield Central Midfield,right,Murcia Imperial,-,-,nan,nan,3,
+387,319160,Jakub Jankto,"['Jan', '19', '1996']",184.0,Czech Republic,midfield Left Midfield,left,Sparta Prague,30,30,nan,nan,259,Gr Sports
+388,732096,Santi García,"['Aug', '29', '2001']",184.0,Spain,midfield Attacking Midfield,,Getafe CF B,1,-,nan,nan,22,JONATHAN SÁNCHEZ
+389,891091,Diego López,"['Oct', '21', '2001']",,Spain,midfield Attacking Midfield,,Getafe CF B,2,-,nan,nan,6,JONATHAN SÁNCHEZ
+390,67082,Vitolo,"['Nov', '2', '1989']",184.0,Spain,Attack Left Winger,right,UD Las Palmas,66,61,nan,nan,417,Bahía Internacional
+391,251106,Enes Ünal,"['May', '10', '1997']",187.0,Turkey,Attack Centre Forward,right,Getafe,93,26,nan,nan,327,FutureBall
+392,298976,Borja Mayoral,"['Apr', '5', '1997']",182.0,Spain,Attack Centre Forward,right,Getafe,88,25,nan,nan,286,Footfeel ISM
+393,546047,José Juan Macías,"['Sep', '22', '1999']",178.0,Mexico,Attack Centre Forward,right,Chivas,51,3,nan,nan,147,
+394,199369,Sandro Ramírez,"['Jul', '9', '1995']",175.0,Spain,Attack Centre Forward,right,UD Las Palmas,59,22,nan,nan,281,Wasserman
+395,227961,Jaime Mata,"['Oct', '24', '1988']",186.0,Spain,Attack Centre Forward,right,Getafe,143,34,nan,nan,432,Viasport
+396,399780,Darío Poveda,"['Mar', '13', '1997']",187.0,Spain,Attack Centre Forward,right,FC Cartagena,33,3,nan,nan,149,Manuel García ...
+397,715650,Mamor Niang,"['Feb', '4', '2002']",190.0,Senegal,Attack Centre Forward,left,UE Cornellà,5,3,nan,nan,38,JV SPORTS SL
+398,34370,Diego López,"['Nov', '3', '1981']",196.0,Spain,Goalkeeper,right,Rayo Vallecano,-,2,691,172,569,Manuel García ...
+399,561613,Joan García,"['May', '4', '2001']",191.0,Spain,Goalkeeper,right,Espanyol,-,-,30,6,24,Niagara Sports ...
+400,8176,Oier Olazábal,"['Sep', '14', '1989']",189.0,Spain,Goalkeeper,left,Pafos FC,-,-,243,55,178,Sport Agency 4U
+401,102423,Leandro Cabrera,"['Jun', '17', '1991']",190.0,Uruguay,Defender Centre Back,left,Espanyol,13,10,nan,nan,442,Relatives
+402,92947,Sergi Gómez,"['Mar', '28', '1992']",185.0,Spain,Defender Centre Back,right,Espanyol,7,5,nan,nan,380,The Player ...
+403,357884,Fernando Calero,"['Sep', '14', '1995']",184.0,Spain,Defender Centre Back,right,Espanyol,5,2,nan,nan,203,MRH Football Agency
+404,129444,David López,"['Oct', '9', '1989']",185.0,Spain,Defender Centre Back,right,Girona,27,13,nan,nan,436,Sports and ...
+405,495600,Álvaro García,"['Jun', '1', '2000']",184.0,Spain,Defender Centre Back,left,CF Fuenlabrada,5,-,nan,nan,89,
+406,705810,Lluís Recasens,"['Feb', '19', '2002']",183.0,Spain,Defender Centre Back,right,RCD Espanyol B,-,1,nan,nan,60,ROGON
+407,501418,Adrià Pedrosa,"['May', '13', '1998']",172.0,Spain,Defender Left Back,left,Espanyol,9,13,nan,nan,136,JM10 SPORT
+408,67090,Dídac Vilà,"['Jun', '9', '1989']",185.0,Spain,Defender Left Back,left,Without Club,8,15,nan,nan,312,Sports and ...
+409,544106,Óscar Gil,"['Apr', '26', '1998']",175.0,Spain,Defender Right Back,both,Espanyol,2,7,nan,nan,128,InterStarDeporte
+410,495601,Víctor Gómez,"['Apr', '1', '2000']",169.0,Spain,Defender Right Back,right,SC Braga,3,16,nan,nan,180,SEG
+411,399775,Miguel Llambrich,"['Jan', '18', '1996']",170.0,Spain,Defender Right Back,right,FC Cartagena,3,6,nan,nan,133,Promoesport
+412,705813,Rubén Sánchez,"['Feb', '4', '2001']",185.0,Spain,Defender Right Back,right,Espanyol,3,3,nan,nan,77,OKON
+413,142021,Sergi Darder,"['Dec', '22', '1993']",180.0,Spain,midfield Central Midfield,right,Espanyol,36,35,nan,nan,382,Eleven Talent Group
+414,378293,Yangel Herrera,"['Jan', '7', '1998']",184.0,Venezuela,midfield Central Midfield,right,Girona,17,16,nan,nan,206,PARRI GROUP
+415,182581,Tonny Vilhena,"['Jan', '3', '1995']",175.0,Netherlands,midfield Central Midfield,left,Salernitana,63,44,nan,nan,409,Team of Future
+416,295622,Keidi Bare,"['Aug', '28', '1997']",174.0,Albania,midfield Central Midfield,right,Espanyol,5,5,nan,nan,173,Niagara Sports ...
+417,42920,Fran Mérida,"['Mar', '4', '1990']",173.0,Spain,midfield Central Midfield,left,TJ Jinmen Tiger,35,24,nan,nan,354,Antonio López ...
+418,646746,Roger Martínez,"['Apr', '5', '2004']",177.0,Spain,midfield Central Midfield,right,RCD Espanyol B,5,-,nan,nan,64,
+419,628496,Dani Villahermosa,"['Jan', '2', '2001']",174.0,Spain,midfield Central Midfield,right,RCD Espanyol B,7,-,nan,nan,76,Relatives
+420,548187,Alejandro Pérez,"['Jan', '7', '2001']",,Spain,midfield Central Midfield,,RCD Espanyol B,1,-,nan,nan,51,InterStarDeporte
+421,448344,Óscar Melendo,"['Aug', '23', '1997']",167.0,Spain,midfield Attacking Midfield,left,Granada CF,7,15,nan,nan,219,no agent
+422,705815,Gori,"['May', '15', '2002']",,Spain,midfield Attacking Midfield,both,RCD Espanyol B,1,-,nan,nan,30,Jesus Medina Martin
+423,408471,Javi Puado,"['May', '25', '1998', 'Happy', 'Birthday']",177.0,Spain,Attack Left Winger,right,Espanyol,34,18,nan,nan,160,Best of You
+424,570421,Nico Melamed,"['Apr', '11', '2001']",173.0,Spain,Attack Left Winger,right,Espanyol,19,8,nan,nan,148,Team Raiola
+425,162074,Álvaro Vadillo,"['Sep', '12', '1994']",180.0,Spain,Attack Left Winger,right,SD Eibar,23,32,nan,nan,273,YOU FIRST
+426,745461,Luca Koleosho,"['Sep', '15', '2004']",175.0,Italy,Attack Left Winger,right,RCD Espanyol B,2,-,nan,nan,19,CAA Stellar
+427,288318,Adrián Embarba,"['May', '7', '1992']",173.0,Spain,Attack Right Winger,right,UD Almería,46,65,nan,nan,316,
+428,140436,Lei Wu,"['Nov', '19', '1991']",174.0,China,Attack Right Winger,right,SH Port,156,77,nan,nan,370,
+429,88490,Aleix Vidal,"['Aug', '21', '1989']",177.0,Spain,Attack Right Winger,right,Espanyol,41,53,nan,nan,403,Promoesport
+430,628498,Jofre Carreras,"['Jun', '17', '2001']",175.0,Spain,Attack Right Winger,right,CD Mirandés,6,1,nan,nan,66,
+431,162038,Raúl de Tomás,"['Oct', '17', '1994']",180.0,Spain,Attack Centre Forward,right,Rayo Vallecano,131,22,nan,nan,332,Relatives
+432,311489,Landry Dimata,"['Sep', '1', '1997']",185.0,Belgium,Attack Centre Forward,right,NEC Nijmegen,43,14,nan,nan,165,RGFOOTBALL
+433,705808,Max Svensson,"['Nov', '8', '2001']",182.0,Spain,Attack Centre Forward,right,Dep. La Coruña,17,-,nan,nan,91,CAA Base Ltd
+434,199321,Rubén Blanco,"['Jul', '25', '1995']",188.0,Spain,Goalkeeper,right,Marseille,-,-,262,49,182,Media Base Sports
+435,144128,Matías Dituro,"['May', '8', '1987']",191.0,Argentina,Goalkeeper,right,U. Católica,1,1,346,95,302,Fernando Felicevich
+436,448835,Gaizka Campos,"['May', '16', '1997']",190.0,Spain,Goalkeeper,right,Intercity,-,-,111,23,85,YOU FIRST
+437,581640,Coke Carrillo,"['Jan', '7', '2002']",188.0,Spain,Goalkeeper,right,Celta Vigo B,-,-,6,1,5,
+438,646741,César Fernández,"['Jan', '28', '2004']",181.0,Spain,Goalkeeper,right,Celta C-GP,-,-,-,-,-,Intermedia Sport ...
+439,358250,Joseph Aidoo,"['Sep', '29', '1995']",177.0,Ghana,Defender Centre Back,right,Celta de Vigo,12,1,nan,nan,257,
+440,64134,Néstor Araújo,"['Aug', '29', '1991']",188.0,Mexico,Defender Centre Back,right,América,12,10,nan,nan,403,
+441,131102,Jeison Murillo,"['May', '27', '1992']",182.0,Colombia,Defender Centre Back,right,Sampdoria,14,4,nan,nan,322,
+442,609361,José Fontán,"['Feb', '11', '2000']",182.0,Spain,Defender Centre Back,left,Go Ahead Eagles,3,3,nan,nan,83,YOU FIRST
+443,636093,Carlos Domínguez,"['Feb', '11', '2001']",187.0,Spain,Defender Centre Back,left,Celta Vigo B,1,1,nan,nan,68,InterStarDeporte
+444,740253,Javi Castro,"['Sep', '13', '2000']",183.0,Spain,Defender Centre Back,right,Alcorcón,1,1,nan,nan,95,YOU FIRST
+445,448628,Javi Galán,"['Nov', '19', '1994']",172.0,Spain,Defender Left Back,left,Celta de Vigo,8,22,nan,nan,266,YOU FIRST
+446,461619,Fernando Medrano,"['Mar', '26', '2000']",172.0,Spain,Defender Left Back,left,Celta Vigo B,2,3,nan,nan,116,MRH Football Agency
+447,119905,Hugo Mallo,"['Jun', '22', '1991']",174.0,Spain,Defender Right Back,right,Celta de Vigo,12,28,nan,nan,448,#LEADERS
+448,221315,Kevin Vázquez,"['Mar', '23', '1993']",175.0,Spain,Defender Right Back,right,Celta de Vigo,2,3,nan,nan,216,F.J.VILLAVERDE
+449,540676,Thomas Carrique,"['Feb', '26', '1999']",173.0,France,Defender Right Back,right,Celta Vigo B,3,3,nan,nan,107,Triunfo Futbol
+450,277137,Renato Tapia,"['Jul', '28', '1995']",185.0,Peru,midfield Defensive Midfield,right,Celta de Vigo,11,7,nan,nan,254,AGREF
+451,423444,Fran Beltrán,"['Feb', '3', '1999']",165.0,Spain,midfield Central Midfield,right,Celta de Vigo,7,3,nan,nan,247,InterStarDeporte
+452,334042,Orbelín Pineda,"['Mar', '24', '1996']",169.0,Mexico,midfield Central Midfield,right,AEK Athens,43,33,nan,nan,350,Kick Talent
+453,715628,Damián Rodríguez,"['Mar', '17', '2003']",,Spain,midfield Central Midfield,,Celta Vigo B,2,1,nan,nan,24,Intermedia Sport ...
+454,892221,Hugo Sotelo,"['Dec', '19', '2003']",180.0,Spain,midfield Central Midfield,,Celta Vigo B,1,3,nan,nan,29,Bahía Internacional
+455,309110,Brais Méndez,"['Jan', '7', '1997']",184.0,Spain,midfield Attacking Midfield,left,Real Sociedad,40,25,nan,nan,272,InterStarDeporte
+456,165007,Denis Suárez,"['Jan', '6', '1994']",176.0,Spain,midfield Attacking Midfield,right,Espanyol,37,65,nan,nan,362,Intermedia Sport ...
+457,699704,Gabri Veiga,"['May', '27', '2002']",185.0,Spain,midfield Attacking Midfield,right,Celta de Vigo,19,5,nan,nan,117,Gol International
+458,523977,Miguel Baeza,"['Mar', '27', '2000']",177.0,Spain,midfield Attacking Midfield,left,Rio Ave FC,17,11,nan,nan,113,MRH Football Agency
+459,341110,Franco Cervi,"['May', '26', '1994']",166.0,Argentina,Attack Left Winger,left,Celta de Vigo,35,48,nan,nan,302,Wasserman
+460,70934,Nolito,"['Oct', '15', '1986']",175.0,Spain,Attack Left Winger,right,UD Ibiza,126,66,nan,nan,513,OFSPORTS
+461,357628,Alfon González,"['May', '4', '1999']",172.0,Spain,Attack Left Winger,,Real Murcia,20,5,nan,nan,125,Eugenio Botas ...
+462,892929,Hugo Álvarez,"['Jul', '2', '2003']",176.0,Spain,Attack Left Winger,right,Celta Vigo B,2,4,nan,nan,36,IFM
+463,282694,Augusto Solari,"['Jan', '3', '1992']",176.0,Argentina,Attack Right Winger,right,Celta de Vigo,20,25,nan,nan,233,Hernan Berman
+464,72047,Iago Aspas,"['Aug', '1', '1987']",176.0,Spain,Attack Centre Forward,left,Celta de Vigo,217,72,nan,nan,560,Intermedia Sport ...
+465,186399,Thiago Galhardo,"['Jul', '20', '1989']",183.0,Brazil,Attack Centre Forward,right,Fortaleza,77,26,nan,nan,327,Two Touch Agency
+466,255653,Santi Mina,"['Dec', '7', '1995']",181.0,Spain,Attack Centre Forward,right,Al-Shabab,92,41,nan,nan,344,OLIMPUS ESPORT ...
+467,248738,Sergio Herrera,"['Jun', '5', '1993']",192.0,Spain,Goalkeeper,right,CA Osasuna,-,2,286,81,247,YOU FIRST
+468,298613,Juan Pérez,"['Jul', '15', '1996']",191.0,Spain,Goalkeeper,right,SD Huesca,-,-,78,14,59,Bahía Internacional
+469,341266,Darío Ramos,"['Oct', '19', '1999']",191.0,Spain,Goalkeeper,,CA Osasuna Prom,-,-,50,25,55,InterStarDeporte
+470,634116,Yoel Ramírez,"['Feb', '5', '2002']",184.0,Spain,Goalkeeper,left,CA Osasuna Prom,-,-,24,9,26,CAA Stellar
+471,298589,David García,"['Feb', '14', '1994']",186.0,Spain,Defender Centre Back,both,CA Osasuna,17,2,nan,nan,289,YOU FIRST
+472,197122,Unai García,"['Feb', '3', '1992']",186.0,Spain,Defender Centre Back,right,CA Osasuna,17,3,nan,nan,260,GLOBAL ASES
+473,82503,Aridane Hernández,"['Mar', '23', '1989']",188.0,Spain,Defender Centre Back,right,CA Osasuna,10,2,nan,nan,329,Identity Sports
+474,69660,Jonás Ramalho,"['Jun', '10', '1993']",185.0,Angola,Defender Centre Back,right,Málaga CF,7,4,nan,nan,314,Sports and ...
+475,783429,Unai Dufur,"['Jan', '21', '1999']",187.0,Spain,Defender Centre Back,right,CA Osasuna Prom,3,-,nan,nan,61,
+476,618809,Manu Sánchez,"['Aug', '24', '2000']",171.0,Spain,Defender Left Back,left,CA Osasuna,1,14,nan,nan,125,
+477,169497,Juan Cruz,"['Jul', '28', '1992']",182.0,Spain,Defender Left Back,left,CA Osasuna,8,10,nan,nan,337,Roalza
+478,87469,Cote,"['Sep', '5', '1989']",182.0,Spain,Defender Left Back,left,Sporting Gijón,5,32,nan,nan,370,EMG Mundial
+479,216870,Nacho Vidal,"['Jan', '24', '1995']",180.0,Spain,Defender Right Back,right,CA Osasuna,7,8,nan,nan,252,Promoesport
+480,488626,Jesús Areso,"['Jul', '2', '1999']",182.0,Spain,Defender Right Back,right,Burgos CF,-,11,nan,nan,121,GLOBAL ASES
+481,213670,Lucas Torró,"['Jul', '19', '1994']",190.0,Spain,midfield Defensive Midfield,right,CA Osasuna,7,8,nan,nan,254,Toldra Consulting ...
+482,63040,Oier Sanjurjo,"['May', '25', '1986', 'Happy', 'Birthday']",178.0,Spain,midfield Defensive Midfield,right,AEK Larnaca,18,14,nan,nan,478,GLOBAL ASES
+483,552425,Jon Moncayola,"['May', '13', '1998']",182.0,Spain,midfield Central Midfield,right,CA Osasuna,7,6,nan,nan,168,
+484,95641,Darko Brasanac,"['Feb', '12', '1992']",178.0,Serbia,midfield Central Midfield,right,CA Osasuna,22,25,nan,nan,340,
+485,340864,Jaume Grau,"['May', '5', '1997']",184.0,Spain,midfield Central Midfield,left,Real Zaragoza,4,1,nan,nan,212,Toldra Consulting ...
+486,71579,Iñigo Pérez,"['Jan', '18', '1988']",178.0,Spain,midfield Central Midfield,left,Retired,21,26,nan,nan,401,IDUB GLOBAL
+487,63056,Roberto Torres,"['Mar', '7', '1989']",178.0,Spain,midfield Attacking Midfield,right,Foolad,85,61,nan,nan,500,Antonio López ...
+488,471474,Javi Martínez,"['Dec', '22', '1999']",181.0,Spain,midfield Attacking Midfield,right,SD Huesca,8,7,nan,nan,130,Bahía Internacional
+489,213260,Rubén García,"['Jul', '14', '1993']",171.0,Spain,Attack Left Winger,left,CA Osasuna,40,45,nan,nan,374,Toldra Consulting ...
+490,298983,Javi Ontiveros,"['Sep', '9', '1997']",175.0,Spain,Attack Left Winger,right,Villarreal CF B,18,23,nan,nan,195,Sports&Life
+491,298575,Kike Barja,"['Apr', '1', '1997']",179.0,Spain,Attack Right Winger,right,CA Osasuna,29,19,nan,nan,212,YOU FIRST
+492,242532,Rober Ibáñez,"['Mar', '22', '1993']",175.0,Spain,Attack Right Winger,right,Levante,32,8,nan,nan,257,InterStarDeporte
+493,710679,Iker Benito,"['Aug', '10', '2002']",176.0,Spain,Attack Right Winger,right,CA Osasuna Prom,8,2,nan,nan,88,GLOBAL ASES
+494,366931,Pau Martínez,"['Nov', '10', '2000']",168.0,Spain,Attack Right Winger,right,CA Osasuna Prom,19,5,nan,nan,113,IFM
+495,167721,Chimy Ávila,"['Feb', '6', '1994']",172.0,Argentina,Attack Centre Forward,right,CA Osasuna,45,13,nan,nan,216,Carlos Bilicich
+496,46413,Ante Budimir,"['Jul', '22', '1991']",190.0,Croatia,Attack Centre Forward,left,CA Osasuna,113,33,nan,nan,369,MG MEDIATOR TRANSFER
+497,93936,Kike García,"['Nov', '25', '1989']",186.0,Spain,Attack Centre Forward,right,CA Osasuna,122,24,nan,nan,504,
+498,514514,Iván Barbero,"['Aug', '17', '1998']",186.0,Spain,Attack Centre Forward,right,CA Osasuna Prom,25,1,nan,nan,132,Implica-T
+499,367464,Luís Maximiano,"['Jan', '5', '1999']",190.0,Portugal,Goalkeeper,both,Lazio,-,1,122,29,94,MRP.POSITIONUMBER
+500,284430,Aarón Escandell,"['Sep', '27', '1995']",185.0,Spain,Goalkeeper,right,FC Cartagena,-,-,97,35,95,Wasserman
+501,198638,João Costa,"['Feb', '2', '1996']",186.0,Portugal,Goalkeeper,right,Real Murcia,1,-,130,45,131,SoccerSoul
+502,632471,Cheikh Kane Sarr,"['Apr', '21', '2000']",194.0,Senegal,Goalkeeper,right,Castellón,-,-,45,12,38,Minerva Athletes
+503,713632,Ángel Jiménez,"['Jun', '22', '2002']",194.0,Spain,Goalkeeper,,Recre Granada,-,-,31,11,32,Promoesport
+504,257376,Domingos Duarte,"['Mar', '10', '1995']",192.0,Portugal,Defender Centre Back,right,Getafe,13,3,nan,nan,294,PCR Sports
+505,330684,Luis Abram,"['Feb', '27', '1996']",181.0,Peru,Defender Centre Back,left,Atlanta,11,5,nan,nan,266,Wasserman
+506,631222,Raúl Torrente,"['Sep', '11', '2001']",193.0,Spain,Defender Centre Back,left,Granada CF,-,1,nan,nan,46,Bahía Internacional
+507,95963,Germán Sánchez,"['Dec', '12', '1986']",187.0,Spain,Defender Centre Back,right,Racing,26,4,nan,nan,380,JV SPORTS SL
+508,500191,Pepe Sánchez,"['Mar', '2', '2000']",185.0,Spain,Defender Centre Back,right,Dep. La Coruña,1,-,nan,nan,55,33 Sport
+509,562058,Sergio Barcia,"['Dec', '31', '2000']",186.0,Spain,Defender Centre Back,right,Celta Vigo B,7,-,nan,nan,80,IGdreamsfootball
+510,468700,Neyder Lozano,"['Mar', '4', '1994']",185.0,Colombia,Defender Centre Back,left,CF Talavera,2,1,nan,nan,108,CAA Stellar
+511,448844,Carlos Neva,"['Jun', '12', '1996']",174.0,Spain,Defender Left Back,left,Granada CF,3,7,nan,nan,189,IS SPORTS AGENCY ...
+512,93935,Sergio Escudero,"['Sep', '2', '1989']",176.0,Spain,Defender Left Back,left,Real Valladolid,20,20,nan,nan,377,Bahía Internacional
+513,713649,Miguel Ángel Brau,"['Dec', '27', '2001']",183.0,Spain,Defender Left Back,left,CF Talavera,2,3,nan,nan,64,MRH Football Agency
+514,120443,Santiago Arias,"['Jan', '13', '1992']",177.0,Colombia,Defender Right Back,right,Cincinnati,13,31,nan,nan,304,
+515,58330,Víctor Díaz,"['Jun', '12', '1988']",183.0,Spain,Defender Right Back,right,Granada CF,18,20,nan,nan,487,Promoesport
+516,223053,Quini,"['Sep', '24', '1989']",178.0,Spain,Defender Right Back,right,Granada CF,11,7,nan,nan,297,YOU FIRST
+517,376588,Njegos Petrovic,"['Jul', '18', '1999']",185.0,Serbia,midfield Defensive Midfield,right,Granada CF,6,6,nan,nan,194,VPA Sports
+518,60542,Maxime Gonalons,"['Mar', '10', '1989']",187.0,France,midfield Defensive Midfield,right,Clermont Foot,16,18,nan,nan,482,Frederic Guerra ...
+519,297784,Yan Eteki,"['Aug', '26', '1997']",182.0,Cameroon,midfield Defensive Midfield,right,FC Cartagena,2,1,nan,nan,228,Promoesport
+520,281989,Luis Milla,"['Oct', '7', '1994']",175.0,Spain,midfield Central Midfield,right,Getafe,23,20,nan,nan,266,Promoesport
+521,282727,Monchu,"['Sep', '13', '1999']",173.0,Spain,midfield Central Midfield,right,Real Valladolid,23,15,nan,nan,192,Wasserman
+522,59551,Ángel Montoro,"['Jun', '25', '1988']",180.0,Spain,midfield Central Midfield,right,Real Oviedo,27,34,nan,nan,383,InterStarDeporte
+523,631221,Isma Ruiz,"['Feb', '14', '2001']",180.0,Spain,midfield Central Midfield,right,UD Ibiza,1,-,nan,nan,71,Promoesport
+524,211251,Darwin Machís,"['Feb', '7', '1993']",171.0,Venezuela,Attack Left Winger,right,Real Valladolid,83,45,nan,nan,366,YOU FIRST
+525,315289,Myrto Uzuni,"['May', '31', '1995']",178.0,Albania,Attack Left Winger,right,Granada CF,100,40,nan,nan,269,BFM
+526,713644,Bryan Zaragoza,"['Sep', '9', '2001']",164.0,Spain,Attack Left Winger,right,Granada CF,12,1,nan,nan,84,Manuel García ...
+527,262365,Antonio Puertas,"['Feb', '21', '1992']",183.0,Spain,Attack Right Winger,right,Granada CF,61,27,nan,nan,347,Promoesport
+528,282722,Álex Collado,"['Apr', '22', '1999']",177.0,Spain,Attack Right Winger,left,Elche CF,25,14,nan,nan,138,Goal Management
+529,487688,Alberto Soro,"['Mar', '9', '1999']",173.0,Spain,Attack Right Winger,left,Granada CF,9,17,nan,nan,132,Media Base Sports
+530,67548,Rubén Rochina,"['Mar', '23', '1991']",182.0,Spain,Attack Right Winger,left,Granada CF,47,39,nan,nan,323,Promoesport
+531,424784,Luis Suárez,"['Dec', '2', '1997']",185.0,Colombia,Attack Centre Forward,right,UD Almería,62,19,nan,nan,249,CAA Stellar
+532,611426,Matías Arezo,"['Nov', '21', '2002']",177.0,Uruguay,Attack Centre Forward,right,Peñarol,51,16,nan,nan,127,Faro Sports
+533,57825,Jorge Molina,"['Apr', '22', '1982']",188.0,Spain,Attack Centre Forward,right,Granada CF,240,52,nan,nan,634,Domingo Sevillano ...
+534,119235,Carlos Bacca,"['Sep', '8', '1986']",181.0,Colombia,Attack Centre Forward,right,Junior FC,219,87,nan,nan,543,INVSPORT (Sergio ...
+535,596884,Adrián Butzke,"['Mar', '30', '1999']",193.0,Spain,Attack Centre Forward,right,Paços Ferreira,17,2,nan,nan,95,RGFOOTBALL
+536,118997,Aitor Fernández,"['May', '3', '1991']",182.0,Spain,Goalkeeper,right,CA Osasuna,-,-,402,106,351,Sports and ...
+537,397676,Dani Cárdenas,"['Mar', '28', '1997']",186.0,Spain,Goalkeeper,right,Levante,-,1,135,42,122,Identity Sports
+538,299715,Koke Vegas,"['Sep', '27', '1995']",188.0,Spain,Goalkeeper,right,San Diego Loyal,-,-,162,34,123,Wasserman
+539,611202,Pablo Picón,"['Feb', '1', '2000']",185.0,Spain,Goalkeeper,right,Córdoba CF,-,-,32,10,36,DV7 Management
+540,617059,Pablo Cuñat,"['Apr', '28', '2002']",188.0,Spain,Goalkeeper,left,Atl. Levante,-,-,30,9,29,InterStarDeporte
+541,939445,Álex Primo,"['Jul', '10', '2004']",187.0,Spain,Goalkeeper,right,Levante U19,-,-,1,-,1,Identity Sports
+542,257851,Rúben Vezo,"['Apr', '25', '1994']",182.0,Portugal,Defender Centre Back,right,Levante,7,8,nan,nan,259,Gestifute
+543,88590,Shkodran Mustafi,"['Apr', '17', '1992']",184.0,Germany,Defender Centre Back,right,Levante,24,11,nan,nan,389,CAA Stellar
+544,387129,Rober Pier,"['Feb', '16', '1995']",182.0,Spain,Defender Centre Back,right,Levante,3,4,nan,nan,183,Bahía Internacional
+545,54935,Martín Cáceres,"['Apr', '7', '1987']",180.0,Uruguay,Defender Centre Back,right,Los Angeles,22,16,nan,nan,386,no agent
+546,175323,Óscar Duarte,"['Jun', '3', '1989']",186.0,Costa Rica,Defender Centre Back,right,Al-Wehda FC,20,7,nan,nan,337,AC Talent
+547,158791,Sergio Postigo,"['Nov', '4', '1988']",185.0,Spain,Defender Centre Back,right,Levante,16,9,nan,nan,386,MESAS SPORT
+548,627277,José Manuel,"['Feb', '25', '1999']",,Spain,Defender Centre Back,,Mar Menor FC,1,-,nan,nan,60,Toldra Consulting ...
+549,627276,Antonio Leal,"['Jan', '28', '1999']",186.0,Spain,Defender Centre Back,right,Unionistas CF,-,-,nan,nan,79,
+550,856136,Carlos Giménez,"['Feb', '18', '2003']",182.0,Spain,Defender Centre Back,right,Atl. Levante,-,-,nan,nan,30,PROTIO SPORT
+551,373916,Marcelo Saracchi,"['Apr', '23', '1998']",172.0,Uruguay,Defender Left Back,left,Levante,7,18,nan,nan,189,Marcelo Tejera
+552,193784,Carlos Clerc,"['Feb', '21', '1992']",181.0,Spain,Defender Left Back,left,Elche CF,8,15,nan,nan,345,Rafael Anguita
+553,282700,Enric Franquesa,"['Feb', '26', '1997']",174.0,Spain,Defender Left Back,left,CD Leganés,9,4,nan,nan,177,AC Talent
+554,228917,Jorge Miramón,"['Jun', '2', '1989']",175.0,Spain,Defender Right Back,right,CD Leganés,16,18,nan,nan,438,GLOBAL ASES
+555,349856,Son,"['Mar', '30', '1994']",178.0,Spain,Defender Right Back,right,Levante,17,8,nan,nan,290,MESAS SPORT
+556,844637,Marc Pubill,"['Jun', '20', '2003']",190.0,Spain,Defender Right Back,right,Levante,3,2,nan,nan,56,
+557,71905,Coke,"['Apr', '26', '1987']",176.0,Spain,Defender Right Back,right,UD Ibiza,50,16,nan,nan,439,Gesport Espizua SL
+558,718177,Joseda Álvarez,"['Jan', '22', '2001']",183.0,Spain,Defender Right Back,right,Depor. Alavés B,2,-,nan,nan,73,Proneo Sports S.L.
+559,328480,Pepelu,"['Aug', '11', '1998']",186.0,Spain,midfield Defensive Midfield,right,Levante,18,7,nan,nan,264,Wasserman
+560,205569,Mickaël Malsa,"['Oct', '12', '1995']",179.0,Martinique,midfield Defensive Midfield,right,Kasimpasa,8,8,nan,nan,212,SBB Global
+561,168959,Nemanja Radoja,"['Feb', '6', '1993']",186.0,Serbia,midfield Defensive Midfield,right,Kansas City,4,11,nan,nan,296,
+562,151470,Nikola Vukcevic,"['Dec', '13', '1991']",187.0,Montenegro,midfield Defensive Midfield,left,Al-Ahli SC,10,11,nan,nan,255,
+563,120095,José Campaña,"['May', '31', '1993']",179.0,Spain,midfield Central Midfield,right,Levante,27,42,nan,nan,355,Niagara Sur
+564,162056,Gonzalo Melero,"['Jan', '2', '1994']",183.0,Spain,midfield Central Midfield,right,UD Almería,54,15,nan,nan,307,Bahía Internacional
+565,568835,Pablo Martínez,"['Feb', '22', '1998']",182.0,Spain,midfield Central Midfield,right,Levante,14,7,nan,nan,162,
+566,405564,Giorgi Kochorashvili,"['Jun', '29', '1999']",176.0,Georgia,midfield Central Midfield,right,Castellón,8,4,nan,nan,115,KHALENA SPORT
+567,856156,Carlos Benítez,"['Nov', '25', '2002']",175.0,Spain,midfield Central Midfield,right,Atl. Levante,1,-,nan,nan,40,Minguella Football ...
+568,245014,Enis Bardhi,"['Jul', '2', '1995']",172.0,North Macedonia,midfield Attacking Midfield,right,Trabzonspor,52,28,nan,nan,296,
+569,611198,Álex Blesa,"['Jan', '15', '2002']",180.0,Spain,midfield Attacking Midfield,left,CyD Leonesa,9,2,nan,nan,112,Wasserman
+570,638235,Alejandro Cantero,"['Jun', '8', '2000']",184.0,Spain,Attack Left Winger,right,Levante,11,5,nan,nan,119,ABADSPORT
+571,455181,Jorge de Frutos,"['Feb', '20', '1997']",173.0,Spain,Attack Right Winger,right,Levante,29,32,nan,nan,222,Niagara Sports ...
+572,172142,Hernâni,"['Aug', '20', '1991']",180.0,Portugal,Attack Right Winger,left,Rio Ave FC,45,30,nan,nan,252,Leaguepro LDA
+573,212391,Roger Martí,"['Jan', '3', '1991']",179.0,Spain,Attack Centre Forward,right,Cádiz CF,126,25,nan,nan,365,Promoesport
+574,252677,José Luis Morales,"['Jul', '23', '1987']",180.0,Spain,Attack Centre Forward,right,Villarreal,95,52,nan,nan,433,ABADSPORT
+575,422460,Dani Gómez,"['Jul', '30', '1998']",178.0,Spain,Attack Centre Forward,right,Espanyol,48,14,nan,nan,190,Manuel García ...
+576,34870,Roberto Soldado,"['May', '27', '1985']",180.0,Spain,Attack Centre Forward,right,Levante,223,74,nan,nan,606,Toldra Consulting ...
+577,668041,Omar Faraj,"['Mar', '9', '2002']",182.0,Sweden,Attack Centre Forward,right,AIK,25,3,nan,nan,101,11MANGMT
+578,207302,Sergio Rico,"['Sep', '1', '1993']",196.0,Spain,Goalkeeper,right,Paris SG,-,-,380,87,277,YOU FIRST
+579,316884,Dominik Greif,"['Apr', '6', '1997']",197.0,Slovakia,Goalkeeper,right,RCD Mallorca,-,-,183,51,165,Stars & Friends
+580,562742,Leo Román,"['Jul', '6', '2000']",189.0,Spain,Goalkeeper,right,RCD Mallorca,-,-,17,5,16,Antonio López ...
+581,29051,Manolo Reina,"['Apr', '1', '1985']",186.0,Spain,Goalkeeper,right,Málaga CF,-,1,487,156,448,no agent
+582,632913,Pere García,"['Mar', '22', '2002']",193.0,Spain,Goalkeeper,right,RCD Mallorca B,-,-,16,4,16,
+583,741285,Ferran Quetglás,"['Jun', '6', '2005']",188.0,Spain,Goalkeeper,right,Real Madrid U19,-,-,-,-,-,Agent is known - Player under 18
+584,277384,Martin Valjent,"['Dec', '11', '1995']",187.0,Slovakia,Defender Centre Back,right,RCD Mallorca,8,2,nan,nan,339,20 Sport
+585,278296,Antonio Raíllo,"['Oct', '8', '1991']",187.0,Spain,Defender Centre Back,,RCD Mallorca,19,6,nan,nan,322,Promoesport
+586,378463,Franco Russo,"['Oct', '25', '1994']",186.0,Argentina,Defender Centre Back,right,Ludogorets,4,-,nan,nan,156,PROTIO SPORT
+587,237499,Aleksandar Sedlar,"['Dec', '13', '1991']",180.0,Serbia,Defender Centre Back,right,Alavés,16,1,nan,nan,270,CSGG
+588,632495,Josep Gayá,"['Jul', '7', '2000']",,Spain,Defender Centre Back,,RCD Mallorca B,2,-,nan,nan,35,Wasserman
+589,166677,Brian Oliván,"['Apr', '1', '1994']",175.0,Spain,Defender Left Back,left,Espanyol,8,13,nan,nan,249,Promoesport
+590,65318,Jaume Costa,"['Mar', '18', '1988']",171.0,Spain,Defender Left Back,left,RCD Mallorca,9,30,nan,nan,467,Toldra Consulting ...
+591,628488,Marc Carmona,"['Jan', '8', '2001']",,Spain,Defender Left Back,left,Without Club,-,-,nan,nan,3,TANDHEM
+592,947432,Marcos Fernández,"['Jul', '17', '2003']",,Spain,Defender Left Back,,RCD Mallorca B,-,-,nan,nan,17,
+593,251876,Pablo Maffeo,"['Jul', '12', '1997']",172.0,Spain,Defender Right Back,right,RCD Mallorca,7,23,nan,nan,252,Promoesport
+594,350364,Joan Sastre,"['Apr', '30', '1997']",174.0,Spain,Defender Right Back,right,PAOK Salonika,7,9,nan,nan,205,LIAN Sports Group
+595,339699,Giovanni González,"['Sep', '20', '1994']",178.0,Uruguay,Defender Right Back,right,RCD Mallorca,10,29,nan,nan,240,Promoesport
+596,632498,Miguelito,"['Jan', '12', '2001']",,Spain,Defender Right Back,,RCD Mallorca B,-,-,nan,nan,32,LIAN Sports Group
+597,89297,Rodrigo Battaglia,"['Jul', '12', '1991']",187.0,Argentina,midfield Defensive Midfield,right,Atlético-MG,17,4,nan,nan,322,PRI Sports
+598,442805,Iddrisu Baba,"['Jan', '22', '1996']",182.0,Ghana,midfield Central Midfield,right,RCD Mallorca,3,2,nan,nan,206,LIAN Sports Group
+599,126751,Iñigo Ruiz de Galarreta,"['Aug', '6', '1993']",175.0,Spain,midfield Central Midfield,right,RCD Mallorca,9,24,nan,nan,331,GLOBAL ASES
+600,513031,Antonio Sánchez,"['Apr', '22', '1997']",179.0,Spain,midfield Central Midfield,right,RCD Mallorca,10,4,nan,nan,185,CAA Stellar
+601,217144,Aleix Febas,"['Feb', '2', '1996']",172.0,Spain,midfield Central Midfield,right,Málaga CF,23,25,nan,nan,311,Gelu Rodríguez
+602,72479,Clément Grenier,"['Jan', '7', '1991']",186.0,France,midfield Central Midfield,right,RCD Mallorca,37,46,nan,nan,304,YOU FIRST
+603,58799,Salva Sevilla,"['Mar', '18', '1984']",178.0,Spain,midfield Central Midfield,right,Alavés,67,42,nan,nan,502,FIA Sports ...
+604,557149,Kang-in Lee,"['Feb', '19', '2001']",173.0,"Korea, South",midfield Attacking Midfield,left,RCD Mallorca,15,14,nan,nan,162,INTEGRAL ADVISING ...
+605,139435,Dani Rodríguez,"['Jun', '6', '1988']",178.0,Spain,midfield Attacking Midfield,right,RCD Mallorca,52,31,nan,nan,493,PROTIO SPORT
+606,632501,Thomas Giaquinto,"['Mar', '20', '2000']",175.0,Argentina,midfield Attacking Midfield,right,RCD Mallorca B,1,-,nan,nan,51,
+607,339820,Amath Ndiaye,"['Jul', '16', '1996']",173.0,Senegal,Attack Left Winger,right,RCD Mallorca,31,14,nan,nan,191,EF11 SL
+608,100722,Lago Júnior,"['Dec', '31', '1990']",180.0,Cote d'Ivoire,Attack Left Winger,right,Málaga CF,81,15,nan,nan,455,
+609,706138,Javi Llabrés,"['Sep', '11', '2002']",174.0,Spain,Attack Left Winger,both,CD Mirandés,3,3,nan,nan,26,InterStarDeporte
+610,405398,Takefusa Kubo,"['Jun', '4', '2001']",173.0,Japan,Attack Right Winger,left,Real Sociedad,28,28,nan,nan,215,Roberto Tukada
+611,505673,Víctor Mollejo,"['Jan', '21', '2001']",176.0,Spain,Attack Right Winger,left,Real Zaragoza,24,12,nan,nan,164,Media Base Sports
+612,331498,Jordi Mboula,"['Mar', '16', '1999']",183.0,Spain,Attack Right Winger,right,Racing,24,14,nan,nan,153,Universal Twenty Two
+613,256267,Vedat Muriqi,"['Apr', '24', '1994']",194.0,Kosovo,Attack Centre Forward,left,RCD Mallorca,102,32,nan,nan,348,FutureBall
+614,51510,Ángel Rodríguez,"['Apr', '26', '1987']",171.0,Spain,Attack Centre Forward,right,RCD Mallorca,146,28,nan,nan,530,Emartsoccer
+615,177452,Abdón Prats,"['Dec', '7', '1992']",181.0,Spain,Attack Centre Forward,left,RCD Mallorca,102,15,nan,nan,397,Eugenio Botas ...
+616,678194,Matthew Hoppe,"['Mar', '13', '2001']",191.0,United States,Attack Centre Forward,right,Hibernian FC,18,7,nan,nan,88,Bond MG
+617,632499,Pablo Gálvez,"['Oct', '30', '2001']",,Spain,Attack Centre Forward,,RCD Mallorca B,6,-,nan,nan,28,LIAN Sports Group
+618,102146,Édgar Badía,"['Feb', '12', '1992']",180.0,Spain,Goalkeeper,right,Elche CF,-,1,419,115,364,Wasserman
+619,236734,Axel Werner,"['Feb', '28', '1996']",191.0,Argentina,Goalkeeper,right,Elche CF,-,-,150,10,83,Relatives
+620,27486,Kiko Casilla,"['Oct', '2', '1986']",190.0,Spain,Goalkeeper,right,Getafe,-,-,457,123,372,CONTROL ORIENTADO
+621,602979,Lluis Andreu,"['Jul', '27', '1999']",188.0,Spain,Goalkeeper,right,Alzira,-,-,19,2,14,Identity Sports
+622,186862,Enzo Roco,"['Aug', '16', '1992']",192.0,Chile,Defender Centre Back,right,Elche CF,18,6,nan,nan,341,Fernando Felicevich
+623,349836,Diego González,"['Jan', '28', '1995']",185.0,Spain,Defender Centre Back,right,Elche CF,5,-,nan,nan,235,Promoesport
+624,203043,Pedro Bigas,"['May', '15', '1990']",181.0,Spain,Defender Centre Back,left,Elche CF,17,7,nan,nan,324,
+625,255892,Josema,"['Jun', '6', '1996']",184.0,Spain,Defender Centre Back,left,CD Leganés,5,2,nan,nan,171,JV SPORTS SL
+626,184779,Gonzalo Verdú,"['Oct', '21', '1988']",188.0,Spain,Defender Centre Back,right,Elche CF,24,5,nan,nan,380,RGFOOTBALL
+627,622623,Sergio Bono,"['Jul', '24', '2000']",188.0,Spain,Defender Centre Back,,Alzira,2,-,nan,nan,21,Vicente Ruá
+628,627290,John Donald,"['Sep', '25', '2000']",182.0,Spain,Defender Centre Back,right,Elche CF,-,-,nan,nan,22,Identity Sports
+629,262939,Johan Mojica,"['Aug', '21', '1992']",185.0,Colombia,Defender Left Back,left,Villarreal,12,29,nan,nan,283,LF Sport Management
+630,216240,Lucas Olaza,"['Jul', '21', '1994']",176.0,Uruguay,Defender Left Back,left,Real Valladolid,22,21,nan,nan,248,Sport Business
+631,211389,Helibelton Palacios,"['Jun', '11', '1993']",181.0,Colombia,Defender Right Back,right,Elche CF,5,24,nan,nan,350,WORLD SPORTS ...
+632,32522,Antonio Barragán,"['Jun', '12', '1987']",186.0,Spain,Defender Right Back,right,Retired,5,24,nan,nan,376,YOU FIRST
+633,623023,Carles Marco,"['Apr', '5', '2000']",183.0,Spain,Defender Right Back,right,Elche Ilicitano,-,-,nan,nan,6,MESAS SPORT
+634,142031,Omar Mascarell,"['Feb', '2', '1993']",181.0,Spain,midfield Defensive Midfield,right,Elche CF,13,14,nan,nan,335,LEADERBROCK
+635,268670,Gerard Gumbau,"['Dec', '18', '1994']",188.0,Spain,midfield Defensive Midfield,left,Elche CF,20,27,nan,nan,314,CONTROL ORIENTADO
+636,90451,Iván Marcone,"['Jun', '3', '1990']",182.0,Argentina,midfield Defensive Midfield,right,Independiente,3,4,nan,nan,490,Score Futbol
+637,330352,Raúl Guti,"['Dec', '30', '1996']",178.0,Spain,midfield Central Midfield,right,Elche CF,12,7,nan,nan,193,AC Talent
+638,527698,Kike Pérez,"['Feb', '14', '1997']",184.0,Spain,midfield Central Midfield,left,Real Valladolid,14,8,nan,nan,189,LEADERBROCK
+639,672953,César Moreno,"['Apr', '23', '2001']",183.0,Spain,midfield Central Midfield,,Hércules CF,2,-,nan,nan,62,Identity Sports
+640,786438,Jony Álamo,"['Sep', '25', '2001']",175.0,Spain,midfield Central Midfield,right,Elche Ilicitano,1,1,nan,nan,20,RGFOOTBALL
+641,55215,Javier Pastore,"['Jun', '20', '1989']",187.0,Argentina,midfield Attacking Midfield,right,Qatar SC,74,85,nan,nan,442,Dodici
+642,225593,Pere Milla,"['Sep', '23', '1992']",180.0,Spain,Attack Left Winger,left,Elche CF,72,21,nan,nan,383,EGGO Asesores ...
+643,339816,Tete Morente,"['Dec', '4', '1996']",184.0,Spain,Attack Left Winger,right,Elche CF,18,19,nan,nan,210,Excellence Sport
+644,149231,Fidel,"['Oct', '27', '1989']",180.0,Spain,Attack Left Winger,left,Elche CF,61,48,nan,nan,435,Wasserman
+645,56067,Pablo Piatti,"['Mar', '31', '1989']",163.0,Argentina,Attack Left Winger,left,Estudiantes,81,73,nan,nan,495,Universal Twenty Two
+646,277533,Josan,"['Dec', '3', '1989']",176.0,Spain,Attack Right Winger,right,Elche CF,24,21,nan,nan,332,JV SPORTS SL
+647,900166,Joselu Friaza,"['Feb', '15', '2002']",192.0,Spain,Attack Right Winger,left,Elche Ilicitano,-,-,nan,nan,1,SPOCS Global Sports
+648,334222,Lucas Boyé,"['Feb', '28', '1996']",183.0,Argentina,Attack Centre Forward,right,Elche CF,35,20,nan,nan,275,Universal Twenty Two
+649,296783,Ezequiel Ponce,"['Mar', '29', '1997']",181.0,Argentina,Attack Centre Forward,right,Elche CF,76,19,nan,nan,267,Wasserman
+650,92693,Darío Benedetto,"['May', '17', '1990']",175.0,Argentina,Attack Centre Forward,right,Boca Juniors,161,47,nan,nan,430,Score Futbol
+651,73185,Lucas Pérez,"['Sep', '10', '1988']",180.0,Spain,Attack Centre Forward,left,Dep. La Coruña,112,70,nan,nan,399,7DS
+652,184672,Guido Carrillo,"['May', '25', '1991', 'Happy', 'Birthday']",191.0,Argentina,Attack Centre Forward,right,Estudiantes,81,25,nan,nan,383,CAA Stellar
+653,720532,Diego Bri,"['Sep', '12', '2002']",,Spain,Attack Centre Forward,,Atl. Madrid B,5,-,nan,nan,41,Toldra Consulting ...
+654,887054,Cheikh Diamanka,"['Jan', '20', '2001']",,Senegal,Attack Centre Forward,,Coruchense,-,-,nan,nan,1,
+655,284342,Conan Ledesma,"['Feb', '13', '1993']",186.0,Argentina,Goalkeeper,right,Cádiz CF,-,-,243,58,188,Best of You
+656,162027,David Gil,"['Jan', '11', '1994']",186.0,Spain,Goalkeeper,right,Cádiz CF,-,2,146,25,100,Gesport Espizua SL
+657,513972,Juan Flere,"['May', '12', '1998']",183.0,Argentina,Goalkeeper,right,Algeciras CF,-,-,60,19,52,Niagara Sports ...
+658,706797,Victor Aznar,"['Oct', '17', '2002']",189.0,Brazil,Goalkeeper,right,Cádiz B,-,-,64,20,57,SportsMaxi ...
+659,252667,Fali,"['Aug', '12', '1993']",186.0,Spain,Defender Centre Back,right,Cádiz CF,10,11,nan,nan,338,Promoesport
+660,495625,Víctor Chust,"['Mar', '5', '2000']",184.0,Spain,Defender Centre Back,both,Cádiz CF,1,2,nan,nan,93,Borja Couce
+661,247366,Marcos Mauro,"['Jan', '9', '1991']",188.0,Argentina,Defender Centre Back,right,UD Ibiza,15,1,nan,nan,262,"SOCCERMEDIA, S.L."
+662,155423,Varazdat Haroyan,"['Aug', '24', '1992']",185.0,Armenia,Defender Centre Back,right,FC Astana,15,7,nan,nan,343,Bucket Group
+663,67089,Juan Cala,"['Nov', '26', '1989']",186.0,Spain,Defender Centre Back,right,Cádiz CF,24,9,nan,nan,339,
+664,62945,Luis Hernández,"['Apr', '14', '1989']",182.0,Spain,Defender Centre Back,right,Cádiz CF,9,13,nan,nan,427,M.AG
+665,311044,Alfonso Espino,"['Jan', '5', '1992']",172.0,Uruguay,Defender Left Back,left,Cádiz CF,8,27,nan,nan,314,GBG Global Business ...
+666,520947,Santiago Arzamendia,"['May', '5', '1998']",172.0,Paraguay,Defender Left Back,left,Cádiz CF,6,10,nan,nan,128,
+667,628490,Genar Fornés,"['Jan', '17', '2000']",18.0,Spain,Defender Left Back,left,Cádiz B,3,1,nan,nan,80,Proneo Sports S.L.
+668,254037,Iza Carcelén,"['Apr', '23', '1993']",170.0,Spain,Defender Right Back,right,Cádiz CF,18,19,nan,nan,314,Wasserman
+669,225015,Carlos Akapo,"['Mar', '12', '1993']",179.0,Equatorial Guinea,Defender Right Back,right,San Jose,2,5,nan,nan,225,AREA SPORT TEAM
+670,784719,Raúl Parra,"['Nov', '26', '1999']",187.0,Spain,Defender Right Back,right,Cádiz CF,4,-,nan,nan,82,Emartsoccer
+671,148355,Jens Jönsson,"['Jan', '10', '1993']",182.0,Denmark,midfield Defensive Midfield,right,AEK Athens,8,10,nan,nan,339,Beckster Int.
+672,454238,Tomás Alarcón,"['Jan', '19', '1999']",176.0,Chile,midfield Defensive Midfield,right,Real Zaragoza,9,5,nan,nan,124,TTMIB Worldwide
+673,225462,José Mari,"['Dec', '6', '1987']",182.0,Spain,midfield Defensive Midfield,right,Cádiz CF,11,5,nan,nan,346,Proeleven S.A.
+674,247250,Rubén Alcaraz,"['May', '1', '1991']",180.0,Spain,midfield Central Midfield,right,Cádiz CF,49,9,nan,nan,370,LEADERBROCK
+675,307519,Fede San Emeterio,"['Mar', '16', '1997']",176.0,Spain,midfield Central Midfield,right,Cádiz CF,9,2,nan,nan,297,
+676,882772,Álvaro Bastida,"['May', '12', '2004']",170.0,Spain,midfield Central Midfield,,Cádiz B,3,-,nan,nan,58,DRL
+677,278404,Martín Calderón,"['Mar', '1', '1999']",183.0,Spain,midfield Central Midfield,left,Celta Vigo B,5,7,nan,nan,103,LEADERBROCK
+678,89733,Álex Fernández,"['Oct', '15', '1992']",183.0,Spain,midfield Attacking Midfield,right,Cádiz CF,45,27,nan,nan,411,Niagara Sports ...
+679,99559,Alberto Perea,"['Dec', '19', '1990']",175.0,Spain,Attack Left Winger,right,Granada CF,52,21,nan,nan,354,Niagara Sports ...
+680,246204,Salvi Sánchez,"['Mar', '30', '1991']",170.0,Spain,Attack Right Winger,right,Rayo Vallecano,39,26,nan,nan,365,Promoesport
+681,281755,Iván Alejo,"['Feb', '10', '1995']",186.0,Spain,Attack Right Winger,right,Cádiz CF,14,15,nan,nan,230,Wasserman
+682,282406,Álvaro Jiménez,"['May', '19', '1995']",175.0,Spain,Attack Right Winger,right,UD Las Palmas,28,22,nan,nan,258,CAA Stellar
+683,412046,Ivan Chapela,"['May', '21', '1999']",181.0,Spain,Attack Right Winger,,Unionistas CF,16,5,nan,nan,107,DRL
+684,131275,Anthony Lozano,"['Apr', '25', '1993']",183.0,Honduras,Attack Centre Forward,right,Cádiz CF,61,23,nan,nan,324,Promoesport
+685,18644,Álvaro Negredo,"['Aug', '20', '1985']",186.0,Spain,Attack Centre Forward,left,Cádiz CF,252,86,nan,nan,646,Niagara Sports ...
+686,177065,Florin Andone,"['Apr', '11', '1993']",181.0,Romania,Attack Centre Forward,right,UD Las Palmas,70,14,nan,nan,246,YOU FIRST
+687,542819,Milutin Osmajic,"['Jul', '25', '1999']",186.0,Montenegro,Attack Centre Forward,both,Vizela,31,2,nan,nan,153,Igor Gluscevic
+688,835794,Pedro Benito,"['Mar', '27', '2000']",182.0,Spain,Attack Centre Forward,right,UD Sanse,10,1,nan,nan,62,YOU FIRST
+689,165467,Stole Dimitrievski,"['Dec', '25', '1993']",188.0,North Macedonia,Goalkeeper,right,Rayo Vallecano,-,-,372,99,324,Promoesport
+690,283489,Luca Zidane,"['May', '13', '1998']",183.0,France,Goalkeeper,right,SD Eibar,-,1,180,48,160,Roalza
+691,260740,Iván Arboleda,"['Apr', '21', '1996']",185.0,Colombia,Goalkeeper,right,Without Club,-,-,93,35,94,
+692,607780,Miguel Ángel Morro,"['Sep', '11', '2000']",195.0,Spain,Goalkeeper,left,Rayo Vallecano,-,-,41,9,29,ROOF
+693,548186,Adrián Quintela,"['Mar', '11', '2001']",188.0,Spain,Goalkeeper,right,Madrid 2021,-,-,-,-,-,
+694,449796,Alejandro Catena,"['Oct', '28', '1994']",194.0,Spain,Defender Centre Back,right,Rayo Vallecano,14,6,nan,nan,247,Universal Sport
+695,258475,Nikola Maras,"['Dec', '19', '1995']",189.0,Serbia,Defender Centre Back,right,Alavés,16,4,nan,nan,281,Promoesport
+696,240360,Esteban Saveljich,"['May', '20', '1991']",187.0,Montenegro,Defender Centre Back,right,Rayo Vallecano,8,2,nan,nan,232,
+697,717957,Jorge Moreno,"['Jul', '25', '2001']",184.0,Spain,Defender Centre Back,right,Córdoba CF,3,-,nan,nan,61,RGFOOTBALL
+698,37337,Mario Suárez,"['Feb', '24', '1987']",189.0,Spain,Defender Centre Back,right,Rayo Vallecano,33,17,nan,nan,489,Promoesport
+699,623025,Sergio Gimeno,"['May', '25', '2001', 'Happy', 'Birthday']",,Spain,Defender Centre Back,,Without Club,-,-,nan,nan,1,INVSPORT (Sergio ...
+700,628461,Iker Recio,"['Jun', '17', '2001']",184.0,Spain,Defender Centre Back,left,AD Alcorcón B,1,-,nan,nan,37,MRH Football Agency
+701,341264,Fran García,"['Aug', '14', '1999']",169.0,Spain,Defender Left Back,left,Rayo Vallecano,9,13,nan,nan,194,Media Base Sports
+702,206947,Kévin Rodrigues,"['Mar', '5', '1994']",170.0,Portugal,Defender Left Back,left,Adana Demirspor,11,17,nan,nan,195,Carrierefoot
+703,85295,Iván Balliu,"['Jan', '1', '1992']",172.0,Albania,Defender Right Back,right,Rayo Vallecano,4,21,nan,nan,379,Fabián Bustos
+704,608531,Mario Hernández,"['Jan', '25', '1999']",177.0,Spain,Defender Right Back,right,Rayo Vallecano,1,-,nan,nan,67,PROTIO SPORT
+705,380598,Santi Comesaña,"['Oct', '5', '1996']",188.0,Spain,midfield Central Midfield,both,Rayo Vallecano,21,9,nan,nan,253,Intermedia Sport ...
+706,192009,Unai López,"['Oct', '30', '1995']",170.0,Spain,midfield Central Midfield,right,Rayo Vallecano,16,19,nan,nan,294,IDUB GLOBAL
+707,517753,Óscar Valentín,"['Aug', '20', '1994']",177.0,Spain,midfield Central Midfield,right,Rayo Vallecano,3,4,nan,nan,224,Promoesport
+708,525578,Pathé Ciss,"['Mar', '16', '1994']",186.0,Senegal,midfield Central Midfield,right,Rayo Vallecano,16,6,nan,nan,183,NTS Management
+709,629020,Manu Navarro,"['Oct', '9', '2000']",,Spain,midfield Central Midfield,,Hércules CF,-,-,nan,nan,7,
+710,560483,Randy Nteka,"['Dec', '6', '1997']",189.0,France,midfield Attacking Midfield,left,Elche CF,27,7,nan,nan,203,Ballers Management ...
+711,30321,Óscar Trejo,"['Apr', '26', '1988']",180.0,Argentina,midfield Attacking Midfield,right,Rayo Vallecano,74,54,nan,nan,556,Eleven Talent Group
+712,195605,José Pozo,"['Mar', '15', '1996']",171.0,Spain,midfield Attacking Midfield,left,Rayo Vallecano,35,26,nan,nan,276,YOU FIRST
+713,257062,Álvaro García,"['Oct', '27', '1992']",167.0,Spain,Attack Left Winger,both,Rayo Vallecano,61,45,nan,nan,399,YOU FIRST
+714,289272,Martín Merquelanz,"['Jun', '12', '1995']",176.0,Spain,Attack Left Winger,left,Real Sociedad,35,24,nan,nan,171,IDUB GLOBAL
+715,153427,Bebé,"['Jul', '12', '1990']",190.0,Cape Verde,Attack Left Winger,right,Real Zaragoza,53,27,nan,nan,330,JV SPORTS SL
+716,888694,Álvaro Aguirre,"['Feb', '3', '2000']",,Spain,Attack Left Winger,,CD Leganés B,-,-,nan,nan,13,Niagara Sports ...
+717,891075,Alejandro Asensio,"['Sep', '14', '2000']",,Spain,Attack Left Winger,left,Rayo B,-,-,nan,nan,4,Anteos
+718,362086,Isi Palazón,"['Dec', '27', '1994']",169.0,Spain,Attack Right Winger,left,Rayo Vallecano,47,22,nan,nan,312,JV SPORTS SL
+719,256429,Sergi Guardiola,"['May', '29', '1991']",185.0,Spain,Attack Centre Forward,left,Cádiz CF,88,19,nan,nan,348,JV SPORTS SL
+720,39152,Radamel Falcao,"['Feb', '10', '1986']",177.0,Colombia,Attack Centre Forward,right,Rayo Vallecano,303,54,nan,nan,565,Gestifute
+721,531277,Andrés Martín,"['Jul', '11', '1999']",178.0,Spain,Attack Centre Forward,left,Rayo Vallecano,24,14,nan,nan,174,Best of You
+722,166683,Mamadou Sylla,"['Mar', '20', '1994']",180.0,Senegal,Attack Centre Forward,right,Alavés,57,30,nan,nan,294,Kick Off Management
+723,93747,Yacine Qasmi,"['Jan', '3', '1991']",183.0,Morocco,Attack Centre Forward,left,CD Leganés,79,10,nan,nan,364,JV SPORTS SL
+724,607779,Sergio Moreno,"['Jan', '1', '1999']",178.0,Spain,Attack Centre Forward,right,CA Osasuna Prom,10,2,nan,nan,102,Eugenio Botas ...
+725,172015,Fernando Pacheco,"['May', '18', '1992']",187.0,Spain,Goalkeeper,left,Espanyol,-,-,420,94,320,EMG Mundial
+726,298197,Antonio Sivera,"['Aug', '11', '1996']",185.0,Spain,Goalkeeper,right,Alavés,-,-,137,45,128,Wasserman
+727,631693,Jesús Owono,"['Mar', '1', '2001']",181.0,Equatorial Guinea,Goalkeeper,,Alavés,-,-,3,3,6,Wasserman
+728,608382,Adrián Rodríguez,"['Dec', '12', '2000']",195.0,Argentina,Goalkeeper,right,Depor. Alavés B,-,-,34,20,41,InterStarDeporte
+729,970490,Óscar Medina,"['Jan', '19', '2004']",,Spain,Goalkeeper,,Cartagena U19,-,-,-,-,-,
+730,970493,Iván Sanz,"['Jan', '8', '2003']",,Spain,Goalkeeper,,Haro Deportivo,-,-,-,-,-,
+731,245893,Matt Miazga,"['Jul', '19', '1995']",193.0,United States,Defender Centre Back,right,Cincinnati,12,5,nan,nan,261,Promoesport
+732,67080,Víctor Laguardia,"['Nov', '5', '1989']",183.0,Spain,Defender Centre Back,right,Alavés,16,11,nan,nan,371,Bahía Internacional
+733,127108,Florian Lejeune,"['May', '20', '1991']",190.0,France,Defender Centre Back,right,Rayo Vallecano,21,7,nan,nan,376,Wasserman
+734,559979,Abdel Abqar,"['Mar', '10', '1999']",188.0,Morocco,Defender Centre Back,right,Alavés,1,1,nan,nan,76,
+735,177046,Rubén Duarte,"['Oct', '18', '1995']",179.0,Spain,Defender Left Back,left,Alavés,2,17,nan,nan,311,YOU FIRST
+736,568158,Javi López,"['Mar', '25', '2002']",183.0,Spain,Defender Left Back,left,Alavés,-,1,nan,nan,73,Gesport Espizua SL
+737,249471,Saúl García,"['Nov', '9', '1994']",182.0,Spain,Defender Left Back,left,Racing,2,13,nan,nan,280,Miguel Pedrajo
+738,533568,Nahuel Tenaglia,"['Feb', '21', '1996']",181.0,Argentina,Defender Right Back,right,Alavés,12,11,nan,nan,155,Universal Twenty Two
+739,483573,Martín Aguirregabiria,"['May', '10', '1996']",180.0,Spain,Defender Right Back,right,Famalicão,2,10,nan,nan,159,Football Promotions ...
+740,184767,Ximo Navarro,"['Jan', '23', '1990']",176.0,Spain,Defender Right Back,right,Fortuna Sittard,8,9,nan,nan,390,CAA Stellar
+741,319253,Alexandru Tirlea,"['Mar', '28', '2000']",182.0,Romania,Defender Right Back,right,Gimnàstic,1,1,nan,nan,74,Gesport Espizua SL
+742,364237,Mamadou Loum,"['Dec', '30', '1996']",188.0,Senegal,midfield Defensive Midfield,right,Reading,11,1,nan,nan,176,TEAM MANAGEMENT
+743,242497,Pere Pons,"['Feb', '20', '1993']",177.0,Spain,midfield Defensive Midfield,right,AEK Larnaca,13,13,nan,nan,345,Promoesport
+744,354697,Tachi,"['Sep', '10', '1997']",184.0,Spain,midfield Defensive Midfield,right,Wisla Kraków,4,1,nan,nan,122,Antonio López ...
+745,483742,Antonio Perera,"['Jun', '8', '1997']",186.0,Spain,midfield Defensive Midfield,left,Botev Plovdiv,1,1,nan,nan,97,
+746,266795,Gonzalo Escalante,"['Mar', '27', '1993']",182.0,Argentina,midfield Central Midfield,right,Cádiz CF,19,12,nan,nan,261,YOU FIRST
+747,295065,Toni Moya,"['Mar', '20', '1998']",185.0,Spain,midfield Central Midfield,right,Alavés,19,9,nan,nan,189,
+748,139895,Tomás Pina,"['Oct', '14', '1987']",185.0,Spain,midfield Central Midfield,right,HN FC,18,10,nan,nan,428,"SOCCERMEDIA, S.L."
+749,634460,Álex Balboa,"['Mar', '6', '2001']",,Equatorial Guinea,midfield Central Midfield,,Depor. Alavés B,-,3,nan,nan,34,Footfeel ISM
+750,646734,Tomás Mendes,"['Nov', '21', '2004']",,Spain,midfield Central Midfield,,Depor. Alavés B,-,-,nan,nan,23,Wasserman
+751,277118,Manu García,"['Jan', '2', '1998']",169.0,Spain,midfield Attacking Midfield,right,Aris Saloniki,16,35,nan,nan,249,IFM
+752,341278,Iván Martín,"['Feb', '14', '1999']",178.0,Spain,midfield Attacking Midfield,left,Girona,7,16,nan,nan,148,Universal Twenty Two
+753,278837,Luis Rioja,"['Oct', '16', '1993']",176.0,Spain,Attack Left Winger,left,Alavés,35,15,nan,nan,331,Promoesport
+754,676318,Facundo Pellistri,"['Dec', '20', '2001']",174.0,Uruguay,Attack Right Winger,right,Man Utd,5,6,nan,nan,90,CAA Stellar
+755,133794,Edgar Méndez,"['Jan', '2', '1990']",187.0,Spain,Attack Right Winger,right,Necaxa,56,21,nan,nan,446,Promoesport
+756,718029,Unai Ropero,"['Nov', '20', '2001']",188.0,Spain,Attack Right Winger,right,Depor. Alavés B,5,-,nan,nan,24,
+757,81999,Joselu,"['Mar', '27', '1990']",192.0,Spain,Attack Centre Forward,right,Espanyol,147,39,nan,nan,468,MRH Football Agency
+758,480883,Miguel de la Fuente,"['Sep', '3', '1999']",182.0,Spain,Attack Centre Forward,right,Alavés,36,14,nan,nan,183,Bahía Internacional
+759,495752,Taichi Hara,"['May', '5', '1999']",192.0,Japan,Attack Centre Forward,right,Sint-Truiden,49,15,nan,nan,183,HEROE
+760,98596,John Guidetti,"['Apr', '15', '1992']",185.0,Sweden,Attack Centre Forward,right,AIK,103,43,nan,nan,322,HCM Sports ...
+761,628472,Marc Tenas,"['May', '30', '2001']",183.0,Spain,Attack Centre Forward,right,Depor. Alavés B,7,-,nan,nan,57,"Puyol, De la Peña ..."
+762,550492,Giorgi Gagua,"['Oct', '10', '2001']",193.0,Georgia,Attack Centre Forward,right,Real Unión,6,3,nan,nan,55,Free Football
+763,668277,Alan Godoy,"['May', '4', '2003']",178.0,Spain,Attack Centre Forward,right,Sanluqueño,14,-,nan,nan,56,Gesport Espizua SL
+764,315858,Gianluigi Donnarumma,"['Feb', '25', '1999']",196.0,Italy,Goalkeeper,right,Paris SG,-,1,350,114,331,Team Raiola
+765,79422,Keylor Navas,"['Dec', '15', '1986']",185.0,Costa Rica,Goalkeeper,right,Nottm Forest,-,1,468,168,471,
+766,93730,Alexandre Letellier,"['Dec', '11', '1990']",193.0,France,Goalkeeper,right,Paris SG,-,1,116,21,91,MEDIATION CONSEIL ...
+767,460626,Garissone Innocent,"['Apr', '16', '2000']",192.0,Haiti,Goalkeeper,right,KAS Eupen,-,-,32,5,22,Mickael Libong
+768,606576,Denis Franchi,"['Oct', '22', '2002']",189.0,Italy,Goalkeeper,right,Burnley,-,-,73,5,36,no agent
+769,181767,Marquinhos,"['May', '14', '1994']",183.0,Brazil,Defender Centre Back,right,Paris SG,38,11,nan,nan,442,Bertolucci Sports
+770,282041,Presnel Kimpembe,"['Aug', '13', '1995']",183.0,France,Defender Centre Back,left,Paris SG,4,2,nan,nan,257,MEDIATION CONSEIL ...
+771,228948,Thilo Kehrer,"['Sep', '21', '1996']",186.0,Germany,Defender Centre Back,right,West Ham,16,16,nan,nan,342,Dirk Hebel
+772,229005,Abdou Diallo,"['May', '4', '1996']",187.0,Senegal,Defender Centre Back,left,RB Leipzig,8,7,nan,nan,217,Classico
+773,25557,Sergio Ramos,"['Mar', '30', '1986']",184.0,Spain,Defender Centre Back,right,Paris SG,109,41,nan,nan,772,RR-Soccer ...
+774,787912,El Chadaille Bitshiabu,"['May', '16', '2005']",196.0,France,Defender Centre Back,left,Paris SG,1,-,nan,nan,26,Gestifute
+775,616341,Nuno Mendes,"['Jun', '19', '2002']",183.0,Portugal,Defender Left Back,left,Paris SG,4,15,nan,nan,133,MRP.POSITIONUMBER
+776,126719,Juan Bernat,"['Mar', '1', '1993']",170.0,Spain,Defender Left Back,left,Paris SG,22,32,nan,nan,338,InterStarDeporte
+777,126710,Layvin Kurzawa,"['Sep', '4', '1992']",182.0,France,Defender Left Back,left,Fulham,25,33,nan,nan,256,CAA Base Ltd
+778,618405,Teddy Alloh,"['Jan', '23', '2002']",176.0,France,Defender Left Back,left,KAS Eupen,-,1,nan,nan,31,AIS SPORT SERVICE
+779,398073,Achraf Hakimi,"['Nov', '4', '1998']",181.0,Morocco,Defender Right Back,right,Paris SG,34,50,nan,nan,258,Footfeel ISM
+780,460629,Colin Dagba,"['Sep', '9', '1998']",170.0,France,Defender Right Back,right,R. Strasbourg,1,7,nan,nan,125,Gol International
+781,166237,Leandro Paredes,"['Jun', '29', '1994']",180.0,Argentina,midfield Defensive Midfield,right,Juventus,25,30,nan,nan,332,DCGLOBALSL
+782,141050,Danilo Pereira,"['Sep', '9', '1991']",188.0,Portugal,midfield Defensive Midfield,right,Paris SG,36,13,nan,nan,454,Gestifute
+783,102558,Marco Verratti,"['Nov', '5', '1992']",165.0,Italy,midfield Central Midfield,right,Paris SG,13,72,nan,nan,493,Rafaela Pimenta
+784,49499,Georginio Wijnaldum,"['Nov', '11', '1990']",175.0,Netherlands,midfield Central Midfield,right,AS Roma,121,60,nan,nan,626,Football Mix B.V.
+785,126665,Idrissa Gueye,"['Sep', '26', '1989']",174.0,Senegal,midfield Central Midfield,right,Everton,18,18,nan,nan,466,Teranga Sports
+786,99343,Ander Herrera,"['Aug', '14', '1989']",182.0,Spain,midfield Central Midfield,right,Athletic,43,56,nan,nan,517,AC Talent
+787,659521,Edouard Michut,"['Mar', '4', '2003']",177.0,France,midfield Central Midfield,right,Sunderland,4,1,nan,nan,49,USFA Management
+788,536482,Junior Dina Ebimbe,"['Nov', '21', '2000']",184.0,France,midfield Right Midfield,right,E. Frankfurt,8,6,nan,nan,126,Relatives
+789,566931,Xavi Simons,"['Apr', '21', '2003']",179.0,Netherlands,midfield Attacking Midfield,right,PSV Eindhoven,26,19,nan,nan,71,Darren Dein
+790,810096,Ismaël Gharbi,"['Apr', '10', '2004']",173.0,Spain,midfield Attacking Midfield,right,Paris SG,7,3,nan,nan,25,AMS CONSULTING
+791,618415,Nathan Bitumazala,"['Dec', '10', '2002']",178.0,France,midfield Attacking Midfield,right,KAS Eupen,1,1,nan,nan,33,TALENT LYFE
+792,68290,Neymar,"['Feb', '5', '1992']",175.0,Brazil,Attack Left Winger,right,Paris SG,293,188,nan,nan,493,Relatives
+793,85148,Julian Draxler,"['Sep', '20', '1993']",185.0,Germany,Attack Left Winger,right,Benfica,91,89,nan,nan,489,ROGON
+794,795657,Djeidi Gassama,"['Sep', '10', '2003']",177.0,France,Attack Left Winger,right,KAS Eupen,7,4,nan,nan,30,BS Group - BS Law
+795,28003,Lionel Messi,"['Jun', '24', '1987']",170.0,Argentina,Attack Right Winger,left,Paris SG,709,339,nan,nan,873,Relatives
+796,74230,Pablo Sarabia,"['May', '11', '1992']",174.0,Spain,Attack Right Winger,left,Wolves,117,84,nan,nan,503,Pablo Barquero
+797,45320,Ángel Di María,"['Feb', '14', '1988']",180.0,Argentina,Attack Right Winger,left,Juventus,162,251,nan,nan,715,DCGLOBALSL
+798,342229,Kylian Mbappé,"['Dec', '20', '1998']",178.0,France,Attack Centre Forward,right,Paris SG,243,115,nan,nan,323,Relatives
+799,68863,Mauro Icardi,"['Feb', '19', '1993']",181.0,Argentina,Attack Centre Forward,right,Galatasaray,223,51,nan,nan,407,Relatives
+800,585959,Arnaud Kalimuendo,"['Jan', '20', '2002']",175.0,France,Attack Centre Forward,right,Rennes,39,12,nan,nan,116,DW Sports Management
+801,618416,Kenny Nagera,"['Feb', '21', '2002']",177.0,France,Attack Centre Forward,right,Lorient B,6,3,nan,nan,47,
+802,853344,Sekou Yansané,"['Apr', '28', '2003']",184.0,France,Attack Centre Forward,right,Al-Ahli SC,8,4,nan,nan,28,USFA Management
+803,60561,Anthony Lopes,"['Oct', '1', '1990']",184.0,Portugal,Goalkeeper,left,Olympique Lyon,-,4,521,146,454,
+804,228975,Julian Pollersbeck,"['Aug', '16', '1994']",195.0,Germany,Goalkeeper,right,FC Lorient,-,-,172,57,155,TDS SPORTS
+805,618465,Kayne Bonnevie,"['Jul', '22', '2001']",191.0,France,Goalkeeper,left,Olympique Lyon,-,-,33,6,25,
+806,461581,Malcolm Barcola,"['May', '14', '1999']",195.0,Togo,Goalkeeper,right,FK Tuzla City,-,-,82,9,46,FS Management
+807,618472,Castello Lukeba,"['Dec', '17', '2002']",184.0,France,Defender Centre Back,left,Olympique Lyon,4,-,nan,nan,82,Relatives
+808,277114,Jason Denayer,"['Jun', '28', '1995']",184.0,Belgium,Defender Centre Back,right,Shabab Al-Ahli,15,8,nan,nan,299,Quadrans
+809,702441,Sinaly Diomandé,"['Apr', '9', '2001']",184.0,Cote d'Ivoire,Defender Centre Back,right,Olympique Lyon,1,-,nan,nan,99,BLACKSKILL
+810,26485,Jérôme Boateng,"['Sep', '3', '1988']",192.0,Germany,Defender Centre Back,right,Olympique Lyon,16,36,nan,nan,586,TDS SPORTS
+811,52920,Marcelo,"['May', '20', '1987']",191.0,Brazil,Defender Centre Back,right,Western Sydney,40,8,nan,nan,602,
+812,57370,Damien Da Silva,"['May', '17', '1988']",184.0,France,Defender Centre Back,right,Melbourne,19,9,nan,nan,477,score agencies
+813,181778,Emerson,"['Aug', '3', '1994']",176.0,Italy,Defender Left Back,left,West Ham,8,13,nan,nan,215,PS Sports
+814,204072,Henrique Silva,"['Apr', '25', '1994']",173.0,Brazil,Defender Left Back,left,Olympique Lyon,1,6,nan,nan,168,Carlos Leite
+815,743519,Hugo Vogel,"['Jan', '4', '2004']",177.0,France,Defender Left Back,left,FC Basel,1,-,nan,nan,41,Goal Pro Management
+816,620322,Malo Gusto,"['May', '19', '2003']",179.0,France,Defender Right Back,right,Olympique Lyon,1,7,nan,nan,73,E CASTAGNINO
+817,236400,Léo Dubois,"['Sep', '14', '1994']",178.0,France,Defender Right Back,right,Galatasaray,10,32,nan,nan,260,One Team Football
+818,802987,Irvyn Lomami,"['Dec', '30', '2003']",171.0,France,Defender Right Back,right,Olymp. Lyon B,1,-,nan,nan,37,score agencies
+819,520624,Bruno Guimarães,"['Nov', '16', '1997']",182.0,Brazil,midfield Defensive Midfield,right,Newcastle,20,19,nan,nan,210,Bertolucci Sports
+820,135617,Thiago Mendes,"['Mar', '15', '1992']",177.0,Brazil,midfield Defensive Midfield,right,Olympique Lyon,16,27,nan,nan,414,Bucket Group ...
+821,450936,Tanguy Ndombélé,"['Dec', '28', '1996']",181.0,France,midfield Central Midfield,right,SSC Napoli,19,35,nan,nan,277,
+822,395693,Houssem Aouar,"['Jun', '30', '1998']",175.0,Algeria,midfield Central Midfield,right,Olympique Lyon,48,37,nan,nan,259,Relatives
+823,395237,Maxence Caqueret,"['Feb', '15', '2000']",174.0,France,midfield Central Midfield,right,Olympique Lyon,9,18,nan,nan,176,
+824,336828,Pape Cheikh,"['Aug', '8', '1997']",180.0,Senegal,midfield Central Midfield,right,Elche CF,5,1,nan,nan,142,4MB
+825,669000,Habib Keïta,"['Feb', '5', '2002']",182.0,Mali,midfield Central Midfield,left,KV Kortrijk,3,2,nan,nan,45,BLACKSKILL
+826,607225,Florent Sanchez,"['Apr', '2', '2003']",178.0,France,midfield Central Midfield,right,FC Volendam,5,15,nan,nan,68,USFA Management
+827,729677,Noam Bonnet,"['May', '25', '2002', 'Happy', 'Birthday']",177.0,France,midfield Central Midfield,right,Olymp. Lyon B,4,-,nan,nan,56,USFA Management
+828,555076,Romain Faivre,"['Jul', '14', '1998']",180.0,France,midfield Right Midfield,left,FC Lorient,29,19,nan,nan,168,Classico
+829,444523,Lucas Paquetá,"['Aug', '27', '1997']",180.0,Brazil,midfield Attacking Midfield,left,West Ham,40,27,nan,nan,228,Brazil Soccer
+830,607223,Rayan Cherki,"['Aug', '17', '2003']",177.0,France,midfield Attacking Midfield,both,Olympique Lyon,25,17,nan,nan,124,
+831,326300,Jeff Reine-Adélaïde,"['Jan', '17', '1998']",184.0,France,midfield Attacking Midfield,right,Troyes,11,21,nan,nan,166,Concept Sport Agency
+832,86792,Xherdan Shaqiri,"['Oct', '10', '1991']",169.0,Switzerland,midfield Attacking Midfield,left,Chicago,83,82,nan,nan,460,ESHA
+833,234781,Maxwel Cornet,"['Sep', '27', '1996']",179.0,Cote d'Ivoire,Attack Left Winger,left,West Ham,61,36,nan,nan,329,Unique Sports Group
+834,315110,Karl Toko Ekambi,"['Sep', '14', '1992']",182.0,Cameroon,Attack Left Winger,right,Rennes,139,45,nan,nan,415,AMS CONSULTING
+835,418660,Lenny Pintor,"['Aug', '5', '2000']",179.0,France,Attack Left Winger,right,Saint-Étienne,18,4,nan,nan,87,GFOOT
+836,729680,Madyan Sounni,"['Dec', '23', '2002']",178.0,France,Attack Left Winger,right,Olymp. Lyon B,2,2,nan,nan,24,Relatives
+837,371256,Tetê,"['Feb', '15', '2000']",175.0,Brazil,Attack Right Winger,left,Leicester,40,25,nan,nan,152,PabloBueno360
+838,229004,Moussa Dembélé,"['Jul', '12', '1996']",187.0,France,Attack Centre Forward,right,Olympique Lyon,152,47,nan,nan,353,Mansa Sports ...
+839,384060,Tino Kadewere,"['Jan', '5', '1996']",183.0,Zimbabwe,Attack Centre Forward,right,RCD Mallorca,72,23,nan,nan,206,P.P.M.
+840,174915,Islam Slimani,"['Jun', '18', '1988']",188.0,Algeria,Attack Centre Forward,right,RSC Anderlecht,143,50,nan,nan,397,
+841,708265,Bradley Barcola,"['Sep', '2', '2002']",186.0,France,Attack Centre Forward,right,Olympique Lyon,12,16,nan,nan,74,USFA Management
+842,744942,Gaël Nsombi,"['Jan', '25', '2003']",171.0,France,Attack Centre Forward,right,Olymp. Lyon B,2,-,nan,nan,35,
+843,195778,Alexander Nübel,"['Sep', '30', '1996']",193.0,Germany,Goalkeeper,right,Monaco,-,2,290,54,209,Siebert & Backs
+844,346546,Radoslaw Majecki,"['Nov', '16', '1999']",193.0,Poland,Goalkeeper,right,Cercle Brugge,-,-,214,66,193,box2box Football ...
+845,33781,Vito Mannone,"['Mar', '2', '1988']",189.0,Italy,Goalkeeper,right,FC Lorient,-,1,389,75,288,
+846,745341,Yann Lienard,"['Mar', '16', '2003']",192.0,France,Goalkeeper,right,Monaco U21,-,-,24,-,14,
+847,463603,Benoît Badiashile,"['Mar', '26', '2001']",194.0,France,Defender Centre Back,left,Chelsea,7,4,nan,nan,168,
+848,386047,Axel Disasi,"['Mar', '11', '1998']",190.0,France,Defender Centre Back,right,Monaco,17,4,nan,nan,221,Relatives
+849,249730,Guillermo Maripán,"['May', '6', '1994']",190.0,Chile,Defender Centre Back,right,Monaco,17,7,nan,nan,243,TRDS
+850,574671,Strahinja Pavlovic,"['May', '24', '2001']",194.0,Serbia,Defender Centre Back,left,RB Salzburg,5,7,nan,nan,124,DSSV&Hat-trick
+851,569383,Chrislain Matsima,"['May', '15', '2002']",193.0,France,Defender Centre Back,right,Monaco,1,1,nan,nan,61,Classico
+852,475412,Jean Marcelin,"['Feb', '12', '2000']",197.0,France,Defender Centre Back,right,Cercle Brugge,3,2,nan,nan,69,
+853,745202,Yllan Okou,"['Dec', '23', '2002']",189.0,France,Defender Centre Back,left,Monaco U21,4,1,nan,nan,27,INEM SPORTS
+854,536503,Fouad El Maach,"['Jan', '2', '2001']",188.0,Morocco,Defender Centre Back,right,Monaco U21,1,-,nan,nan,25,VV Consulting
+855,420064,Caio Henrique,"['Jul', '31', '1997']",178.0,Brazil,Defender Left Back,left,Monaco,4,34,nan,nan,209,D20 Sports
+856,375137,Ismail Jakobs,"['Aug', '17', '1999']",184.0,Senegal,Defender Left Back,left,Monaco,10,15,nan,nan,198,Dirk Hebel
+857,536510,Louis Torres,"['Apr', '29', '2001']",182.0,France,Defender Left Back,left,Rodez AF,3,3,nan,nan,47,Just 4 player Group
+858,789082,Vanderson,"['Jun', '21', '2001']",173.0,Brazil,Defender Right Back,right,Monaco,8,12,nan,nan,118,Bertolucci Sports
+859,203746,Ruben Aguilar,"['Apr', '26', '1993']",170.0,France,Defender Right Back,right,Monaco,5,22,nan,nan,286,One Team Football
+860,161869,Djibril Sidibé,"['Jul', '29', '1992']",183.0,France,Defender Right Back,right,AEK Athens,18,40,nan,nan,384,
+861,745201,Aurélien Platret,"['Feb', '20', '2003']",,France,Defender Right Back,right,Monaco U21,-,3,nan,nan,20,Sport Profile
+862,413112,Aurélien Tchouaméni,"['Jan', '27', '2000']",188.0,France,midfield Defensive Midfield,right,Real Madrid,9,12,nan,nan,180,ESN
+863,99189,Pelé,"['Sep', '29', '1991']",182.0,Guinea-Bissau,midfield Defensive Midfield,right,Famalicão,21,10,nan,nan,280,Ulisses Santos - ...
+864,745181,Soungoutou Magassa,"['Oct', '8', '2003']",188.0,France,midfield Defensive Midfield,right,Monaco,1,-,nan,nan,25,Relatives
+865,569598,Youssouf Fofana,"['Jan', '10', '1999']",185.0,France,midfield Central Midfield,right,Monaco,7,12,nan,nan,179,AIS SPORT SERVICE
+866,578872,Jean Lucas,"['Jun', '22', '1998']",179.0,Brazil,midfield Central Midfield,right,Monaco,5,7,nan,nan,117,Relatives
+867,535834,Eliot Matazo,"['Feb', '15', '2002']",170.0,Belgium,midfield Central Midfield,right,Monaco,3,2,nan,nan,86,Classico
+868,8806,Cesc Fàbregas,"['May', '4', '1987']",179.0,Spain,midfield Central Midfield,right,Como,125,217,nan,nan,739,Darren Dein
+869,659518,Félix Lemaréchal,"['Aug', '7', '2003']",180.0,France,midfield Central Midfield,right,Stade Brestois,2,2,nan,nan,33,2SAgency
+870,504084,Tiago Ribeiro,"['Mar', '14', '2002']",183.0,Portugal,midfield Central Midfield,left,Paços Ferreira,8,5,nan,nan,50,Gestifute
+871,538968,Florian Baranik,"['Feb', '2', '2002']",,France,midfield Central Midfield,right,Monaco U21,1,-,nan,nan,19,Sport Profile
+872,263918,Aleksandr Golovin,"['May', '30', '1996']",178.0,Russia,midfield Attacking Midfield,right,Monaco,43,49,nan,nan,334,
+873,745200,Maghnes Akliouche,"['Feb', '25', '2002']",183.0,France,midfield Attacking Midfield,left,Monaco,4,4,nan,nan,40,DW Sports Management
+874,569389,Sofiane Diop,"['Jun', '9', '2000']",175.0,France,Attack Left Winger,right,OGC Nice,24,15,nan,nan,170,Classico
+875,257448,Gelson Martins,"['May', '11', '1995']",170.0,Portugal,Attack Right Winger,right,Monaco,50,54,nan,nan,321,Ulisses Santos - ...
+876,490426,Krépin Diatta,"['Feb', '25', '1999']",175.0,Senegal,Attack Right Winger,right,Monaco,36,25,nan,nan,192,Wasserman
+877,511401,Anthony Musaba,"['Dec', '6', '2000']",182.0,Netherlands,Attack Right Winger,both,NEC Nijmegen,29,12,nan,nan,158,Sports360 GmbH
+878,146854,Wissam Ben Yedder,"['Aug', '12', '1990']",170.0,France,Attack Centre Forward,both,Monaco,238,76,nan,nan,477,Sport Cover
+879,82009,Kevin Volland,"['Jul', '30', '1992']",179.0,Germany,Attack Centre Forward,left,Monaco,169,112,nan,nan,525,Unique Sports Group
+880,412932,Myron Boadu,"['Jan', '14', '2001']",181.0,Netherlands,Attack Centre Forward,right,Monaco,62,21,nan,nan,172,Team Raiola
+881,494237,Wilson Isidor,"['Aug', '27', '2000']",186.0,France,Attack Centre Forward,right,Loko Moscow,37,10,nan,nan,119,Cracksman
+882,364133,Pietro Pellegri,"['Mar', '17', '2001']",188.0,Italy,Attack Centre Forward,right,Torino,18,2,nan,nan,107,Gr Sports
+883,543503,Eric Ayiah,"['Mar', '6', '2000']",177.0,Ghana,Attack Centre Forward,right,Gil Vicente U23,17,1,nan,nan,68,no agent
+884,288415,Léo Jardim,"['Mar', '20', '1995']",188.0,Brazil,Goalkeeper,right,Vasco da Gama,-,-,181,38,130,BSSM
+885,16408,Orestis Karnezis,"['Jul', '11', '1985']",190.0,Greece,Goalkeeper,right,Retired,-,1,270,68,217,Vassilis ...
+886,258267,Adam Jakubech,"['Jan', '2', '1997']",188.0,Slovakia,Goalkeeper,right,LOSC Lille,-,-,171,42,146,FairSport
+887,707245,Jules Raux,"['Aug', '29', '2003']",189.0,France,Goalkeeper,right,LOSC Lille B,-,-,24,9,20,
+888,361093,Sven Botman,"['Jan', '12', '2000']",195.0,Netherlands,Defender Centre Back,left,Newcastle,21,9,nan,nan,238,Muy Manero
+889,420465,Tiago Djaló,"['Apr', '9', '2000']",190.0,Portugal,Defender Centre Back,right,LOSC Lille,4,2,nan,nan,137,Invictus Team
+890,503740,Kouadio-Yves Dabila,"['Jan', '1', '1997']",183.0,Cote d'Ivoire,Defender Centre Back,right,Paris FC,3,-,nan,nan,132,Wasserman
+891,33829,José Fonte,"['Dec', '22', '1983']",187.0,Portugal,Defender Centre Back,right,LOSC Lille,32,22,nan,nan,667,Relatives
+892,798894,Maxime Wackers,"['Jan', '1', '1998']",184.0,France,Defender Centre Back,right,Lorient B,6,2,nan,nan,122,USM GROUP
+893,923831,Leny Yoro,"['Nov', '13', '2005']",190.0,France,Defender Centre Back,right,LOSC Lille,-,1,nan,nan,32,Agent is known - Player under 18
+894,362108,Gabriel Gudmundsson,"['Apr', '29', '1999']",180.0,Sweden,Defender Left Back,left,LOSC Lille,30,16,nan,nan,228,MD Management
+895,357796,Domagoj Bradaric,"['Dec', '10', '1999']",178.0,Croatia,Defender Left Back,left,Salernitana,6,11,nan,nan,167,IDUB GLOBAL
+896,251075,Zeki Celik,"['Feb', '17', '1997']",180.0,Turkey,Defender Right Back,right,AS Roma,11,16,nan,nan,278,F-F SPORT
+897,60583,Jérémy Pied,"['Feb', '23', '1989']",173.0,France,Defender Right Back,right,Without Club,14,37,nan,nan,281,
+898,707231,Simon Ramet,"['Mar', '13', '2003']",170.0,France,Defender Right Back,right,LOSC Lille B,1,-,nan,nan,39,
+899,84301,Benjamin André,"['Aug', '3', '1990']",180.0,France,midfield Defensive Midfield,right,LOSC Lille,27,34,nan,nan,546,
+900,485706,Amadou Onana,"['Aug', '16', '2001']",195.0,Belgium,midfield Defensive Midfield,right,Everton,10,5,nan,nan,165,BTFM
+901,656441,Jean Onana,"['Jan', '8', '2000']",189.0,Cameroon,midfield Defensive Midfield,right,Lens,6,4,nan,nan,102,Sferico Sports ...
+902,644032,Cheikh Niasse,"['Jan', '19', '2000']",188.0,Senegal,midfield Defensive Midfield,right,BSC Young Boys,5,2,nan,nan,114,DKN Agency
+903,258027,Renato Sanches,"['Aug', '18', '1997']",176.0,Portugal,midfield Central Midfield,right,Paris SG,17,20,nan,nan,261,Gestifute
+904,290256,Xeka,"['Nov', '10', '1994']",185.0,Portugal,midfield Central Midfield,both,Rennes,13,15,nan,nan,258,
+905,707230,Ugo Raghouber,"['Jul', '13', '2003']",180.0,France,midfield Central Midfield,left,LOSC Lille B,4,2,nan,nan,40,
+906,620318,Rocco Ascone,"['Sep', '12', '2003']",180.0,France,midfield Central Midfield,left,Nordsjaelland,5,3,nan,nan,35,Beckster Int.
+907,973085,Carlos Baleba,"['Jan', '3', '2004']",179.0,Cameroon,midfield Central Midfield,left,LOSC Lille,1,1,nan,nan,32,
+908,386726,Yusuf Yazici,"['Jan', '29', '1997']",184.0,Turkey,midfield Attacking Midfield,left,Trabzonspor,52,35,nan,nan,225,Asportsmanagement
+909,392770,Angel Gomes,"['Aug', '31', '2000']",168.0,England,midfield Attacking Midfield,right,LOSC Lille,41,31,nan,nan,176,Gol International
+910,18900,Hatem Ben Arfa,"['Mar', '7', '1987']",179.0,France,midfield Attacking Midfield,left,Without Club,75,64,nan,nan,428,
+911,538972,Exaucé Mpembele Boula,"['May', '15', '2002']",185.0,France,midfield Attacking Midfield,right,Wasquehal,15,9,nan,nan,44,
+912,292818,Jonathan Bamba,"['Mar', '26', '1996']",175.0,Cote d'Ivoire,Attack Left Winger,right,LOSC Lille,44,49,nan,nan,294,AMS CONSULTING
+913,666545,Capita,"['Jan', '10', '2002']",171.0,Angola,Attack Left Winger,left,CF Estrela,7,4,nan,nan,38,International Foot
+914,854488,Joffrey Bazie,"['Oct', '27', '2003']",179.0,Burkina Faso,Attack Left Winger,left,LOSC Lille B,4,-,nan,nan,28,ROGON
+915,324690,Jonathan Ikoné,"['May', '2', '1998']",175.0,France,Attack Right Winger,left,Fiorentina,32,38,nan,nan,294,Niagara Sports ...
+916,370846,Timothy Weah,"['Feb', '22', '2000']",183.0,United States,Attack Right Winger,right,LOSC Lille,23,10,nan,nan,156,BS Group - BS Law
+917,435485,Luiz Araújo,"['Jun', '2', '1996']",175.0,Brazil,Attack Right Winger,left,Atlanta,35,22,nan,nan,227,Trust Football
+918,496857,Edon Zhegrova,"['Mar', '31', '1999']",181.0,Kosovo,Attack Right Winger,left,LOSC Lille,22,26,nan,nan,141,ESHA
+919,557610,Isaac Lihadji,"['Apr', '10', '2002']",177.0,France,Attack Right Winger,left,Sunderland,4,9,nan,nan,70,GM FOOT
+920,533738,Jonathan David,"['Jan', '14', '2000']",175.0,Canada,Attack Centre Forward,both,LOSC Lille,93,24,nan,nan,217,Axia Sports ...
+921,34987,Burak Yilmaz,"['Jul', '15', '1985']",188.0,Turkey,Attack Centre Forward,right,Fortuna Sittard,267,77,nan,nan,555,Ergezen Menajerlik ...
+922,743987,Bica,"['Jun', '16', '2003']",180.0,Portugal,Attack Centre Forward,right,Marítimo B,10,2,nan,nan,17,Fernando Couto
+923,163568,Alfred Gomis,"['Sep', '5', '1993']",196.0,Senegal,Goalkeeper,right,Como,-,-,389,132,369,Branchini Associati ...
+924,576033,Dogan Alemdar,"['Oct', '29', '2002']",192.0,Turkey,Goalkeeper,right,Rennes,-,-,142,22,92,
+925,23974,Romain Salin,"['Jul', '29', '1984']",186.0,France,Goalkeeper,left,Rennes,-,1,342,77,284,NexSt11
+926,685086,Pépé Bonet,"['Feb', '13', '2003']",195.0,DR Congo,Goalkeeper,right,Red Star FC,-,-,32,6,27,BLACKSKILL
+927,693312,Elias Damergy,"['Oct', '17', '2002']",186.0,Tunisia,Goalkeeper,right,Rennes,-,1,50,4,31,BS Group - BS Law
+928,730581,Loïc Badé,"['Apr', '11', '2000']",191.0,France,Defender Centre Back,right,Sevilla FC,3,2,nan,nan,105,W.Egal O.S.F.M.
+929,361914,Nayef Aguerd,"['Mar', '30', '1996']",190.0,Morocco,Defender Centre Back,left,West Ham,19,4,nan,nan,224,Trivela SM
+930,711996,Warmed Omari,"['Apr', '23', '2000']",188.0,France,Defender Centre Back,right,Rennes,1,1,nan,nan,78,Frederic Guerra ...
+931,288237,Jérémy Gélin,"['Apr', '24', '1997']",183.0,France,Defender Centre Back,right,Amiens SC,3,4,nan,nan,166,One Team Football
+932,919515,Jeanuël Belocian,"['Feb', '17', '2005']",182.0,France,Defender Centre Back,left,Rennes,-,-,nan,nan,27,One Team Football
+933,654539,Adrien Truffert,"['Nov', '20', '2001']",176.0,France,Defender Left Back,left,Rennes,4,14,nan,nan,131,CAA Stellar
+934,282250,Birger Meling,"['Dec', '17', '1994']",173.0,Norway,Defender Left Back,left,Rennes,12,37,nan,nan,313,GOLDBAEK SPORT GmbH
+935,357072,Faitout Maouassa,"['Jul', '6', '1998']",170.0,France,Defender Left Back,left,Montpellier,13,15,nan,nan,180,Classico
+936,297070,Hamari Traoré,"['Jan', '27', '1992']",175.0,Mali,Defender Right Back,right,Rennes,11,32,nan,nan,373,B.C Football Agency
+937,711969,Lorenz Assignon,"['Jun', '22', '2000']",181.0,France,Defender Right Back,right,Rennes,5,7,nan,nan,79,TTMA
+938,285323,Baptiste Santamaria,"['Mar', '9', '1995']",183.0,France,midfield Defensive Midfield,right,Rennes,22,9,nan,nan,355,Sport Profile
+939,711999,Lesley Ugochukwu,"['Mar', '26', '2004']",191.0,France,midfield Defensive Midfield,right,Rennes,1,1,nan,nan,65,Wasserman
+940,127142,Jonas Martin,"['Apr', '9', '1990']",184.0,France,midfield Defensive Midfield,right,LOSC Lille,22,16,nan,nan,303,Wasserman
+941,620321,Noah Françoise,"['Jul', '5', '2003']",177.0,France,midfield Defensive Midfield,right,US Avranches,7,1,nan,nan,57,
+942,202278,Flavien Tait,"['Feb', '2', '1993']",176.0,France,midfield Central Midfield,right,Rennes,32,41,nan,nan,296,Kemari
+943,711976,Andy Diouf,"['May', '17', '2003']",187.0,France,midfield Central Midfield,left,FC Basel,3,9,nan,nan,73,SBE Management AG
+944,711988,Trésor Matondo,"['Jul', '24', '2003']",169.0,France,midfield Central Midfield,left,Rennes B,1,4,nan,nan,48,CAA Stellar
+945,266359,Benjamin Bourigeaud,"['Jan', '14', '1994']",178.0,France,midfield Right Midfield,right,Rennes,61,64,nan,nan,380,P&P Sport ...
+946,353399,Romain Del Castillo,"['Mar', '29', '1996']",172.0,France,midfield Right Midfield,left,Stade Brestois,22,46,nan,nan,234,score agencies
+947,387106,Lovro Majer,"['Jan', '17', '1998']",178.0,Croatia,midfield Attacking Midfield,left,Rennes,45,56,nan,nan,238,Niagara Sports ...
+948,914562,Désiré Doué,"['Jun', '3', '2005']",181.0,France,midfield Attacking Midfield,right,Rennes,5,2,nan,nan,46,Agent is known - Player under 18
+949,442891,Martin Terrier,"['Mar', '4', '1997']",184.0,France,Attack Left Winger,right,Rennes,69,26,nan,nan,239,FS Management
+950,746695,Kamaldeen Sulemana,"['Feb', '15', '2002']",175.0,Ghana,Attack Left Winger,right,Southampton,20,14,nan,nan,108,Relatives
+951,486049,Jérémy Doku,"['May', '27', '2002']",173.0,Belgium,Attack Right Winger,right,Rennes,17,18,nan,nan,129,Relatives
+952,607226,Loum Tchaouna,"['Sep', '8', '2003']",180.0,France,Attack Right Winger,left,Dijon,11,7,nan,nan,59,BS Group - BS Law
+953,585958,Junior Kadile,"['Dec', '16', '2002']",182.0,France,Attack Right Winger,right,Famalicão,7,1,nan,nan,52,
+954,181378,Gaëtan Laborde,"['May', '3', '1994']",181.0,France,Attack Centre Forward,left,OGC Nice,116,40,nan,nan,351,CH Conseil et ...
+955,270541,Serhou Guirassy,"['Mar', '12', '1996']",187.0,Guinea,Attack Centre Forward,right,VfB Stuttgart,78,12,nan,nan,257,Relatives
+956,659543,Matthis Abline,"['Mar', '28', '2003']",182.0,France,Attack Centre Forward,right,AJ Auxerre,16,8,nan,nan,75,Wasserman
+957,801734,Mathys Tel,"['Apr', '27', '2005']",183.0,France,Attack Centre Forward,right,Bayern Munich,15,-,nan,nan,46,
+958,286415,Pau López,"['Dec', '13', '1994']",189.0,Spain,Goalkeeper,left,Marseille,-,1,385,88,307,Goal Management
+959,23951,Steve Mandanda,"['Mar', '28', '1985']",187.0,France,Goalkeeper,right,Rennes,-,2,802,240,736,SMI SPORTS ...
+960,696600,Simon Ngapandouetnbu,"['Apr', '12', '2003']",186.0,Cameroon,Goalkeeper,right,Marseille,-,-,46,7,33,SVF FOOT
+961,801577,Fabio Vanni,"['Jul', '20', '2002']",181.0,France,Goalkeeper,right,AS Furiani,-,-,43,15,39,Sport Project ...
+962,495666,William Saliba,"['Mar', '24', '2001']",192.0,France,Defender Centre Back,right,Arsenal,4,1,nan,nan,154,ND SPORTS MANAGEMENT
+963,238266,Duje Caleta-Car,"['Sep', '17', '1996']",192.0,Croatia,Defender Centre Back,right,Southampton,14,10,nan,nan,331,CAA Stellar
+964,575998,Leonardo Balerdi,"['Jan', '26', '1999']",187.0,Argentina,Defender Centre Back,right,Marseille,4,1,nan,nan,116,SP
+965,347913,Luan Peres,"['Jul', '19', '1994']",190.0,Brazil,Defender Centre Back,left,Fenerbahce,1,9,nan,nan,206,FJB Sports
+966,183647,Álvaro González,"['Jan', '8', '1990']",182.0,Spain,Defender Centre Back,right,Al-Nassr FC,10,12,nan,nan,430,no agent
+967,922488,Yakine Said M'Madi,"['Mar', '11', '2004']",184.0,Comoros,Defender Centre Back,right,Marseille B,4,-,nan,nan,37,CAA Base Ltd
+968,241229,Jordan Amavi,"['Mar', '9', '1994']",176.0,France,Defender Left Back,left,Getafe,7,14,nan,nan,250,Classico
+969,94005,Sead Kolasinac,"['Jun', '20', '1993']",183.0,Bosnia-Herzegovina,Defender Left Back,left,Marseille,32,41,nan,nan,413,Unique Sports Group
+970,298975,Pol Lirola,"['Aug', '13', '1997']",183.0,Spain,Defender Right Back,right,Elche CF,12,29,nan,nan,274,Universal Twenty Two
+971,743494,Amay Caprice,"['Aug', '21', '2004']",,France,Defender Right Back,right,Marseille B,1,2,nan,nan,38,
+972,394327,Boubacar Kamara,"['Nov', '23', '1999']",184.0,France,midfield Defensive Midfield,right,Aston Villa,4,7,nan,nan,217,Sport Avenir ...
+973,485963,Pape Gueye,"['Jan', '24', '1999']",189.0,Senegal,midfield Defensive Midfield,left,Sevilla FC,7,10,nan,nan,195,ROOF
+974,805476,Paolo Sciortino,"['Nov', '5', '2003']",177.0,France,midfield Defensive Midfield,right,Marseille B,1,-,nan,nan,31,
+975,782889,Tom Moustier,"['May', '2', '2002']",185.0,France,midfield Defensive Midfield,right,Hannover 96 II,6,-,nan,nan,37,Sport Profile
+976,465830,Mattéo Guendouzi,"['Apr', '14', '1999']",185.0,France,midfield Central Midfield,right,Marseille,13,28,nan,nan,251,Relatives
+977,341705,Gerson,"['May', '20', '1997']",184.0,Brazil,midfield Central Midfield,left,Flamengo,29,33,nan,nan,304,
+978,332889,Valentin Rongier,"['Dec', '7', '1994']",172.0,France,midfield Central Midfield,right,Marseille,13,23,nan,nan,288,CAA Base Ltd
+979,569367,Cheick Souaré,"['Sep', '3', '2002']",185.0,France,midfield Central Midfield,left,MFK Vyskov,3,3,nan,nan,34,BS Group - BS Law
+980,667965,Oussama Targhalline,"['May', '20', '2002']",,Morocco,midfield Central Midfield,right,AC Le Havre,1,2,nan,nan,32,Klan Soccer FZCO
+981,659520,Bilal Nadir,"['Nov', '28', '2003']",172.0,France,midfield Central Midfield,right,Marseille B,3,1,nan,nan,36,
+982,372711,Amine Harit,"['Jun', '18', '1997']",180.0,Morocco,midfield Attacking Midfield,right,Marseille,20,31,nan,nan,203,Sport Cover
+983,37647,Dimitri Payet,"['Mar', '29', '1987']",175.0,France,midfield Attacking Midfield,right,Marseille,142,184,nan,nan,668,J.Gomes Avocat
+984,708680,Ugo Bertelli,"['Jul', '15', '2003']",168.0,France,midfield Attacking Midfield,right,Olympique Alès,4,2,nan,nan,62,YOU FIRST
+985,691316,Luis Henrique,"['Dec', '14', '2001']",181.0,Brazil,Attack Left Winger,right,Botafogo,4,13,nan,nan,104,C.M. Assessoria ...
+986,466809,Konrad de la Fuente,"['Jul', '16', '2001']",176.0,United States,Attack Left Winger,right,Olympiacos,14,10,nan,nan,74,InterStarDeporte
+987,245078,Nemanja Radonjic,"['Feb', '15', '1996']",185.0,Serbia,Attack Left Winger,both,Torino,30,23,nan,nan,197,INTERNATIONAL ...
+988,708681,Salim Ben Seghir,"['Feb', '24', '2003']",174.0,France,Attack Left Winger,right,Valenciennes FC,6,2,nan,nan,50,
+989,800611,Jonathan Pitou,"['Aug', '11', '2004']",174.0,France,Attack Left Winger,both,Pro Patria,4,1,nan,nan,37,J.Gomes Avocat
+990,341647,Cengiz Ünder,"['Jul', '14', '1997']",173.0,Turkey,Attack Right Winger,left,Marseille,57,43,nan,nan,299,FutureBall
+991,191891,Arkadiusz Milik,"['Feb', '28', '1994']",186.0,Poland,Attack Centre Forward,left,Juventus,153,38,nan,nan,364,F-MG.COM
+992,822458,Bamba Dieng,"['Mar', '23', '2000']",178.0,Senegal,Attack Centre Forward,right,FC Lorient,14,4,nan,nan,74,BMG
+993,127048,Cédric Bakambu,"['Apr', '11', '1991']",182.0,DR Congo,Attack Centre Forward,right,Olympiacos,169,41,nan,nan,400,CAA Stellar
+994,881250,Aylan Benyahia-Tani,"['Jul', '19', '2005']",,France,Attack Centre Forward,,Marseille B,2,1,nan,nan,19,Agent is known - Player under 18
+995,296802,Walter Benítez,"['Jan', '19', '1993']",191.0,Argentina,Goalkeeper,right,PSV Eindhoven,-,1,348,85,280,Rafaela Pimenta
+996,465955,Marcin Bulka,"['Oct', '4', '1999']",199.0,Poland,Goalkeeper,right,OGC Nice,-,-,70,16,58,AIS Football
+997,789419,Teddy Boulhendi,"['Apr', '9', '2001']",185.0,Algeria,Goalkeeper,,OGC Nice,-,-,14,3,10,
+998,605184,Jean-Clair Todibo,"['Dec', '30', '1999']",190.0,France,Defender Centre Back,right,OGC Nice,3,1,nan,nan,129,
+999,322655,Flavius Daniliuc,"['Apr', '27', '2001']",188.0,Austria,Defender Centre Back,right,Salernitana,4,6,nan,nan,155,Sports360 GmbH
+1000,458715,Robson Bambu,"['Nov', '12', '1997']",186.0,Brazil,Defender Centre Back,right,Vasco da Gama,-,-,nan,nan,66,Magnitude Sports & ...
+1001,16136,Dante,"['Oct', '18', '1983']",188.0,Brazil,Defender Centre Back,left,OGC Nice,27,26,nan,nan,648,Marcus Marin
+1002,904707,Yannis Nahounou,"['May', '16', '2004']",188.0,France,Defender Centre Back,right,OGC Nice B,2,-,nan,nan,13,GTS Management
+1003,532775,Melvin Bard,"['Nov', '6', '2000']",173.0,France,Defender Left Back,left,OGC Nice,3,7,nan,nan,147,E CASTAGNINO
+1004,290017,Hassane Kamara,"['Mar', '5', '1994']",170.0,Cote d'Ivoire,Defender Left Back,left,Watford,19,7,nan,nan,249,
+1005,416108,Youcef Atal,"['May', '17', '1996']",176.0,Algeria,Defender Right Back,both,OGC Nice,11,10,nan,nan,122,Relatives
+1006,313094,Jordan Lotomba,"['Sep', '29', '1998']",177.0,Switzerland,Defender Right Back,right,OGC Nice,11,14,nan,nan,274,Classico
+1007,891998,Antoine Mendy,"['May', '27', '2004']",187.0,France,Defender Right Back,right,OGC Nice,1,2,nan,nan,24,MERCATO CONSEIL
+1008,463618,Khéphren Thuram,"['Mar', '26', '2001']",192.0,France,midfield Defensive Midfield,right,OGC Nice,10,11,nan,nan,165,no agent
+1009,370791,Pablo Rosario,"['Jan', '7', '1997']",185.0,Netherlands,midfield Defensive Midfield,right,OGC Nice,16,20,nan,nan,301,Team Raiola
+1010,170934,Mario Lemina,"['Sep', '1', '1993']",184.0,Gabon,midfield Defensive Midfield,right,Wolves,12,6,nan,nan,296,G&ML SPORTS LIMITED
+1011,56818,Morgan Schneiderlin,"['Nov', '8', '1989']",186.0,France,midfield Defensive Midfield,right,Western Sydney,19,16,nan,nan,472,Team Spirit ...
+1012,273438,Danilo Barbosa,"['Feb', '28', '1996']",183.0,Brazil,midfield Defensive Midfield,right,Botafogo,11,13,nan,nan,224,P&P Sport ...
+1013,904712,Justin Smith,"['Feb', '4', '2003']",190.0,Canada,midfield Defensive Midfield,right,Quevilly Rouen,1,1,nan,nan,23,YPFC
+1014,560593,Hicham Boudaoui,"['Sep', '23', '1999']",175.0,Algeria,midfield Central Midfield,right,OGC Nice,10,11,nan,nan,149,Elite Sports ...
+1015,482769,Alexis Trouillet,"['Dec', '23', '2000']",175.0,France,midfield Central Midfield,right,Panathinaikos,1,8,nan,nan,53,ROGON
+1016,384593,Alexis Claude-Maurice,"['Jun', '6', '1998']",175.0,France,midfield Attacking Midfield,right,Lens,38,18,nan,nan,185,Sport Cover
+1017,330659,Justin Kluivert,"['May', '5', '1999']",172.0,Netherlands,Attack Left Winger,both,Valencia,55,49,nan,nan,247,Team Raiola
+1018,543051,Billal Brahimi,"['Mar', '14', '2000']",183.0,Algeria,Attack Left Winger,left,OGC Nice,28,23,nan,nan,158,Lasana KOITA
+1019,371142,Myziane Maolida,"['Feb', '14', '1999']",182.0,France,Attack Left Winger,right,Stade Reims,26,9,nan,nan,148,USFA Management
+1020,409344,Calvin Stengs,"['Dec', '18', '1998']",182.0,Netherlands,Attack Right Winger,left,Royal Antwerp,36,42,nan,nan,226,Team Raiola
+1021,365108,Dan Ndoye,"['Oct', '25', '2000']",183.0,Switzerland,Attack Right Winger,right,FC Basel,57,23,nan,nan,239,BSG GROUP
+1022,495667,Lucas Da Cunha,"['Jun', '9', '2001']",174.0,France,Attack Right Winger,left,Como,13,4,nan,nan,86,Frederic Guerra ...
+1023,418659,Amine Gouiri,"['Feb', '16', '2000']",181.0,France,Attack Centre Forward,right,Rennes,61,31,nan,nan,187,
+1024,283196,Kasper Dolberg,"['Oct', '6', '1997']",187.0,Denmark,Attack Centre Forward,right,TSG Hoffenheim,79,25,nan,nan,252,Rafaela Pimenta
+1025,122797,Andy Delort,"['Oct', '9', '1991']",181.0,Algeria,Attack Centre Forward,right,FC Nantes,138,51,nan,nan,424,score agencies
+1026,500689,Evann Guessand,"['Jul', '1', '2001']",187.0,France,Attack Centre Forward,right,FC Nantes,14,11,nan,nan,116,One Team Management
+1027,412095,Ihsan Sacko,"['Jul', '19', '1997']",183.0,France,Attack Centre Forward,right,US Avranches,22,7,nan,nan,156,W.Egal O.S.F.M.
+1028,373714,Wuilker Fariñez,"['Feb', '15', '1998']",180.0,Venezuela,Goalkeeper,right,Lens,-,-,164,55,166,YOU FIRST
+1029,27490,Jean-Louis Leca,"['Sep', '21', '1985']",180.0,France,Goalkeeper,right,Lens,-,-,343,100,299,Sébastien Cagnet
+1030,804829,Yannick Pandor,"['May', '1', '2001']",192.0,Comoros,Goalkeeper,left,Lens,-,-,61,8,45,Team Spirit ...
+1031,474800,Facundo Medina,"['May', '28', '1999']",184.0,Argentina,Defender Centre Back,left,Lens,8,5,nan,nan,131,Dodici
+1032,263236,Kevin Danso,"['Sep', '19', '1998']",190.0,Austria,Defender Centre Back,right,Lens,15,13,nan,nan,186,Relatives
+1033,126557,Jonathan Gradit,"['Nov', '24', '1992']",180.0,France,Defender Centre Back,right,Lens,2,8,nan,nan,294,SMI SPORTS ...
+1034,572326,Christopher Wooh,"['Sep', '18', '2001']",191.0,Cameroon,Defender Centre Back,right,Rennes,5,3,nan,nan,54,Classico
+1035,276895,Steven Fortes,"['Apr', '17', '1992']",192.0,Cape Verde,Defender Centre Back,right,Lens,3,1,nan,nan,204,
+1036,804817,Adrien Louveau,"['Feb', '1', '2000']",189.0,France,Defender Centre Back,right,Lens,3,1,nan,nan,43,management 360
+1037,170929,Massadio Haidara,"['Dec', '2', '1992']",179.0,Mali,Defender Left Back,left,Lens,5,15,nan,nan,257,USM GROUP
+1038,332560,Deiver Machado,"['Sep', '2', '1993']",180.0,Colombia,Defender Left Back,left,Lens,9,24,nan,nan,263,
+1039,770895,Ismaël Boura,"['Aug', '14', '2000']",173.0,France,Defender Left Back,left,Lens,5,6,nan,nan,110,PSM
+1040,911512,Malcom Musquet,"['Apr', '15', '2002']",183.0,France,Defender Left Back,left,AS Beauvais B,1,1,nan,nan,17,Talentz
+1041,175639,Jonathan Clauss,"['Sep', '25', '1992']",178.0,France,Defender Right Back,right,Marseille,37,50,nan,nan,310,YOU FIRST
+1042,620317,Brayann Pereira,"['May', '21', '2003']",172.0,France,Defender Right Back,right,Bourg-en-Bresse,-,2,nan,nan,33,TTMA
+1043,543387,Cheick Doucouré,"['Jan', '8', '2000']",180.0,Mali,midfield Defensive Midfield,right,Crystal Palace,8,10,nan,nan,170,BLACKSKILL
+1044,308439,Patrick Berg,"['Nov', '24', '1997']",178.0,Norway,midfield Defensive Midfield,right,Bodø/Glimt,18,23,nan,nan,215,Aneke/PMG
+1045,44686,Yannick Cahuzac,"['Jan', '18', '1985']",178.0,France,midfield Defensive Midfield,right,Retired,9,4,nan,nan,451,Sébastien Cagnet
+1046,89461,Samba Sow,"['Apr', '29', '1989']",185.0,Mali,midfield Defensive Midfield,right,Retired,6,12,nan,nan,311,
+1047,182893,Seko Fofana,"['May', '7', '1995']",185.0,Cote d'Ivoire,midfield Central Midfield,right,Lens,47,32,nan,nan,329,Sport Cover
+1048,812902,Jonathan Varane,"['Sep', '9', '2001']",189.0,France,midfield Central Midfield,right,Sporting B,-,2,nan,nan,37,YOU FIRST
+1049,905408,Mamadou Camara,"['Oct', '15', '2002']",185.0,Senegal,midfield Central Midfield,left,Lens,2,-,nan,nan,26,Relatives
+1050,821136,Yacouba Barry,"['Nov', '25', '2002']",188.0,France,midfield Central Midfield,,RC Lens B,1,-,nan,nan,38,
+1051,239743,Przemyslaw Frankowski,"['Apr', '12', '1995']",175.0,Poland,midfield Right Midfield,right,Lens,52,36,nan,nan,343,11-Football Players
+1052,695646,Charles Boli,"['Aug', '30', '1998']",175.0,France,midfield Left Midfield,left,Pau FC,13,11,nan,nan,131,firsteleven ISM
+1053,74297,Gaël Kakuta,"['Jun', '21', '1991']",173.0,DR Congo,midfield Attacking Midfield,left,Amiens SC,56,40,nan,nan,347,F12
+1054,719442,David Costa,"['Jan', '5', '2001']",168.0,Portugal,midfield Attacking Midfield,right,Lens,6,13,nan,nan,99,ROGON
+1055,800246,Mohamed Cissé,"['Apr', '26', '2001']",171.0,France,Attack Right Winger,right,Angers SCO B,8,4,nan,nan,48,ASR SPORT
+1056,344869,Simon Banza,"['Aug', '13', '1996']",189.0,France,Attack Centre Forward,right,SC Braga,75,27,nan,nan,243,Gestifute
+1057,531949,Ignatius Ganago,"['Feb', '16', '1999']",176.0,Cameroon,Attack Centre Forward,right,FC Nantes,34,10,nan,nan,169,Wilders Sport
+1058,354726,Florian Sotoca,"['Oct', '25', '1990']",187.0,France,Attack Centre Forward,right,Lens,62,29,nan,nan,251,One Team Football
+1059,182916,Wesley Saïd,"['Apr', '19', '1995']",171.0,France,Attack Centre Forward,right,Lens,47,13,nan,nan,225,Wasserman
+1060,20463,Corentin Jean,"['Jul', '15', '1995']",170.0,France,Attack Centre Forward,right,Miami,38,22,nan,nan,267,firsteleven ISM
+1061,804884,Ibrahima Baldé,"['Jan', '17', '2003']",185.0,France,Attack Centre Forward,right,FC Annecy,7,3,nan,nan,46,BS Group - BS Law
+1062,190263,Predrag Rajkovic,"['Oct', '31', '1995']",192.0,Serbia,Goalkeeper,right,RCD Mallorca,-,-,343,157,375,Soccer Mondial AG
+1063,448632,Yehvann Diouf,"['Nov', '16', '1999']",184.0,France,Goalkeeper,right,Stade Reims,-,1,64,30,64,FS Management
+1064,5578,Nicolas Penneteau,"['Feb', '28', '1981']",185.0,France,Goalkeeper,left,Stade Reims,-,3,864,205,715,USM GROUP
+1065,292808,Wout Faes,"['Apr', '3', '1998']",187.0,Belgium,Defender Centre Back,right,Leicester,7,4,nan,nan,232,Claes Agency
+1066,395083,Andreaw Gravillon,"['Feb', '8', '1998']",188.0,Guadeloupe,Defender Centre Back,right,Torino,11,3,nan,nan,214,AIS SPORT SERVICE
+1067,199704,Yunis Abdelhamid,"['Sep', '28', '1987']",190.0,Morocco,Defender Centre Back,left,Stade Reims,21,3,nan,nan,416,PSC
+1068,649026,Moustapha Mbow,"['Mar', '8', '2000']",192.0,Senegal,Defender Centre Back,right,RFC Seraing,1,-,nan,nan,55,Wasserman
+1069,502511,Enzo Valentim,"['Sep', '11', '2000']",,France,Defender Centre Back,right,US Créteil-L,1,2,nan,nan,77,
+1070,422850,Ghislain Konan,"['Dec', '27', '1995']",176.0,Cote d'Ivoire,Defender Left Back,left,Al-Nassr FC,3,16,nan,nan,205,Vlado Bozinoski
+1071,805908,Bradley Locko,"['May', '6', '2002']",180.0,France,Defender Left Back,left,Stade Brestois,1,1,nan,nan,63,Victor Aupetit
+1072,215114,Thomas Foket,"['Sep', '25', '1994']",177.0,Belgium,Defender Right Back,right,Stade Reims,5,23,nan,nan,375,Quadrans
+1073,570817,Maxime Busi,"['Oct', '14', '1999']",182.0,Belgium,Defender Right Back,right,Stade Reims,1,5,nan,nan,116,Relatives
+1074,798925,Fodé Doucouré,"['Feb', '3', '2001']",172.0,Mali,Defender Right Back,right,Red Star FC,1,5,nan,nan,77,BLACKSKILL
+1075,919173,Ibrahim Diakité,"['Oct', '31', '2003']",178.0,Guinea,Defender Right Back,right,KAS Eupen,-,1,nan,nan,43,BLACKSKILL
+1076,315145,Azor Matusiwa,"['Apr', '28', '1998']",173.0,Netherlands,midfield Defensive Midfield,right,Stade Reims,1,5,nan,nan,205,ER Sport Agency
+1077,468066,Jens Cajuste,"['Aug', '10', '1999']",188.0,Sweden,midfield Defensive Midfield,right,Stade Reims,11,6,nan,nan,151,World in Motion
+1078,414908,Marshall Munetsi,"['Jun', '22', '1996']",188.0,Zimbabwe,midfield Defensive Midfield,right,Stade Reims,16,9,nan,nan,178,Wasserman
+1079,649033,Dion Lopy,"['Feb', '2', '2002']",186.0,Senegal,midfield Defensive Midfield,right,Stade Reims,-,2,nan,nan,65,Youssoupha Fall
+1080,522791,Sambou Sissoko,"['Apr', '27', '1999']",179.0,France,midfield Defensive Midfield,right,RFC Seraing,3,8,nan,nan,129,AIS SPORT SERVICE
+1081,118278,Xavier Chavalerin,"['Mar', '7', '1991']",179.0,France,midfield Central Midfield,left,Troyes,22,23,nan,nan,379,Relatives
+1082,290746,Moreto Cassamá,"['Feb', '16', '1998']",165.0,Guinea-Bissau,midfield Central Midfield,right,Omonia Nikosia,7,10,nan,nan,153,Serial Sport
+1083,145115,Valon Berisha,"['Feb', '7', '1993']",176.0,Kosovo,midfield Central Midfield,right,Melbourne City,51,83,nan,nan,398,ROOF
+1084,814976,Martin Adeline,"['Dec', '2', '2003']",180.0,France,midfield Central Midfield,right,Rodez AF,5,3,nan,nan,47,One Team Football
+1085,739769,Ilan Kebbal,"['Jul', '10', '1998']",169.0,Algeria,midfield Attacking Midfield,left,Paris FC,13,21,nan,nan,118,Playeleven
+1086,671594,Kamory Doumbia,"['Feb', '18', '2003']",170.0,Mali,midfield Attacking Midfield,right,Stade Reims,12,7,nan,nan,52,BLACKSKILL
+1087,926235,Samuel Koeberlé,"['Nov', '26', '2004']",,France,midfield Attacking Midfield,,Stade Reims B,2,2,nan,nan,44,One Team Football
+1088,557614,Nathanaël Mbuku,"['Mar', '16', '2002']",170.0,France,Attack Left Winger,left,FC Augsburg,6,3,nan,nan,97,BS Group - BS Law
+1089,222876,Arbër Zeneli,"['Feb', '25', '1995']",176.0,Kosovo,Attack Left Winger,right,Stade Reims,78,66,nan,nan,314,Soccer11
+1090,399383,Mathieu Cafaro,"['Mar', '25', '1997']",175.0,France,Attack Left Winger,right,Saint-Étienne,25,13,nan,nan,155,One Team Football
+1091,393239,Mitchell van Bergen,"['Aug', '27', '1999']",170.0,Netherlands,Attack Left Winger,right,Stade Reims,27,25,nan,nan,237,Juzzt Football
+1092,316137,Moussa Doumbia,"['Aug', '15', '1994']",173.0,Mali,Attack Left Winger,right,FC Sochaux,26,11,nan,nan,214,BTFM
+1093,395242,Alexis Flips,"['Jan', '18', '2000']",173.0,France,Attack Right Winger,right,Stade Reims,19,12,nan,nan,133,
+1094,243606,Anastasios Donis,"['Aug', '29', '1996']",178.0,Greece,Attack Right Winger,right,APOEL Nicosia,44,17,nan,nan,213,ROGON
+1095,659517,Noa Cervantes,"['Apr', '16', '2003']",178.0,Algeria,Attack Right Winger,left,Le Mans FC,15,9,nan,nan,43,ISF SPORTS
+1096,709726,Hugo Ekitiké,"['Jun', '20', '2002']",189.0,France,Attack Centre Forward,right,Paris SG,24,11,nan,nan,85,
+1097,649016,El Bilal Touré,"['Oct', '3', '2001']",185.0,Mali,Attack Centre Forward,both,UD Almería,17,7,nan,nan,90,
+1098,315283,Kaj Sierhuis,"['Apr', '27', '1998']",180.0,Netherlands,Attack Centre Forward,right,Stade Reims,101,23,nan,nan,227,Muy Manero
+1099,798927,N'Dri Koffi,"['Mar', '9', '2002']",187.0,France,Attack Centre Forward,right,Le Mans FC,11,4,nan,nan,63,TTMA
+1100,388160,Fraser Hornby,"['Sep', '13', '1999']",195.0,Scotland,Attack Centre Forward,left,KV Oostende,37,9,nan,nan,113,KIN Partners
+1101,247915,Jonas Omlin,"['Jan', '10', '1994']",190.0,Switzerland,Goalkeeper,right,Bor. M'gladbach,-,2,467,81,320,Signature - ISCM AG
+1102,371816,Dimitry Bertaud,"['Jun', '6', '1998']",180.0,France,Goalkeeper,right,Montpellier,-,-,84,16,60,SMI SPORTS ...
+1103,478346,Matis Carvalho,"['Apr', '28', '1999']",186.0,Portugal,Goalkeeper,left,Montpellier,-,-,65,12,45,Concept Sport Agency
+1104,47713,Mamadou Sakho,"['Feb', '13', '1990']",187.0,France,Defender Centre Back,left,Montpellier,13,5,nan,nan,413,Sport Avenir ...
+1105,842341,Maxime Estève,"['May', '26', '2002']",193.0,France,Defender Centre Back,left,Montpellier,1,-,nan,nan,58,DW Sports Management
+1106,72857,Pedro Mendes,"['Oct', '1', '1990']",186.0,Portugal,Defender Centre Back,right,Montpellier,7,5,nan,nan,277,Proeleven S.A.
+1107,549815,Thuler,"['Mar', '10', '1999']",185.0,Brazil,Defender Centre Back,right,Vissel Kobe,2,-,nan,nan,69,Bertolucci Sports
+1108,842338,Enzo Tchato,"['Nov', '23', '2002']",182.0,Cameroon,Defender Centre Back,right,Montpellier,2,3,nan,nan,54,Wasserman
+1109,913660,Redouane Halhal,"['Mar', '5', '2003']",187.0,Morocco,Defender Centre Back,right,Montpellier B,-,-,nan,nan,30,
+1110,485965,Nicolas Cozza,"['Jan', '8', '1999']",178.0,France,Defender Left Back,left,VfL Wolfsburg,5,7,nan,nan,128,
+1111,271455,Mihailo Ristic,"['Oct', '31', '1995']",180.0,Serbia,Defender Left Back,left,Benfica,12,18,nan,nan,215,AC Talent
+1112,184922,Ambroise Oyongo,"['Jun', '22', '1991']",176.0,Cameroon,Defender Left Back,left,Without Club,7,13,nan,nan,195,
+1113,569374,Thibault Tamas,"['Feb', '20', '2001']",178.0,France,Defender Left Back,left,Montpellier,1,1,nan,nan,32,firsteleven ISM
+1114,335147,Junior Sambia,"['Sep', '7', '1996']",185.0,France,Defender Right Back,right,Salernitana,13,20,nan,nan,271,KS LawFirm
+1115,111058,Arnaud Souquet,"['Feb', '12', '1992']",179.0,France,Defender Right Back,right,Chicago,8,27,nan,nan,334,MEDIATION CONSEIL ...
+1116,627463,Thibaut Vargas,"['May', '22', '2000']",175.0,France,Defender Right Back,both,Nîmes Olympique,7,10,nan,nan,97,TTMA
+1117,294895,Mathías Suárez,"['Jun', '24', '1996']",182.0,Uruguay,Defender Right Back,right,Montpellier,5,11,nan,nan,172,
+1118,913674,Marius Ros,"['Nov', '15', '2001']",175.0,France,Defender Right Back,right,Pau FC,2,7,nan,nan,49,BS Group - BS Law
+1119,624037,Joris Chotard,"['Sep', '24', '2001']",179.0,France,midfield Defensive Midfield,right,Montpellier,2,8,nan,nan,136,
+1120,484743,Gabriel Barès,"['Aug', '29', '2000']",187.0,Switzerland,midfield Defensive Midfield,left,FC Thun,9,7,nan,nan,184,
+1121,118284,Jordan Ferri,"['Mar', '12', '1992']",173.0,France,midfield Central Midfield,right,Montpellier,17,32,nan,nan,368,score agencies
+1122,650350,Léo Leroy,"['Feb', '14', '2000']",187.0,France,midfield Central Midfield,,Montpellier,3,-,nan,nan,112,One Team Football
+1123,842425,Sacha Delaye,"['Apr', '23', '2002']",171.0,France,midfield Central Midfield,right,Le Puy Foot,3,3,nan,nan,48,One Team Football
+1124,127156,Téji Savanier,"['Dec', '22', '1991']",172.0,France,midfield Attacking Midfield,right,Montpellier,62,74,nan,nan,362,H2C Sport Consulting
+1125,113707,Rémy Cabella,"['Mar', '8', '1990']",172.0,France,midfield Attacking Midfield,right,LOSC Lille,86,62,nan,nan,413,TTMA
+1126,222859,Florent Mollet,"['Nov', '19', '1991']",175.0,France,midfield Attacking Midfield,right,FC Nantes,57,34,nan,nan,351,LB SPORT & ...
+1127,340328,Stephy Mavididi,"['May', '31', '1998']",182.0,England,Attack Left Winger,right,Montpellier,66,13,nan,nan,256,Elite Project Group ...
+1128,624920,Béni Makouana,"['Sep', '28', '2002']",181.0,Congo,Attack Left Winger,right,Montpellier,1,1,nan,nan,39,H2C Sport Consulting
+1129,659542,Elye Wahi,"['Jan', '2', '2003']",184.0,France,Attack Centre Forward,right,Montpellier,33,9,nan,nan,100,DW Sports Management
+1130,60540,Valère Germain,"['Apr', '17', '1990']",181.0,France,Attack Centre Forward,right,Montpellier,105,44,nan,nan,468,Relatives
+1131,704156,Nicholas Gioacchini,"['Jul', '25', '2000']",183.0,United States,Attack Centre Forward,right,St. Louis CITY,16,6,nan,nan,109,CAA Base Ltd
+1132,58295,Petar Skuletic,"['Jun', '29', '1990']",193.0,Serbia,Attack Centre Forward,left,Retired,76,26,nan,nan,285,CG sports
+1133,876034,Yanis Guermouche,"['Apr', '15', '2001']",192.0,Algeria,Attack Centre Forward,,Montpellier,7,5,nan,nan,41,
+1134,855043,Ryan Bakayoko,"['Feb', '13', '2002']",192.0,France,Attack Centre Forward,right,Chamois Niort,12,5,nan,nan,54,
+1135,127202,Matz Sels,"['Feb', '26', '1992']",188.0,Belgium,Goalkeeper,right,R. Strasbourg,-,-,447,98,356,pro soccer ...
+1136,77383,Eiji Kawashima,"['Mar', '20', '1983']",185.0,Japan,Goalkeeper,right,R. Strasbourg,-,-,648,143,490,
+1137,667991,Alaa Bellaarouch,"['Feb', '1', '2002']",188.0,Morocco,Goalkeeper,right,Stade Briochin,-,-,38,10,33,E2A
+1138,250844,Alexander Djiku,"['Aug', '9', '1994']",182.0,Ghana,Defender Centre Back,right,R. Strasbourg,6,3,nan,nan,246,
+1139,378953,Gerzino Nyamsi,"['Jan', '22', '1997']",195.0,France,Defender Centre Back,right,R. Strasbourg,6,4,nan,nan,135,Wasserman
+1140,352392,Lucas Perrin,"['Nov', '19', '1998']",188.0,France,Defender Centre Back,right,R. Strasbourg,5,3,nan,nan,135,SMI SPORTS ...
+1141,786436,Ismaël Doukouré,"['Jul', '24', '2003']",183.0,France,Defender Centre Back,right,R. Strasbourg,2,1,nan,nan,64,
+1142,60558,Maxime Le Marchand,"['Oct', '11', '1989']",185.0,France,Defender Centre Back,left,R. Strasbourg,11,7,nan,nan,363,One Team Football
+1143,862628,Marvin Elimbi,"['Feb', '20', '2003']",186.0,France,Defender Centre Back,right,US Orléans,-,-,nan,nan,39,One Team Management
+1144,962560,Kanfory Kaba,"['Mar', '23', '2004']",,France,Defender Centre Back,,R. Strasbourg B,1,-,nan,nan,24,P.P.M.
+1145,453016,Anthony Caci,"['Jul', '1', '1997']",184.0,France,Defender Left Back,right,1.FSV Mainz 05,4,12,nan,nan,151,W.Egal O.S.F.M.
+1146,354352,Frédéric Guilbert,"['Dec', '24', '1994']",178.0,France,Defender Right Back,right,R. Strasbourg,6,18,nan,nan,253,Wasserman
+1147,385817,Karol Fila,"['Jun', '13', '1998']",183.0,Poland,Defender Right Back,right,Zulte Waregem,8,9,nan,nan,197,INNfootball
+1148,830890,Marvin Senaya,"['Jan', '28', '2001']",181.0,France,Defender Right Back,right,Rodez AF,2,4,nan,nan,68,Pro Eleven Agency
+1149,372712,Ibrahima Sissoko,"['Oct', '27', '1997']",193.0,France,midfield Defensive Midfield,right,R. Strasbourg,6,13,nan,nan,198,ASR SPORT
+1150,178313,Jean-Eudes Aholou,"['Mar', '20', '1994']",186.0,Cote d'Ivoire,midfield Defensive Midfield,left,R. Strasbourg,17,9,nan,nan,238,Relatives
+1151,587646,Mahamé Siby,"['Jul', '7', '1996']",191.0,Mali,midfield Defensive Midfield,right,Malmö FF,2,1,nan,nan,49,
+1152,876631,Habib Diarra,"['Jan', '3', '2004']",179.0,France,midfield Defensive Midfield,right,R. Strasbourg,5,3,nan,nan,42,Carmenta
+1153,450050,Jean-Ricner Bellegarde,"['Jun', '27', '1998']",172.0,France,midfield Central Midfield,right,R. Strasbourg,12,19,nan,nan,249,
+1154,125783,Sanjin Prcic,"['Nov', '20', '1993']",181.0,Bosnia-Herzegovina,midfield Central Midfield,right,R. Strasbourg,13,7,nan,nan,227,AC Talent
+1155,314940,Dimitri Liénard,"['Feb', '13', '1988']",181.0,France,midfield Left Midfield,left,R. Strasbourg,33,44,nan,nan,326,MP FOOTBALL
+1156,628835,Dany Jean,"['Nov', '28', '2002']",,Haiti,midfield Left Midfield,,R. Strasbourg B,7,4,nan,nan,34,2SAgency
+1157,215977,Adrien Thomasson,"['Dec', '10', '1993']",175.0,France,midfield Attacking Midfield,right,Lens,57,41,nan,nan,343,One Team Football
+1158,891379,Nordine Kandil,"['Oct', '31', '2001']",165.0,Morocco,midfield Attacking Midfield,left,R. Strasbourg,1,3,nan,nan,20,ROGON
+1159,918157,Aymeric Ahmed,"['Nov', '8', '2003']",175.0,Comoros,midfield Attacking Midfield,right,R. Strasbourg B,2,2,nan,nan,25,
+1160,991487,Abdoul Ouattara,"['Oct', '22', '2005']",,Cote d'Ivoire,midfield Attacking Midfield,,Strasbourg U19,2,1,nan,nan,9,
+1161,358509,Mehdi Chahiri,"['Jul', '25', '1996']",180.0,France,Attack Left Winger,right,Paris FC,26,7,nan,nan,128,FS Management
+1162,146805,Majeed Waris,"['Sep', '19', '1991']",172.0,Ghana,Attack Second Striker,right,Anorthosis,84,37,nan,nan,315,
+1163,283994,Ludovic Ajorque,"['Feb', '25', '1994']",196.0,France,Attack Centre Forward,left,1.FSV Mainz 05,89,28,nan,nan,290,Léandre Chouya
+1164,344888,Habib Diallo,"['Jun', '18', '1995']",186.0,Senegal,Attack Centre Forward,right,R. Strasbourg,107,27,nan,nan,269,Wasserman
+1165,427161,Lebo Mothiba,"['Jan', '28', '1996']",182.0,South Africa,Attack Centre Forward,right,R. Strasbourg,41,9,nan,nan,157,MDC Advisors
+1166,27389,Kévin Gameiro,"['May', '9', '1987']",172.0,France,Attack Centre Forward,right,R. Strasbourg,234,76,nan,nan,683,Team Spirit ...
+1167,880330,Moïse Sahi Dion,"['Dec', '20', '2001']",175.0,Cote d'Ivoire,Attack Centre Forward,left,FC Annecy,22,1,nan,nan,56,BS & PARTNERS
+1168,22628,Benoît Costil,"['Jul', '3', '1987']",188.0,France,Goalkeeper,right,LOSC Lille,-,1,766,164,591,SVF FOOT
+1169,344591,Gaëtan Poussin,"['Jan', '13', '1999']",186.0,France,Goalkeeper,right,G. Bordeaux,-,1,62,24,57,Kemari
+1170,540641,Davy Rouyard,"['Aug', '17', '1999']",194.0,Guadeloupe,Goalkeeper,right,G. Bordeaux B,-,-,24,9,22,CABINET OLYMPI.NET
+1171,540643,Tidiane Malbec,"['Nov', '3', '2001']",187.0,France,Goalkeeper,right,FC Annecy,-,-,4,-,1,CH Conseil et ...
+1172,970278,Guerric Bernou,"['May', '11', '2004']",,France,Goalkeeper,right,G. Bordeaux B,-,-,6,3,7,CH Conseil et ...
+1173,377468,Anel Ahmedhodzic,"['Mar', '26', '1999']",190.0,Bosnia-Herzegovina,Defender Centre Back,right,Sheff Utd,11,5,nan,nan,157,FPA
+1174,230140,Stian Gregersen,"['May', '17', '1995']",191.0,Norway,Defender Centre Back,right,G. Bordeaux,8,4,nan,nan,213,BHM Sports Agency
+1175,127610,Mexer,"['Sep', '8', '1988']",188.0,Mozambique,Defender Centre Back,right,Estoril Praia,11,4,nan,nan,318,SM-Desporto e ...
+1176,371150,Loïc Bessilé,"['Feb', '19', '1999']",184.0,Togo,Defender Centre Back,left,KAS Eupen,3,-,nan,nan,48,VV Consulting
+1177,43256,Paul Baysse,"['May', '18', '1988']",185.0,France,Defender Centre Back,right,Retired,17,4,nan,nan,337,Gallea Gestion S.A
+1178,596901,Abdel Medioub,"['Aug', '28', '1997']",197.0,Algeria,Defender Centre Back,right,Aris Limassol,3,1,nan,nan,56,
+1179,709729,Tijany Atallah,"['Mar', '12', '2003']",175.0,Algeria,Defender Centre Back,right,G. Bordeaux B,-,-,nan,nan,14,score agencies
+1180,1011200,Junior Mwanga,"['May', '11', '2003']",184.0,France,Defender Centre Back,right,G. Bordeaux,-,1,nan,nan,36,SAGAA
+1181,76277,Laurent Koscielny,"['Sep', '10', '1985']",186.0,France,Defender Centre Back,right,Retired,39,8,nan,nan,585,SMI SPORTS ...
+1182,970364,Yaël Mouanga,"['Jul', '23', '2005']",,France,Defender Centre Back,,G. Bordeaux B,1,-,nan,nan,19,
+1183,397171,Gideon Mensah,"['Jul', '18', '1998']",178.0,Ghana,Defender Left Back,left,AJ Auxerre,1,9,nan,nan,166,HC
+1184,314944,Ricardo Mangas,"['Mar', '19', '1998']",179.0,Portugal,Defender Left Back,left,Boavista,17,6,nan,nan,137,Team of Future
+1185,119085,Loris Benito,"['Jan', '7', '1992']",184.0,Switzerland,Defender Left Back,left,BSC Young Boys,7,24,nan,nan,335,SBE Management AG
+1186,592398,Aïssa Boudechicha,"['Apr', '13', '2000']",18.0,Algeria,Defender Left Back,left,G. Bordeaux B,-,-,nan,nan,15,
+1187,970279,Jacques Ekomié,"['Aug', '19', '2003']",179.0,Gabon,Defender Left Back,right,G. Bordeaux,1,-,nan,nan,19,
+1188,357992,Raoul Bellanova,"['May', '17', '2000']",188.0,Italy,Defender Right Back,right,Inter,7,10,nan,nan,195,CAA Base Ltd
+1189,538998,Timothée Pembélé,"['Sep', '9', '2002']",183.0,France,Defender Right Back,right,Paris SG,6,5,nan,nan,52,Sport Cover
+1190,288241,Enock Kwateng,"['Apr', '9', '1997']",181.0,France,Defender Right Back,right,Ankaragücü,2,2,nan,nan,119,
+1191,926766,Johaneko Louis-Jean,"['Jun', '28', '2004']",175.0,France,Defender Right Back,right,G. Bordeaux,3,1,nan,nan,22,
+1192,861248,Mohamed Aggoun,"['Feb', '21', '2002']",182.0,Algeria,Defender Right Back,right,Without Club,-,-,nan,nan,2,
+1193,312314,Otávio,"['May', '4', '1994']",173.0,Brazil,midfield Defensive Midfield,right,Atlético-MG,5,9,nan,nan,300,GR2
+1194,93704,Josuha Guilavogui,"['Sep', '19', '1990']",188.0,France,midfield Defensive Midfield,right,VfL Wolfsburg,22,14,nan,nan,406,Relatives
+1195,847759,Tom Lacoux,"['Jan', '25', '2002']",182.0,France,midfield Defensive Midfield,right,G. Bordeaux,-,1,nan,nan,65,Hexagon
+1196,540693,Emeric Depussay,"['Aug', '27', '2001']",178.0,France,midfield Defensive Midfield,right,G. Bordeaux,-,1,nan,nan,33,Wasserman
+1197,334835,Toma Basic,"['Nov', '25', '1996']",190.0,Croatia,midfield Central Midfield,left,Lazio,24,21,nan,nan,250,Soccer11
+1198,111828,Fransérgio,"['Oct', '18', '1990']",186.0,Brazil,midfield Central Midfield,right,G. Bordeaux,49,35,nan,nan,410,Lipatin Sports
+1199,99352,Rubén Pardo,"['Oct', '22', '1992']",182.0,Spain,midfield Central Midfield,right,CD Leganés,16,50,nan,nan,363,YOU FIRST
+1200,376082,Danylo Ignatenko,"['Mar', '13', '1997']",190.0,Ukraine,midfield Central Midfield,right,G. Bordeaux,8,7,nan,nan,160,ProStar
+1201,740674,Issouf Sissokho,"['Jan', '30', '2002']",174.0,Mali,midfield Central Midfield,right,G. Bordeaux,2,1,nan,nan,30,SEG
+1202,970280,Rudy Orea,"['Jun', '4', '2002']",,France,midfield Central Midfield,,G. Bordeaux B,-,-,nan,nan,2,
+1203,395236,Yacine Adli,"['Jul', '29', '2000']",186.0,France,midfield Attacking Midfield,right,AC Milan,11,18,nan,nan,144,
+1204,569386,Logan Delaurier-Chaubet,"['Apr', '22', '2002']",173.0,France,midfield Attacking Midfield,left,G. Bordeaux,5,-,nan,nan,26,SPOCS Global Sports
+1205,540656,Johab Pascal,"['Mar', '10', '2000']",,Haiti,midfield Attacking Midfield,,G. Bordeaux B,-,3,nan,nan,25,CH Conseil et ...
+1206,540664,Dilane Bakwa,"['Aug', '26', '2002']",179.0,France,Attack Left Winger,left,G. Bordeaux,5,9,nan,nan,55,Sport Cover
+1207,281319,Alberth Elis,"['Feb', '12', '1996']",185.0,Honduras,Attack Right Winger,right,Stade Brestois,57,37,nan,nan,205,Futbol Consultants ...
+1208,315125,Javairô Dilrosun,"['Jun', '22', '1998']",175.0,Netherlands,Attack Right Winger,left,Feyenoord,17,37,nan,nan,180,More Than Goals
+1209,399543,Rémi Oudin,"['Nov', '18', '1996']",186.0,France,Attack Right Winger,left,Lecce,50,27,nan,nan,241,Carrierefoot
+1210,424051,Samuel Kalu,"['Aug', '26', '1997']",177.0,Nigeria,Attack Right Winger,right,Watford,27,32,nan,nan,198,DW Sports Management
+1211,460654,Mehdi Zerkane,"['Jul', '15', '1999']",186.0,Algeria,Attack Right Winger,left,Nîmes Olympique,3,3,nan,nan,67,Global Compensation
+1212,540665,Amadou Traoré,"['Mar', '7', '2002']",177.0,Guinea,Attack Right Winger,right,Kansas City II,1,2,nan,nan,37,BS Group - BS Law
+1213,842764,Moudja Sié Ouattara,"['May', '20', '2002']",,Cote d'Ivoire,Attack Right Winger,left,SO Cholet,1,1,nan,nan,22,Sport Avenir ...
+1214,260166,Ui-jo Hwang,"['Aug', '28', '1992']",185.0,"Korea, South",Attack Centre Forward,both,FC Seoul,105,29,nan,nan,358,CAA Base Ltd
+1215,157501,M'Baye Niang,"['Dec', '19', '1994']",188.0,Senegal,Attack Centre Forward,right,AJ Auxerre,76,33,nan,nan,342,
+1216,453824,Josh Maja,"['Dec', '27', '1998']",181.0,Nigeria,Attack Centre Forward,right,G. Bordeaux,60,18,nan,nan,202,Elite Project Group ...
+1217,557612,Sékou Mara,"['Jul', '30', '2002']",183.0,France,Attack Centre Forward,right,Southampton,13,7,nan,nan,67,BS Group - BS Law
+1218,18909,Jimmy Briand,"['Aug', '2', '1985']",181.0,France,Attack Centre Forward,right,Retired,134,83,nan,nan,636,
+1219,575610,Thibault Klidjé,"['Jul', '10', '2001']",169.0,Togo,Attack Centre Forward,right,FC Luzern,1,-,nan,nan,20,BY Sport Consulting
+1220,357117,Alban Lafont,"['Jan', '23', '1999']",196.0,France,Goalkeeper,right,FC Nantes,-,2,390,82,298,Sport Cover
+1221,282028,Rémy Descamps,"['Jun', '25', '1996']",196.0,France,Goalkeeper,left,FC Nantes,-,-,193,48,158,Talentz
+1222,28356,Denis Petric,"['May', '24', '1988']",187.0,Slovenia,Goalkeeper,right,FC Nantes,-,-,248,61,207,H2C Sport Consulting
+1223,270051,Andrei Girotto,"['Feb', '17', '1992']",186.0,Brazil,Defender Centre Back,right,FC Nantes,29,14,nan,nan,344,Kuniy & W. Sports ...
+1224,182875,Jean-Charles Castelletto,"['Jan', '26', '1995']",186.0,Cameroon,Defender Centre Back,both,FC Nantes,11,4,nan,nan,305,BTFM
+1225,139279,Nicolas Pallois,"['Sep', '19', '1987']",189.0,France,Defender Centre Back,left,FC Nantes,17,8,nan,nan,417,Sport Cover
+1226,807648,Abdoulaye Sylla,"['Apr', '10', '2000']",181.0,Guinea,Defender Centre Back,right,RFC Seraing,1,1,nan,nan,65,World Elites
+1227,822116,Yannis M'Bemba,"['Jul', '1', '2001']",190.0,France,Defender Centre Back,left,Le Puy Foot,1,-,nan,nan,52,
+1228,650582,Robin Voisine,"['Apr', '7', '2002']",188.0,France,Defender Centre Back,left,FC Nantes,4,1,nan,nan,47,One Team Football
+1229,557613,Quentin Merlin,"['May', '16', '2002']",173.0,France,Defender Left Back,left,FC Nantes,3,6,nan,nan,73,Léandre Chouya
+1230,394906,Charles Traoré,"['Jan', '1', '1992']",180.0,Mali,Defender Left Back,left,FC Nantes,3,5,nan,nan,170,Creative & ...
+1231,111038,Dennis Appiah,"['Jun', '9', '1992']",179.0,France,Defender Right Back,right,Saint-Étienne,1,16,nan,nan,346,TTMA
+1232,61891,Fábio,"['Jul', '9', '1990']",172.0,Brazil,Defender Right Back,right,Grêmio,7,17,nan,nan,330,LIFEPRO
+1233,102744,Sébastien Corchia,"['Nov', '1', '1990']",176.0,France,Defender Right Back,right,FC Nantes,16,35,nan,nan,455,SVF FOOT
+1234,242273,Pedro Chirivella,"['May', '23', '1997']",178.0,Spain,midfield Defensive Midfield,right,FC Nantes,7,18,nan,nan,236,Promoesport
+1235,830265,Lohann Doucet,"['Sep', '14', '2002']",180.0,France,midfield Defensive Midfield,right,FC Nantes,1,-,nan,nan,49,Concept Sport Agency
+1236,182889,Wylan Cyprien,"['Jan', '28', '1995']",180.0,France,midfield Central Midfield,right,FC Sion,40,21,nan,nan,289,SMI SPORTS ...
+1237,353403,Samuel Moutoussamy,"['Aug', '12', '1996']",176.0,DR Congo,midfield Central Midfield,left,FC Nantes,6,6,nan,nan,187,Wasserman
+1238,855158,Mohamed Achi,"['Jan', '16', '2002']",181.0,France,midfield Central Midfield,left,Paris 13 Atl.,4,8,nan,nan,51,
+1239,288225,Ludovic Blas,"['Dec', '31', '1997']",180.0,France,midfield Attacking Midfield,left,FC Nantes,52,29,nan,nan,282,Sport Cover
+1240,243737,Roli Pereira de Sa,"['Dec', '10', '1996']",178.0,France,midfield Attacking Midfield,left,FC Sochaux,12,8,nan,nan,138,CAA Base Ltd
+1241,773795,Gor Manvelyan,"['Apr', '9', '2002']",180.0,France,midfield Attacking Midfield,both,FC Nantes,8,4,nan,nan,35,Wilders Sport
+1242,274862,Moses Simon,"['Jul', '12', '1995']",168.0,Nigeria,Attack Left Winger,right,FC Nantes,65,55,nan,nan,341,CAA Base Ltd
+1243,463620,Willem Geubbels,"['Aug', '16', '2001']",185.0,France,Attack Left Winger,right,FC St. Gallen,12,1,nan,nan,77,Relatives
+1244,140803,Anthony Limbombe,"['Jul', '15', '1994']",177.0,Belgium,Attack Left Winger,right,Almere City,48,51,nan,nan,310,KEYS M
+1245,548650,Osman Bukari,"['Dec', '13', '1998']",170.0,Ghana,Attack Right Winger,both,Red Star,37,45,nan,nan,167,S&E
+1246,353365,Marcus Coco,"['Jun', '24', '1996']",184.0,France,Attack Right Winger,right,FC Nantes,11,14,nan,nan,249,
+1247,487969,Randal Kolo Muani,"['Dec', '5', '1998']",187.0,France,Attack Centre Forward,right,E. Frankfurt,61,41,nan,nan,185,Relatives
+1248,184935,Kalifa Coulibaly,"['Aug', '21', '1991']",197.0,Mali,Attack Centre Forward,right,Without Club,59,17,nan,nan,234,Relatives
+1249,264956,Jean-Kévin Augustin,"['Jun', '16', '1997']",179.0,France,Attack Centre Forward,right,FC Basel,56,14,nan,nan,196,Sport Cover
+1250,168471,Renaud Emond,"['Dec', '5', '1991']",185.0,Belgium,Attack Centre Forward,right,Standard Liège,70,8,nan,nan,264,Creative & ...
+1251,696849,Etienne Green,"['Jul', '19', '2000']",191.0,England,Goalkeeper,right,Saint-Étienne,-,-,54,6,34,Pro Eleven Agency
+1252,318507,Paul Bernardoni,"['Apr', '18', '1997']",190.0,France,Goalkeeper,left,Angers SCO,-,-,371,57,235,
+1253,465836,Stefan Bajic,"['Dec', '23', '2001']",188.0,France,Goalkeeper,right,Valenciennes FC,-,-,109,11,66,Classico
+1254,836132,Boubacar Fall,"['Feb', '3', '2001']",198.0,Senegal,Goalkeeper,left,Saint-Étienne,-,-,20,9,23,
+1255,272636,Harold Moukoudi,"['Nov', '27', '1997']",191.0,Cameroon,Defender Centre Back,right,AEK Athens,12,3,nan,nan,195,ROGON
+1256,807128,Saïdou Sow,"['Jul', '4', '2002']",185.0,Guinea,Defender Centre Back,right,Saint-Étienne,2,1,nan,nan,65,MDC Advisors
+1257,494586,Mickaël Nade,"['Mar', '4', '1999']",193.0,France,Defender Centre Back,left,Saint-Étienne,4,1,nan,nan,109,AMS CONSULTING
+1258,84085,Timothée Kolodziejczak,"['Oct', '1', '1991']",183.0,France,Defender Centre Back,left,FC Schalke 04,14,16,nan,nan,322,
+1259,90681,Eliaquim Mangala,"['Feb', '13', '1991']",187.0,France,Defender Centre Back,left,Without Club,20,13,nan,nan,351,Team Spirit ...
+1260,855615,Abdoulaye Bakayoko,"['Dec', '15', '2002']",185.0,Cote d'Ivoire,Defender Centre Back,both,Saint-Étienne,1,-,nan,nan,28,Kemari
+1261,177690,Miguel Trauco,"['Aug', '25', '1992']",175.0,Peru,Defender Left Back,left,San Jose,11,40,nan,nan,362,MIRAGEDEPOR
+1262,114340,Gabriel Silva,"['May', '13', '1991']",179.0,Brazil,Defender Left Back,left,Without Club,7,13,nan,nan,249,Un1que Football
+1263,857653,Lucas Calodat,"['Feb', '6', '2002']",,France,Defender Left Back,left,Saint-Étienne B,3,6,nan,nan,33,
+1264,562463,Lucas Llort,"['Jun', '8', '1999']",175.0,France,Defender Left Back,left,Canet Rous.,1,1,nan,nan,50,TTMA
+1265,580747,Yvann Maçon,"['Oct', '1', '1998']",177.0,France,Defender Right Back,right,Paris FC,4,6,nan,nan,86,Wasserman
+1266,364857,Falaye Sacko,"['May', '1', '1995']",179.0,Mali,Defender Right Back,right,Montpellier,2,18,nan,nan,225,Sferico Sports ...
+1267,594992,Alpha Sissoko,"['Mar', '7', '1997']",178.0,France,Defender Right Back,right,Quevilly Rouen,-,3,nan,nan,93,2SAgency
+1268,855607,Bryan Nokoue,"['May', '23', '2002']",180.0,Cameroon,Defender Right Back,right,Saint-Étienne B,-,-,nan,nan,51,FSM MANAGEMENT
+1269,620313,Lucas Gourna-Douath,"['Aug', '5', '2003']",185.0,France,midfield Defensive Midfield,right,RB Salzburg,1,2,nan,nan,104,Sport Cover
+1270,469669,Yvan Neyou,"['Jan', '3', '1997']",180.0,Cameroon,midfield Defensive Midfield,right,CD Leganés,4,3,nan,nan,121,BTFM
+1271,287635,Assane Dioussé,"['Sep', '20', '1997']",175.0,Senegal,midfield Defensive Midfield,left,OFI Crete FC,7,2,nan,nan,238,
+1272,904662,Louis Mouton,"['Jun', '3', '2002']",180.0,France,midfield Defensive Midfield,right,Saint-Étienne,6,3,nan,nan,46,Kemari
+1273,324795,Mahdi Camara,"['Jun', '30', '1998']",178.0,France,midfield Central Midfield,right,Stade Brestois,13,8,nan,nan,161,TTMA
+1274,471582,Zaydou Youssouf,"['Jul', '11', '1999']",182.0,France,midfield Central Midfield,left,Famalicão,8,3,nan,nan,164,ESN
+1275,484992,Aimen Moueffek,"['Apr', '9', '2001']",179.0,France,midfield Central Midfield,right,Saint-Étienne,1,1,nan,nan,71,
+1276,808477,Ahmed Sidibé,"['Feb', '10', '2002']",189.0,France,midfield Central Midfield,left,Saint-Étienne B,-,-,nan,nan,28,Common Ground ...
+1277,569385,Adil Aouchiche,"['Jul', '15', '2002']",181.0,France,midfield Attacking Midfield,right,FC Lorient,6,15,nan,nan,106,Sport Cover
+1278,77826,Ryad Boudebouz,"['Feb', '19', '1990']",177.0,Algeria,midfield Attacking Midfield,left,Al-Ahli SFC,61,70,nan,nan,458,TTMA
+1279,609692,Bilal Benkhedim,"['Apr', '20', '2001']",175.0,Algeria,midfield Attacking Midfield,right,Le Puy Foot,8,2,nan,nan,47,
+1280,236045,Denis Bouanga,"['Nov', '11', '1994']",180.0,Gabon,Attack Left Winger,right,LAFC,93,39,nan,nan,278,N.Agency
+1281,46791,Bakary Sako,"['Apr', '26', '1988']",183.0,Mali,Attack Left Winger,left,APO Levadiakos,76,55,nan,nan,402,Sport Cover
+1282,324811,Arnaud Nordin,"['Jun', '17', '1998']",170.0,France,Attack Right Winger,left,Montpellier,36,14,nan,nan,217,One Team Football
+1283,290593,Sada Thioub,"['Jun', '1', '1995']",179.0,Senegal,Attack Right Winger,right,Angers SCO,23,22,nan,nan,245,W.Egal O.S.F.M.
+1284,735700,Maxence Rivera,"['May', '30', '2002']",168.0,France,Attack Right Winger,right,Le Puy Foot,8,6,nan,nan,77,Frederic Guerra ...
+1285,413033,Lamine Ghezali,"['Jul', '6', '1999']",175.0,France,Attack Right Winger,right,FC Dinamo,16,5,nan,nan,98,One Team Football
+1286,947069,El Hadji Dieye,"['Jun', '6', '2002']",,Senegal,Attack Right Winger,right,Saint-Étienne B,5,5,nan,nan,35,
+1287,103565,Wahbi Khazri,"['Feb', '8', '1991']",176.0,Tunisia,Attack Centre Forward,right,Montpellier,106,60,nan,nan,461,
+1288,358515,Jean-Philippe Krasso,"['Jul', '17', '1997']",187.0,Cote d'Ivoire,Attack Centre Forward,left,Saint-Étienne,48,21,nan,nan,173,Hagen
+1289,291110,Enzo Crivelli,"['Feb', '6', '1995']",183.0,France,Attack Centre Forward,right,Servette FC,49,21,nan,nan,278,SMI SPORTS ...
+1290,402079,Ignacio Ramírez,"['Feb', '1', '1997']",180.0,Uruguay,Attack Centre Forward,right,Nacional,104,18,nan,nan,223,Faro Sports
+1291,418658,Charles Abi,"['Apr', '12', '2000']",189.0,France,Attack Centre Forward,left,Stade-Lausanne,12,3,nan,nan,95,SPS//YSP
+1292,98349,Romain Hamouma,"['Mar', '29', '1987']",179.0,France,Attack Centre Forward,right,AC Ajaccio,89,69,nan,nan,450,Gallea Gestion S.A
+1293,654414,Yanis Lhéry,"['May', '7', '2003']",,France,Attack Centre Forward,both,Saint-Étienne B,14,2,nan,nan,36,
+1294,783799,Mathys Saban,"['May', '15', '2002']",177.0,France,Attack Centre Forward,,Saint-Étienne B,4,3,nan,nan,30,ESM Agency
+1295,124884,Marco Bizot,"['Mar', '10', '1991']",193.0,Netherlands,Goalkeeper,right,Stade Brestois,-,2,488,135,407,FFP
+1296,357047,Gautier Larsonneur,"['Feb', '23', '1997']",181.0,France,Goalkeeper,right,Saint-Étienne,-,-,217,55,181,TTMA
+1297,395251,Sébastien Cibois,"['Mar', '2', '1998']",192.0,France,Goalkeeper,right,Rodez AF,-,-,104,19,72,Relatives
+1298,525155,Grégoire Coudert,"['Apr', '3', '1999']",188.0,France,Goalkeeper,left,Stade Brestois,-,-,52,7,34,
+1299,250779,Brendan Chardonnet,"['Dec', '22', '1994']",184.0,France,Defender Centre Back,right,Stade Brestois,11,1,nan,nan,198,Kemari
+1300,485960,Lilian Brassier,"['Nov', '2', '1999']",186.0,France,Defender Centre Back,left,Stade Brestois,2,4,nan,nan,137,CAA Stellar
+1301,170544,Christophe Hérelle,"['Aug', '22', '1992']",188.0,Martinique,Defender Centre Back,right,Stade Brestois,4,1,nan,nan,268,
+1302,184575,Denys Bain,"['Jul', '2', '1993']",181.0,France,Defender Centre Back,both,AJ Auxerre,11,3,nan,nan,233,
+1303,796913,Noé Sow,"['Dec', '18', '1998']",191.0,France,Defender Centre Back,right,Pau FC,2,1,nan,nan,60,Mickael Libong
+1304,344864,Jean-Kévin Duverne,"['Jul', '12', '1997']",184.0,France,Defender Left Back,right,Stade Brestois,4,5,nan,nan,240,Concept Sport Agency
+1305,131827,Jere Uronen,"['Jul', '13', '1994']",177.0,Finland,Defender Left Back,left,FC Schalke 04,14,30,nan,nan,315,NGA Sport
+1306,410185,Ronaël Pierre-Gabriel,"['Jun', '13', '1998']",177.0,France,Defender Right Back,right,Espanyol,1,4,nan,nan,141,One Team Football
+1307,78917,Julien Faussurier,"['Jan', '14', '1987']",173.0,France,Defender Right Back,right,FC Sochaux,31,59,nan,nan,503,W.Egal O.S.F.M.
+1308,569384,Lucien Agoumé,"['Feb', '9', '2002']",185.0,France,midfield Defensive Midfield,right,Troyes,1,4,nan,nan,88,ND SPORTS MANAGEMENT
+1309,93726,Paul Lasne,"['Jan', '16', '1989']",186.0,France,midfield Defensive Midfield,left,Paris FC,15,15,nan,nan,382,TTMA
+1310,138055,Haris Belkebla,"['Jan', '28', '1994']",177.0,Algeria,midfield Central Midfield,right,Stade Brestois,9,4,nan,nan,321,no agent
+1311,474662,Hugo Magnetti,"['May', '30', '1998']",180.0,France,midfield Central Midfield,right,Stade Brestois,-,3,nan,nan,91,USM GROUP
+1312,684062,Hianga'a Mbock,"['Dec', '28', '1999']",186.0,France,midfield Central Midfield,right,SM Caen,2,2,nan,nan,68,Relatives
+1313,255220,Romain Philippoteaux,"['Mar', '2', '1988']",170.0,France,midfield Right Midfield,,NorthEast Utd.,61,37,nan,nan,352,Just 4 player Group
+1314,924800,Axel Camblan,"['Jun', '18', '2003']",169.0,France,midfield Attacking Midfield,right,Concarneau,14,9,nan,nan,51,Wasserman
+1315,737781,Jérémy Le Douaron,"['Apr', '21', '1998']",189.0,France,Attack Left Winger,left,Stade Brestois,34,11,nan,nan,146,Kemari
+1316,175014,Youcef Belaïli,"['Mar', '14', '1992']",182.0,Algeria,Attack Left Winger,right,AC Ajaccio,78,68,nan,nan,272,ROGON
+1317,780147,Rafiki Saïd,"['Mar', '15', '2000']",178.0,Comoros,Attack Left Winger,both,Nîmes Olympique,16,8,nan,nan,79,ASR SPORT
+1318,229006,Franck Honorat,"['Aug', '11', '1996']",180.0,France,Attack Right Winger,right,Stade Brestois,36,43,nan,nan,254,Gol International
+1319,640109,Martín Satriano,"['Feb', '20', '2001']",187.0,Uruguay,Attack Centre Forward,right,FC Empoli,22,11,nan,nan,89,TMG Football Limited
+1320,238639,Steve Mounié,"['Sep', '29', '1994']",190.0,Benin,Attack Centre Forward,right,Stade Brestois,71,21,nan,nan,267,Soccermax
+1321,342226,Irvin Cardona,"['Aug', '8', '1997']",185.0,France,Attack Centre Forward,right,FC Augsburg,59,18,nan,nan,192,Wasserman
+1322,649035,Youssouph Badji,"['Dec', '20', '2001']",192.0,Senegal,Attack Centre Forward,right,RSC Charleroi,14,2,nan,nan,86,
+1323,56809,Alexandre Oukidja,"['Jul', '19', '1988']",184.0,Algeria,Goalkeeper,right,FC Metz,-,1,357,131,362,SAS ASSIST & GOAL
+1324,205465,Marc-Aurèle Caillard,"['May', '12', '1994']",191.0,France,Goalkeeper,right,FC Metz,-,-,155,33,117,
+1325,666975,Ousmane Ba,"['Jun', '6', '2002']",185.0,Senegal,Goalkeeper,right,FC Metz,-,-,22,7,21,World Elites
+1326,130110,David Oberhauser,"['Nov', '29', '1990']",187.0,France,Goalkeeper,right,US Boulogne,-,2,138,23,106,
+1327,211637,Kiki Kouyaté,"['Apr', '15', '1997']",192.0,Mali,Defender Centre Back,both,Montpellier,11,1,nan,nan,182,Mondo Victory
+1328,450417,Dylan Bronn,"['Jun', '19', '1995']",186.0,Tunisia,Defender Centre Back,right,Salernitana,15,2,nan,nan,214,Creative & ...
+1329,258254,Jemerson,"['Aug', '24', '1992']",184.0,Brazil,Defender Centre Back,right,Atlético-MG,11,5,nan,nan,297,fAirplay-Management
+1330,402004,Mamadou Fofana,"['Jan', '21', '1998']",186.0,Mali,Defender Centre Back,both,Amiens SC,1,2,nan,nan,188,forward management ...
+1331,413118,Sikou Niakaté,"['Jul', '10', '1999']",186.0,France,Defender Centre Back,left,SC Braga,5,2,nan,nan,153,Sport Avenir ...
+1332,520530,Fali Candé,"['Jan', '24', '1998']",184.0,Guinea-Bissau,Defender Centre Back,left,FC Metz,4,5,nan,nan,128,Prodigy Players
+1333,620315,Lenny Lacroix,"['Feb', '6', '2003']",186.0,France,Defender Centre Back,right,Benfica B,1,1,nan,nan,47,Classico
+1334,806310,Amadou Salif Mbengue,"['Jan', '5', '2002']",180.0,Senegal,Defender Centre Back,right,Reading,2,-,nan,nan,52,Extra Time Sports ...
+1335,57404,Jean-Armel Kana-Biyik,"['Jul', '3', '1989']",184.0,Cameroon,Defender Centre Back,right,Without Club,10,3,nan,nan,366,Wasserman
+1336,855309,Noah Zilliox,"['Mar', '17', '2003']",,France,Defender Centre Back,,FC Metz B,-,1,nan,nan,41,TTMA
+1337,344886,Matthieu Udol,"['Mar', '20', '1996']",178.0,France,Defender Left Back,left,FC Metz,7,9,nan,nan,126,
+1338,170961,Thomas Delaine,"['Mar', '24', '1992']",180.0,France,Defender Left Back,left,R. Strasbourg,4,17,nan,nan,222,Léandre Chouya
+1339,127075,Manuel Cabit,"['Jun', '3', '1993']",180.0,Martinique,Defender Left Back,left,Retired,1,6,nan,nan,109,USM GROUP
+1340,384859,Fabien Centonze,"['Jan', '16', '1996']",182.0,France,Defender Right Back,right,FC Nantes,11,16,nan,nan,262,CAA Stellar
+1341,743500,William Mikelbrencis,"['Feb', '25', '2004']",176.0,France,Defender Right Back,right,Hamburger SV,2,2,nan,nan,36,ROGON
+1342,434358,Sofiane Alakouch,"['Jul', '29', '1998']",175.0,Morocco,Defender Right Back,right,FC Metz,1,10,nan,nan,147,STC
+1343,293944,Habib Maïga,"['Jan', '1', '1996']",181.0,Cote d'Ivoire,midfield Defensive Midfield,right,FC Metz,9,6,nan,nan,151,SEG
+1344,342209,Kévin N'Doram,"['Jan', '22', '1996']",185.0,France,midfield Defensive Midfield,right,FC Metz,3,2,nan,nan,124,
+1345,205503,Ibrahim Amadou,"['Apr', '6', '1993']",183.0,France,midfield Defensive Midfield,right,SH Shenhua,8,4,nan,nan,278,Carrierefoot
+1346,649020,Boubacar Traoré,"['Aug', '20', '2001']",183.0,Mali,midfield Defensive Midfield,,Wolves,3,2,nan,nan,44,forward management ...
+1347,126699,Vincent Pajot,"['Aug', '19', '1990']",180.0,France,midfield Defensive Midfield,right,FC Annecy,21,18,nan,nan,344,One Team Football
+1348,568693,Pape Matar Sarr,"['Sep', '14', '2002']",184.0,Senegal,midfield Central Midfield,right,Tottenham,5,3,nan,nan,78,
+1349,628834,Danley Jean Jacques,"['May', '20', '2000']",182.0,Haiti,midfield Central Midfield,right,FC Metz,-,3,nan,nan,48,SAS ASSIST & GOAL
+1350,202318,Farid Boulaya,"['Feb', '25', '1993']",180.0,Algeria,midfield Attacking Midfield,right,Al-Gharafa SC,27,28,nan,nan,241,
+1351,506009,Amine Bassi,"['Nov', '27', '1997']",173.0,Morocco,midfield Attacking Midfield,right,Houston,34,22,nan,nan,162,Classico
+1352,442320,Didier Lamkel Zé,"['Sep', '17', '1996']",192.0,Cameroon,Attack Left Winger,right,Wydad AC,40,20,nan,nan,186,Relatives
+1353,205587,Opa Nguette,"['Jul', '8', '1994']",182.0,Senegal,Attack Left Winger,right,FC Baniyas,31,18,nan,nan,267,ND SPORTS MANAGEMENT
+1354,568702,Papa Ndiaga Yade,"['Jan', '5', '2000']",185.0,Senegal,Attack Left Winger,left,Troyes,4,9,nan,nan,75,World Elites
+1355,568696,Cheikh Sabaly,"['Mar', '4', '1999']",168.0,Senegal,Attack Left Winger,right,FC Metz,23,21,nan,nan,128,Wasserman
+1356,568701,Lamine Gueye,"['Mar', '13', '1998']",178.0,Senegal,Attack Right Winger,,FC Metz,34,18,nan,nan,140,World Elites
+1357,353211,Vagner,"['Jan', '10', '1996']",168.0,Cape Verde,Attack Right Winger,right,RFC Seraing,33,14,nan,nan,152,SPS//YSP
+1358,591914,Warren Tchimbembé,"['Apr', '21', '1998']",180.0,Congo,Attack Right Winger,right,Guingamp,7,2,nan,nan,88,FS Management
+1359,490417,Ibrahima Niane,"['Mar', '11', '1999']",187.0,Senegal,Attack Centre Forward,right,Angers SCO,36,4,nan,nan,165,World Elites
+1360,122116,Nicolas de Préville,"['Jan', '8', '1991']",182.0,France,Attack Centre Forward,right,1.FC K'lautern,74,36,nan,nan,389,Wasserman
+1361,729814,Georges Mikautadze,"['Oct', '31', '2000']",176.0,Georgia,Attack Centre Forward,right,FC Metz,60,13,nan,nan,97,
+1362,461790,Louis Mafouta,"['Jul', '2', '1994']",181.0,Central African Republic,Attack Centre Forward,,Quevilly Rouen,56,13,nan,nan,144,SAS ASSIST & GOAL
+1363,815359,Lenny Joseph,"['Oct', '12', '2000']",183.0,France,Attack Centre Forward,right,FC Metz,15,1,nan,nan,62,
+1364,290559,Anthony Mandréa,"['Dec', '25', '1996']",186.0,Algeria,Goalkeeper,right,SM Caen,-,1,122,28,100,YOU FIRST
+1365,188930,Danijel Petkovic,"['May', '25', '1993', 'Happy', 'Birthday']",196.0,Montenegro,Goalkeeper,right,Kisvárda,-,-,193,68,199,Milan Calasan
+1366,342877,Enzo Ebosse,"['Mar', '11', '1999']",185.0,Cameroon,Defender Centre Back,left,Udinese Calcio,1,4,nan,nan,152,KTM
+1367,57467,Romain Thomas,"['Jun', '12', '1988']",193.0,France,Defender Centre Back,right,SM Caen,33,6,nan,nan,431,Sport Profile
+1368,83132,Vincent Manceau,"['Jul', '10', '1989']",176.0,France,Defender Centre Back,right,Guingamp,5,10,nan,nan,413,Kemari
+1369,57216,Ismaël Traoré,"['Aug', '18', '1986']",184.0,Cote d'Ivoire,Defender Centre Back,right,FC Metz,19,11,nan,nan,537,AMS CONSULTING
+1370,709727,Kévin Boma,"['Nov', '20', '2002']",193.0,Togo,Defender Centre Back,right,Rodez AF,4,3,nan,nan,55,BS Group - BS Law
+1371,768439,Daylam Meddah,"['Oct', '6', '2002']",187.0,France,Defender Centre Back,right,FC Sochaux,1,-,nan,nan,24,
+1372,296356,Souleyman Doumbia,"['Sep', '24', '1996']",183.0,Cote d'Ivoire,Defender Left Back,left,Angers SCO,-,9,nan,nan,178,Qigsports
+1373,62351,Abdoulaye Bamba,"['Apr', '25', '1990']",182.0,Cote d'Ivoire,Defender Right Back,right,Angers SCO,3,18,nan,nan,383,AMS CONSULTING
+1374,807687,Ali Kalla,"['Apr', '23', '1998']",172.0,France,Defender Right Back,left,Angers SCO,-,-,nan,nan,43,
+1375,395234,Batista Mendy,"['Jan', '12', '2000']",191.0,France,midfield Defensive Midfield,right,Angers SCO,1,1,nan,nan,114,Kelyxane Sport ...
+1376,650104,Zinédine Ould Khaled,"['Jan', '14', '2000']",195.0,France,midfield Defensive Midfield,right,Angers SCO,1,2,nan,nan,41,
+1377,245537,Nabil Bentaleb,"['Nov', '24', '1994']",187.0,Algeria,midfield Central Midfield,left,Angers SCO,31,23,nan,nan,267,
+1378,593482,Azzedine Ounahi,"['Apr', '19', '2000']",182.0,Morocco,midfield Central Midfield,right,Marseille,9,3,nan,nan,87,Klan Soccer FZCO
+1379,344575,Antonin Bobichon,"['Sep', '14', '1995']",178.0,France,midfield Central Midfield,right,Stade Lavallois,19,10,nan,nan,196,LIAN Sports Group
+1380,18934,Thomas Mangani,"['Apr', '29', '1987']",183.0,France,midfield Central Midfield,left,AC Ajaccio,34,43,nan,nan,483,Kemari
+1381,807688,Yassin Belkhdim,"['Feb', '14', '2002']",175.0,Morocco,midfield Central Midfield,right,Angers SCO,4,3,nan,nan,55,4 THE PLAYER ...
+1382,829873,Mattéo Corduan,"['Jun', '19', '2002']",185.0,France,midfield Central Midfield,right,Brest B,1,-,nan,nan,35,Carmenta
+1383,206912,Jimmy Cabot,"['Apr', '18', '1994']",164.0,France,midfield Right Midfield,right,Lens,26,32,nan,nan,273,AMS CONSULTING
+1384,424072,Mathias Pereira Lage,"['Nov', '30', '1996']",180.0,France,midfield Right Midfield,right,Stade Brestois,34,18,nan,nan,225,NexSt11
+1385,214532,Pierrick Capelle,"['Apr', '15', '1987']",181.0,France,midfield Left Midfield,left,Angers SCO,37,20,nan,nan,371,FS Management
+1386,250013,Angelo Fulgini,"['Aug', '20', '1996']",182.0,France,midfield Attacking Midfield,right,Lens,35,22,nan,nan,283,MY ELEVEN CONSULTING
+1387,680447,Waniss Taïbi,"['Mar', '7', '2002']",184.0,France,midfield Attacking Midfield,both,Angers SCO,-,6,nan,nan,55,BS Group - BS Law
+1388,232271,Sofiane Boufal,"['Sep', '17', '1993']",175.0,Morocco,Attack Left Winger,right,Al-Rayyan SC,43,35,nan,nan,293,Sport Cover
+1389,261963,Marin Jakolis,"['Dec', '26', '1996']",182.0,Croatia,Attack Left Winger,right,AEK Larnaca,25,22,nan,nan,212,
+1390,425400,Farid El Melali,"['Jul', '13', '1997']",168.0,Algeria,Attack Left Winger,both,Angers SCO,11,8,nan,nan,116,
+1391,460660,Jason Mbock,"['Nov', '1', '1999']",179.0,France,Attack Left Winger,right,Angers SCO,16,6,nan,nan,108,
+1392,707225,Noah Fatar,"['Feb', '15', '2002']",170.0,France,Attack Right Winger,left,SO Cholet,15,6,nan,nan,58,MGM TALENTS
+1393,670847,Momo Cho,"['Jan', '19', '2004']",182.0,France,Attack Centre Forward,left,Real Sociedad,5,4,nan,nan,78,Sparka Management
+1394,170953,Stéphane Bahoken,"['May', '28', '1992']",185.0,Cameroon,Attack Centre Forward,right,Kasimpasa,60,17,nan,nan,297,ISF SPORTS
+1395,392810,Casimir Ninga,"['May', '17', '1993']",186.0,Chad,Attack Centre Forward,right,Anorthosis,33,12,nan,nan,194,Classico
+1396,193130,Rachid Alioui,"['Jun', '18', '1992']",186.0,Morocco,Attack Centre Forward,right,FC Versailles,60,21,nan,nan,272,
+1397,807689,Frank Magri,"['Sep', '4', '1999']",178.0,France,Attack Centre Forward,right,SC Bastia,30,6,nan,nan,76,MY ELEVEN CONSULTING
+1398,855160,Guédé Nadje,"['Nov', '12', '2003']",,France,Attack Centre Forward,right,Angers SCO B,9,1,nan,nan,33,
+1399,193256,Gauthier Gallon,"['Apr', '23', '1993']",186.0,France,Goalkeeper,right,Troyes,-,-,294,59,214,Kemari
+1400,125350,Sébastien Rénot,"['Nov', '11', '1989']",185.0,France,Goalkeeper,,FC Versailles,2,-,130,31,129,Kemari
+1401,33925,Jessy Moulin,"['Jan', '13', '1986']",184.0,France,Goalkeeper,right,Troyes,-,2,127,38,119,
+1402,510262,Ryan Bouallak,"['Aug', '19', '1999']",190.0,France,Goalkeeper,right,Without Club,-,-,40,6,32,
+1403,282199,Erik Palmer-Brown,"['Apr', '24', '1997']",186.0,United States,Defender Centre Back,right,Troyes,4,1,nan,nan,195,PROSPORT Management
+1404,340460,Philippe Sandler,"['Feb', '10', '1997']",190.0,Netherlands,Defender Centre Back,right,NEC Nijmegen,6,3,nan,nan,125,Team Raiola
+1405,351843,Yoann Salmier,"['Nov', '21', '1992']",188.0,French Guiana,Defender Centre Back,right,Troyes,5,1,nan,nan,245,W.Egal O.S.F.M.
+1406,213052,Jimmy Giraudon,"['Jan', '16', '1992']",184.0,France,Defender Centre Back,right,Saint-Étienne,2,3,nan,nan,235,MYG Invest
+1407,991649,Eric N'Jo,"['Jun', '1', '2004']",187.0,France,Defender Centre Back,,Troyes,-,1,nan,nan,21,
+1408,275361,Karim Azamoum,"['Jan', '17', '1990']",178.0,France,Defender Centre Back,right,Without Club,20,7,nan,nan,216,TTMA
+1409,51118,Adil Rami,"['Dec', '27', '1985']",191.0,France,Defender Centre Back,right,Troyes,31,17,nan,nan,523,JCRsport
+1410,917120,Tanguy Zoukrou,"['May', '7', '2003']",189.0,France,Defender Centre Back,right,Troyes,-,-,nan,nan,27,TTMA
+1411,341394,Gabriel Mutombo,"['Jan', '19', '1996']",191.0,France,Defender Centre Back,right,FC Botosani,7,-,nan,nan,154,Global Compensation
+1412,815346,Nathan Gassama,"['Jan', '5', '2001']",191.0,France,Defender Centre Back,left,Slavia Sofia,3,1,nan,nan,36,Relatives
+1413,917101,Rudy Kohon,"['May', '23', '2004']",,France,Defender Centre Back,,Troyes U19,2,-,nan,nan,29,
+1414,976271,Lassine Soumaoro,"['Dec', '19', '2002']",,Mali,Defender Centre Back,,Troyes B,1,-,nan,nan,21,
+1415,337798,Abdu Conté,"['Mar', '24', '1998']",183.0,Portugal,Defender Left Back,,Troyes,1,15,nan,nan,147,IDOLOÁSIS
+1416,554251,Yasser Larouci,"['Jan', '1', '2001']",176.0,France,Defender Left Back,left,Troyes,3,7,nan,nan,108,Tim Pole
+1417,274484,Youssouf Koné,"['Jul', '5', '1995']",174.0,Mali,Defender Left Back,left,AC Ajaccio,2,3,nan,nan,135,ISF SPORTS
+1418,982864,Mathis Hamdi,"['Oct', '18', '2003']",180.0,France,Defender Left Back,,Troyes U19,-,-,nan,nan,35,
+1419,536507,Giulian Biancone,"['Mar', '31', '2000']",187.0,France,Defender Right Back,right,Nottm Forest,5,7,nan,nan,107,Léandre Chouya
+1420,649452,Issa Kaboré,"['May', '12', '2001']",180.0,Burkina Faso,Defender Right Back,right,Marseille,1,9,nan,nan,94,Forza Sports Group
+1421,283127,Oualid El Hajjam,"['Feb', '19', '1991']",181.0,Morocco,Defender Right Back,right,AC Le Havre,6,7,nan,nan,237,
+1422,485959,Benrandy Abdallah,"['Jul', '1', '1999']",184.0,France,Defender Right Back,right,RC Epernay,-,-,nan,nan,19,
+1423,972473,Anas Namri,"['Nov', '12', '2001']",168.0,Morocco,Defender Right Back,right,Saint-Étienne B,1,3,nan,nan,41,AGJ SP MGMT
+1424,972479,Bachir Diop,"['Aug', '21', '2002']",,France,midfield Defensive Midfield,,Schifflange 95,2,-,nan,nan,22,JCRsport
+1425,277635,Rominigue Kouamé,"['Dec', '17', '1996']",177.0,Mali,midfield Central Midfield,left,Troyes,4,8,nan,nan,181,ROGON
+1426,212804,Florian Tardieu,"['Apr', '22', '1992']",184.0,France,midfield Central Midfield,right,Troyes,28,21,nan,nan,354,AGJ SP MGMT
+1427,859396,Metinho,"['Apr', '23', '2003']",178.0,Brazil,midfield Central Midfield,right,Lommel SK,6,4,nan,nan,36,Promanager
+1428,126683,Tristan Dingomé,"['Feb', '17', '1991']",174.0,Cameroon,midfield Central Midfield,left,Al-Fateh,16,33,nan,nan,295,ND SPORTS MANAGEMENT
+1429,486814,Filip Krastev,"['Oct', '15', '2001']",178.0,Bulgaria,midfield Central Midfield,right,Levski Sofia,16,12,nan,nan,108,Global Management ...
+1430,917104,Derek Mazou-Sacko,"['Oct', '6', '2004']",,France,midfield Central Midfield,right,Troyes B,2,2,nan,nan,34,Relatives
+1431,485962,Calvin Bombo,"['Jan', '18', '1999']",187.0,Central African Republic,midfield Central Midfield,,CA Vitry,3,-,nan,nan,25,LKI
+1432,508941,Dylan Chambost,"['Aug', '19', '1997']",177.0,France,midfield Attacking Midfield,left,Saint-Étienne,10,17,nan,nan,129,Kemari
+1433,429790,Luka Ilic,"['Jul', '2', '1999']",182.0,Serbia,midfield Attacking Midfield,left,FK TSC,20,20,nan,nan,128,RnB Sport
+1434,804708,Brandon Dominguès,"['Jun', '6', '2000']",172.0,France,midfield Attacking Midfield,right,Honvéd,11,5,nan,nan,61,Sport Factory 360
+1435,282734,Gerson Rodrigues,"['Jun', '20', '1995']",188.0,Luxembourg,Attack Left Winger,right,Al-Wehda FC,60,17,nan,nan,245,PROhorizons Group
+1436,537182,Levi Lumeka,"['Sep', '5', '1998']",170.0,England,Attack Left Winger,right,Troyes,11,6,nan,nan,64,P&P Sport ...
+1437,234802,Renaud Ripart,"['Mar', '14', '1993']",181.0,France,Attack Right Winger,right,Troyes,62,23,nan,nan,328,E CASTAGNINO
+1438,225452,Patrick Roberts,"['Feb', '5', '1997']",167.0,England,Attack Right Winger,left,Sunderland,33,46,nan,nan,249,CAA Base Ltd
+1439,721746,Nassim Chadli,"['Jul', '28', '2001']",181.0,Morocco,Attack Right Winger,left,AC Le Havre,7,4,nan,nan,71,NSSM
+1440,857154,Alexis Lefebvre,"['May', '21', '2003']",166.0,France,Attack Right Winger,right,AS Nancy,14,2,nan,nan,41,One Team Football
+1441,339943,Iké Ugbo,"['Sep', '21', '1998']",184.0,Canada,Attack Centre Forward,right,Troyes,73,10,nan,nan,228,FA Sport
+1442,325223,Mama Baldé,"['Nov', '6', '1995']",176.0,Guinea-Bissau,Attack Centre Forward,right,Troyes,42,21,nan,nan,231,Relatives
+1443,129990,Hyun-jun Suk,"['Jun', '29', '1991']",190.0,"Korea, South",Attack Centre Forward,right,Jeonju Citizen,63,22,nan,nan,295,USM GROUP
+1444,68718,Yoann Touzghar,"['Nov', '28', '1986']",180.0,Tunisia,Attack Centre Forward,right,AC Ajaccio,101,25,nan,nan,363,AGJ SP MGMT
+1445,730126,Mykola Kukharevych,"['Jul', '1', '2001']",191.0,Ukraine,Attack Centre Forward,right,Hibernian FC,9,1,nan,nan,54,ProStar
+1446,857148,Mamadou Camara,"['Feb', '7', '2001']",184.0,France,Attack Centre Forward,right,Quevilly Rouen,13,4,nan,nan,65,Wilders Sport
+1447,189744,Paul Nardi,"['May', '18', '1994']",188.0,France,Goalkeeper,right,KAA Gent,-,1,355,68,267,Global Football ...
+1448,57134,Matthieu Dreyer,"['Mar', '20', '1989']",188.0,France,Goalkeeper,right,Saint-Étienne,-,-,234,46,158,LB SPORT & ...
+1449,629587,Teddy Bartouche,"['Jun', '5', '1997']",178.0,France,Goalkeeper,right,FC Lorient,-,-,45,21,58,BS Group - BS Law
+1450,593315,Thomas Callens,"['Sep', '6', '1998']",182.0,France,Goalkeeper,left,FC Annecy,-,-,26,10,27,AKADA
+1451,386057,Julien Laporte,"['Nov', '4', '1993']",185.0,France,Defender Centre Back,right,FC Lorient,10,3,nan,nan,223,Relatives
+1452,460245,Moritz Jenz,"['Apr', '30', '1999']",190.0,Germany,Defender Centre Back,right,FC Schalke 04,7,2,nan,nan,154,Sports360 GmbH
+1453,412829,Léo Pétrot,"['Apr', '15', '1997']",188.0,France,Defender Centre Back,left,Saint-Étienne,4,3,nan,nan,106,
+1454,80036,Thomas Fontaine,"['May', '8', '1991']",185.0,Madagascar,Defender Centre Back,left,Genclerbirligi,1,3,nan,nan,259,SBB Global
+1455,799936,Loris Mouyokolo,"['May', '22', '2001']",194.0,France,Defender Centre Back,right,Rodez AF,-,-,nan,nan,66,TTMA
+1456,23960,Jérémy Morel,"['Apr', '2', '1984']",172.0,Madagascar,Defender Centre Back,left,Montagnarde,18,25,nan,nan,608,Léandre Chouya
+1457,807165,Bamo Meïté,"['Dec', '3', '2001']",183.0,Cote d'Ivoire,Defender Centre Back,,FC Lorient,1,-,nan,nan,53,
+1458,120651,Vincent Le Goff,"['Oct', '15', '1989']",177.0,France,Defender Left Back,left,FC Lorient,13,24,nan,nan,418,Léandre Chouya
+1459,648886,Samuel Loric,"['Jul', '5', '2000']",183.0,France,Defender Left Back,left,Quevilly Rouen,3,5,nan,nan,78,MVP Sports ...
+1460,442552,Houboulang Mendes,"['May', '4', '1998']",184.0,Guinea-Bissau,Defender Right Back,right,UD Almería,-,7,nan,nan,129,FS Management
+1461,391720,Igor Silva,"['Aug', '21', '1996']",173.0,Brazil,Defender Right Back,right,FC Lorient,14,6,nan,nan,196,Think Ball & Sports ...
+1462,314912,Jérôme Hergault,"['Apr', '5', '1986']",185.0,France,Defender Right Back,right,FC Lavaur,5,12,nan,nan,376,
+1463,562175,Ronny Labonne,"['Sep', '14', '1997']",,France,Defender Right Back,right,Nîmes Olympique,2,13,nan,nan,97,MVP Sports ...
+1464,238626,Laurent Abergel,"['Feb', '1', '1993']",170.0,France,midfield Defensive Midfield,right,FC Lorient,9,14,nan,nan,289,N.Agency
+1465,333383,Bonke Innocent,"['Jan', '20', '1996']",178.0,Nigeria,midfield Defensive Midfield,right,FC Lorient,1,4,nan,nan,193,
+1466,127182,Thomas Monconduit,"['Feb', '10', '1991']",184.0,France,midfield Defensive Midfield,right,Saint-Étienne,13,18,nan,nan,285,Bemavõ corp
+1467,56794,Fabien Lemoine,"['Mar', '16', '1987']",175.0,France,midfield Defensive Midfield,right,FC Versailles,12,33,nan,nan,518,USM GROUP
+1468,804548,Baptiste Mouazan,"['Sep', '27', '2001']",174.0,France,midfield Central Midfield,right,AS Nancy,7,4,nan,nan,80,Supernova Management
+1469,804547,Redwan Bourlès,"['Jan', '2', '2003']",186.0,France,midfield Left Midfield,left,Rennes B,9,4,nan,nan,54,AKADA
+1470,633992,Enzo Le Fée,"['Feb', '3', '2000']",170.0,France,midfield Attacking Midfield,right,FC Lorient,9,19,nan,nan,161,Cracksman
+1471,412671,Quentin Boisgard,"['Mar', '17', '1997']",174.0,France,midfield Attacking Midfield,right,Pau FC,12,18,nan,nan,138,score agencies
+1472,766412,Théo Le Bris,"['Oct', '1', '2002']",170.0,France,midfield Attacking Midfield,right,FC Lorient,4,5,nan,nan,68,J.Gomes Avocat
+1473,579930,Armand Laurienté,"['Dec', '4', '1998']",171.0,France,Attack Left Winger,right,Sassuolo,30,21,nan,nan,155,SRM
+1474,428954,Stéphane Diarra,"['Dec', '9', '1998']",173.0,Cote d'Ivoire,Attack Right Winger,left,FC Lorient,11,8,nan,nan,155,ROGON
+1475,823231,Dango Ouattara,"['Feb', '11', '2002']",177.0,Burkina Faso,Attack Right Winger,left,Bournemouth,9,11,nan,nan,67,PSM
+1476,538874,Terem Moffi,"['May', '25', '1999', 'Happy', 'Birthday']",188.0,Nigeria,Attack Centre Forward,left,OGC Nice,69,9,nan,nan,158,Elite Project Group ...
+1477,490223,Ibrahima Koné,"['Jun', '16', '1999']",190.0,Mali,Attack Centre Forward,left,FC Lorient,37,10,nan,nan,153,FA Sport
+1478,167342,Adrian Grbic,"['Aug', '4', '1996']",188.0,Austria,Attack Centre Forward,both,Valenciennes FC,119,19,nan,nan,301,
+1479,203504,Pierre-Yves Hamel,"['Feb', '3', '1994']",189.0,France,Attack Centre Forward,right,Paris FC,56,12,nan,nan,192,N.Agency
+1480,704270,Sambou Soumano,"['Jan', '13', '2001']",182.0,Senegal,Attack Centre Forward,,Rodez AF,24,1,nan,nan,70,SPOCS Global Sports
+1481,810411,Pablo Pagis,"['Dec', '29', '2002']",180.0,France,Attack Centre Forward,both,Nîmes Olympique,18,5,nan,nan,62,ASI MANAGEMENT
+1482,594993,Ouparine Djoco,"['Apr', '22', '1998']",188.0,France,Goalkeeper,left,Clermont Foot,-,1,44,7,32,MVP Sports ...
+1483,379869,Arthur Desmas,"['Apr', '7', '1994']",196.0,France,Goalkeeper,right,AC Le Havre,-,1,138,63,150,Global Football ...
+1484,618463,Lucas Margueron,"['Feb', '12', '2001']",194.0,France,Goalkeeper,right,Clermont Foot,-,-,78,4,44,USFA Management
+1485,198709,Cédric Hountondji,"['Jan', '19', '1994']",194.0,Benin,Defender Centre Back,right,Angers SCO,6,3,nan,nan,250,One Team Management
+1486,798404,Alidu Seidu,"['Jun', '4', '2000']",173.0,Ghana,Defender Centre Back,right,Clermont Foot,-,1,nan,nan,75,BLACKSKILL
+1487,391192,Jean-Claude Billong,"['Dec', '28', '1993']",192.0,Cameroon,Defender Centre Back,right,CFR Cluj,3,1,nan,nan,136,
+1488,91473,Florent Ogier,"['Mar', '21', '1989']",183.0,France,Defender Centre Back,right,Clermont Foot,15,5,nan,nan,384,Kemari
+1489,170487,Josué Albert,"['Jan', '21', '1992']",187.0,French Guiana,Defender Centre Back,left,Without Club,1,-,nan,nan,89,Global Football ...
+1490,912601,Baptiste Boit,"['Nov', '17', '2001']",187.0,France,Defender Centre Back,,Clermont B,2,-,nan,nan,42,ARSM
+1491,203761,Vital Nsimba,"['Jul', '8', '1993']",169.0,DR Congo,Defender Left Back,left,G. Bordeaux,3,37,nan,nan,287,2SAgency
+1492,422715,Arial Mendy,"['Nov', '7', '1994']",180.0,Senegal,Defender Left Back,left,Grenoble,3,4,nan,nan,100,no agent
+1493,590629,Julien Boyer,"['Apr', '10', '1998']",180.0,France,Defender Left Back,left,US Boulogne,-,2,nan,nan,35,
+1494,327863,Akim Zedadka,"['May', '30', '1995']",173.0,Algeria,Defender Right Back,right,AJ Auxerre,8,6,nan,nan,226,LF360
+1495,170459,Jérôme Phojo,"['Apr', '15', '1993']",178.0,France,Defender Right Back,right,Retired,1,3,nan,nan,156,no agent
+1496,942083,Karim Mohamed,"['Apr', '2', '2001']",178.0,Comoros,Defender Right Back,right,Moulins-Yzeure,2,1,nan,nan,24,
+1497,969154,Oliver Kamdem,"['Oct', '15', '2002']",,France,Defender Right Back,right,Clermont Foot,-,1,nan,nan,27,
+1498,688707,Salis Abdul Samed,"['Mar', '26', '2000']",179.0,Ghana,midfield Defensive Midfield,right,Lens,2,1,nan,nan,79,BLACKSKILL
+1499,594997,Yohann Magnin,"['Jun', '21', '1997']",183.0,France,midfield Defensive Midfield,right,Clermont Foot,4,4,nan,nan,135,
+1500,282721,Uri Busquets,"['Jan', '20', '1999']",185.0,Spain,midfield Defensive Midfield,right,Arouca,2,2,nan,nan,147,SEG
+1501,72121,Johan Gastien,"['Jan', '25', '1988']",179.0,France,midfield Defensive Midfield,right,Clermont Foot,25,22,nan,nan,451,Louis DENOLLE
+1502,159907,Jonathan Iglesias,"['Dec', '17', '1988']",170.0,Uruguay,midfield Central Midfield,right,Paris FC,24,12,nan,nan,370,
+1503,668503,Naël Jaby,"['Apr', '20', '2001']",175.0,France,midfield Central Midfield,right,Moulins-Yzeure,2,9,nan,nan,58,Hexagon
+1504,837093,Fred Gnalega,"['Oct', '8', '2001']",175.0,Cote d'Ivoire,midfield Central Midfield,right,Chamalières,-,-,nan,nan,32,BLACKSKILL
+1505,1020544,Yuliwes Bellache,"['Dec', '15', '2002']",173.0,Algeria,midfield Central Midfield,,A. Lustenau,5,5,nan,nan,30,TTMA
+1506,646733,Jim Allevinah,"['Feb', '27', '1995']",172.0,Gabon,midfield Right Midfield,right,Clermont Foot,18,16,nan,nan,154,
+1507,270411,Saîf-Eddine Khaoui,"['Apr', '27', '1995']",180.0,Tunisia,midfield Attacking Midfield,left,Clermont Foot,27,16,nan,nan,214,AMS CONSULTING
+1508,306191,Jason Berthomier,"['Jan', '6', '1990']",177.0,France,midfield Attacking Midfield,left,Valenciennes FC,47,35,nan,nan,299,CSM Sport & ...
+1509,806496,Yadaly Diaby,"['Aug', '9', '2000']",,Guinea,midfield Attacking Midfield,,A. Lustenau,8,4,nan,nan,56,Relatives
+1510,860056,Aïman Maurer,"['Sep', '25', '2004']",173.0,Morocco,midfield Attacking Midfield,right,Clermont Foot,9,2,nan,nan,33,
+1511,149579,Elbasan Rashani,"['May', '9', '1993']",181.0,Kosovo,Attack Left Winger,left,Clermont Foot,54,51,nan,nan,328,no agent
+1512,221151,Jodel Dossou,"['Mar', '17', '1992']",171.0,Benin,Attack Right Winger,right,FC Sochaux,53,27,nan,nan,274,Relatives
+1513,503518,Aboubakar Sidibé,"['May', '3', '1996']",180.0,France,Attack Right Winger,right,Without Club,2,-,nan,nan,22,
+1514,594991,Mohamed Bayo,"['Jun', '4', '1998']",188.0,Guinea,Attack Centre Forward,right,LOSC Lille,58,19,nan,nan,144,Soccermax
+1515,321647,Grejohn Kyei,"['Aug', '12', '1995']",187.0,France,Attack Centre Forward,right,Clermont Foot,59,24,nan,nan,244,TTMA
+1516,272644,Jordan Tell,"['Jun', '10', '1997']",185.0,Guadeloupe,Attack Centre Forward,right,Grenoble,30,6,nan,nan,154,Kemari
+1517,657635,Bryan Teixeira,"['Sep', '1', '2000']",174.0,Cape Verde,Attack Centre Forward,right,Sturm Graz,9,21,nan,nan,77,MVP Sports ...
+1518,969153,Mathis Clairicia,"['Aug', '30', '2002']",,France,Attack Centre Forward,right,Thonon Évian,10,6,nan,nan,50,
