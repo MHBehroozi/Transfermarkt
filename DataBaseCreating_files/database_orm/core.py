@@ -86,9 +86,8 @@ class Coach(Base):
     __tablename__ = "coach"
 
     # declare columns
-    # id: Mapped[int] = Column(Integer, primary_key=True, autoincrement=True)
     club_id = Column(Integer, ForeignKey('club.id'))
-    coach_name = Column(String(60)
+    coach_name = Column(String(60))
     appointed_date = Column(Date)
 
     # club_id = relationship('Club', foreign_keys='club.id')
