@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS Transfermarkt;
+CREATE DATABASE IF NOT EXISTS quera_project1;
 USE Transfermarkt;
 
 DROP TABLE IF EXISTS `Club_Statistics`;
