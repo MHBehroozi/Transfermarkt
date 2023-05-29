@@ -44,7 +44,7 @@ class Club_stats(Base):
     overall_balance = Column(Float(precision='30,2'))
     arrivals = Column(String(30))
     departures = Column(String(30))
-    league_name = Column(String(30))
+    league_name = Column(String(50))
     player_avg_age = Column(String(30))
     total_market_value= Column(Float(precision='30,2'))
 
@@ -70,7 +70,7 @@ class Award_winners(Base):
 
     # declare columns
     award_id = Column(String(60))
-    club_id = Column(Integer, ForeignKey('club.id'))
+    club_id = Column(Integer)
     win_year = Column(Integer)
 
     __table_args__ = (
@@ -85,7 +85,7 @@ class Coach(Base):
     __tablename__ = "coach"
 
     # declare columns
-    club_id = Column(Integer, ForeignKey('club.id'))
+    club_id = Column(Integer)
     coach_name = Column(String(60))
     appointed_date = Column(Date)
 
@@ -102,7 +102,7 @@ class Stadium(Base):
     __tablename__ = "stadium"
 
     # declare columns
-    club_id = Column(Integer, ForeignKey('club.id'))
+    club_id = Column(Integer)
     stadium_name = Column(String(60))
 
     __table_args__ = (
@@ -120,10 +120,10 @@ class Player(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String(60))
     birth_date = Column(Date)
-    height = Column(Date)
-    main_position = Column(String(20))
+    height = Column(Float(5))
+    main_position = Column(String(50))
     foot = Column(Enum('left', 'right', 'both', name='player_foot'))
-    agent = Column(String(20))
+    agent = Column(String(50))
 
     def __repr__(self) -> str:
         return f"Player( id= {self.id}\n name= {self.name}\n birth_date= {self.birth_date} \n height= {self.height} \n main_position= {self.main_position} \n foot= {self.foot} \n agent= {self.agent} )"
