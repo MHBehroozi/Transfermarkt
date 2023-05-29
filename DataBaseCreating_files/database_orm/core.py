@@ -139,7 +139,7 @@ class Player_statistics(Base):
     club_id = Column(Integer)
     season = Column(Integer)
     competition = Column(String(60))
-    club_full_name = Column(String(20))
+    club_full_name = Column(String(50))
     squad = Column(Integer)
     appearances = Column(Integer)
     PPG = Column(Float(2))
@@ -160,7 +160,7 @@ class Player_statistics(Base):
     market_value = Column(Float(precision='30,2'))
 
     __table_args__ = (
-            PrimaryKeyConstraint(club_id, player_id, season, competition),
+            PrimaryKeyConstraint(club_full_name, player_id, season, competition),
         )
 
     def __repr__(self) -> str:
@@ -175,7 +175,7 @@ class Player_transfers(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     player_id = Column(Integer)
     MV = Column(Integer)
-    transfer_Fee = Column(Float(precision='10,2'))
+    transfer_Fee = Column(Float(precision='15,2'))
     left = Column(Integer())
     joined = Column(String(20))
     date = Column(Date)
