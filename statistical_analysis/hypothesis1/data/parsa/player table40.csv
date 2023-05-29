@@ -1,0 +1,633 @@
+Unnamed: 0,player_id,name,birth_date,height,current_international,main_position,foot,current_club,goals_scored,goals_assisted,goals_conceded,clean_sheets,total_appearence,agent
+0,17259,Manuel Neuer,"['Mar', '27', '1986']",193.0,Germany,Goalkeeper,right,27.0,-,keeper has no goal assisted,625,342,747,PRO Profil GmbH
+1,40680,Sven Ulreich,"['Aug', '3', '1988']",192.0,Germany,Goalkeeper,right,27.0,-,keeper has no goal assisted,568,125,434,BMS Sportconsulting ...
+2,336307,Christian Früchtl,"['Jan', '28', '2000']",193.0,Germany,Goalkeeper,left,14.0,-,keeper has no goal assisted,220,47,159,Talcon Management
+3,317444,Ron-Thorben Hoffmann,"['Apr', '4', '1999']",192.0,Germany,Goalkeeper,right,23.0,-,keeper has no goal assisted,215,48,163,ROOF
+4,281963,Lucas Hernández,"['Feb', '14', '1996']",184.0,France,Defender Centre Back,left,27.0,5,13,player has no goal conceded,player has no clean sheets,253,Manuel García ...
+5,344695,Dayot Upamecano,"['Oct', '27', '1998']",186.0,France,Defender Centre Back,right,27.0,7,13,player has no goal conceded,player has no clean sheets,277,Unique Sports Group
+6,166601,Niklas Süle,"['Sep', '3', '1995']",195.0,Germany,Defender Centre Back,right,16.0,21,14,player has no goal conceded,player has no clean sheets,379,Sports360 GmbH
+7,538996,Tanguy Nianzou,"['Jun', '7', '2002']",191.0,France,Defender Centre Back,right,368.0,7,4,player has no goal conceded,player has no clean sheets,78,VV Consulting
+8,578539,Chris Richards,"['Mar', '28', '2000']",188.0,United States,Defender Centre Back,right,873.0,7,5,player has no goal conceded,player has no clean sheets,122,
+9,580193,Bright Arrey-Mbi,"['Mar', '26', '2003']",187.0,Germany,Defender Centre Back,left,42.0,5,1,player has no goal conceded,player has no clean sheets,96,Kick&Run
+10,522248,Jamie Lawrence,"['Nov', '10', '2002']",201.0,Germany,Defender Centre Back,right,187.0,9,7,player has no goal conceded,player has no clean sheets,123,Talents & Pros by ...
+11,424204,Alphonso Davies,"['Nov', '2', '2000']",185.0,Canada,Defender Left Back,left,27.0,22,41,player has no goal conceded,player has no clean sheets,253,ATG Sports
+12,424881,Omar Richards,"['Feb', '15', '1998']",174.0,England,Defender Left Back,left,703.0,4,4,player has no goal conceded,player has no clean sheets,144,CAA Stellar
+13,353366,Benjamin Pavard,"['Mar', '28', '1996']",186.0,France,Defender Right Back,right,27.0,15,14,player has no goal conceded,player has no clean sheets,276,Carmenta
+14,483046,Josip Stanisic,"['Apr', '2', '2000']",187.0,Croatia,Defender Right Back,both,27.0,4,5,player has no goal conceded,player has no clean sheets,138,BALLWERK Sports GmbH
+15,190685,Bouna Sarr,"['Jan', '31', '1992']",177.0,Senegal,Defender Right Back,right,27.0,17,23,player has no goal conceded,player has no clean sheets,317,Wasserman
+16,161056,Joshua Kimmich,"['Feb', '8', '1995']",177.0,Germany,midfield Defensive Midfield,right,27.0,52,110,player has no goal conceded,player has no clean sheets,461,
+17,336869,Marc Roca,"['Nov', '26', '1996']",184.0,Spain,midfield Defensive Midfield,left,399.0,10,8,player has no goal conceded,player has no clean sheets,232,Promoesport
+18,31741,Nicolas Feldhahn,"['Aug', '14', '1986']",189.0,Germany,midfield Defensive Midfield,right,,44,38,player has no goal conceded,player has no clean sheets,508,
+19,153084,Leon Goretzka,"['Feb', '6', '1995']",189.0,Germany,midfield Central Midfield,right,27.0,85,64,player has no goal conceded,player has no clean sheets,408,Neubauer 13 GmbH
+20,106987,Marcel Sabitzer,"['Mar', '17', '1994']",177.0,Austria,midfield Central Midfield,right,985.0,126,82,player has no goal conceded,player has no clean sheets,508,ROGON
+21,190393,Corentin Tolisso,"['Aug', '3', '1994']",181.0,France,midfield Central Midfield,right,1041.0,51,34,player has no goal conceded,player has no clean sheets,310,E CASTAGNINO
+22,344600,Michaël Cuisance,"['Aug', '16', '1999']",181.0,France,midfield Central Midfield,left,1038.0,9,9,player has no goal conceded,player has no clean sheets,127,ROGON
+23,513963,Taylor Booth,"['May', '31', '2001']",174.0,United States,midfield Central Midfield,right,200.0,9,17,player has no goal conceded,player has no clean sheets,99,CCC
+24,57574,Timo Kern,"['Jan', '16', '1990']",179.0,Germany,midfield Central Midfield,right,28.0,108,45,player has no goal conceded,player has no clean sheets,368,Haspel ...
+25,580195,Jamal Musiala,"['Feb', '26', '2003']",184.0,Germany,midfield Attacking Midfield,right,27.0,39,26,player has no goal conceded,player has no clean sheets,158,11WINS
+26,604327,Gabriel Vidovic,"['Dec', '1', '2003']",180.0,Croatia,midfield Attacking Midfield,right,499.0,29,13,player has no goal conceded,player has no clean sheets,83,Sports360 GmbH
+27,900909,Paul Wanner,"['Dec', '23', '2005']",185.0,Germany,midfield Attacking Midfield,left,27.0,6,11,player has no goal conceded,player has no clean sheets,43,Agent is known - Player under 18
+28,467437,Malik Tillman,"['May', '28', '2002']",187.0,United States,midfield Attacking Midfield,right,124.0,54,30,player has no goal conceded,player has no clean sheets,153,ROOF
+29,744728,Arijon Ibrahimovic,"['Dec', '11', '2005']",180.0,Germany,midfield Attacking Midfield,right,27.0,31,27,player has no goal conceded,player has no clean sheets,62,Agent is known - Player under 18
+30,243714,Kingsley Coman,"['Jun', '13', '1996']",181.0,France,Attack Left Winger,right,27.0,60,65,player has no goal conceded,player has no clean sheets,299,CAA Base Ltd
+31,604323,Nemanja Motika,"['Mar', '20', '2003']",179.0,Serbia,Attack Left Winger,both,541.0,33,14,player has no goal conceded,player has no clean sheets,96,LIAN Sports Group
+32,159471,Serge Gnabry,"['Jul', '14', '1995']",176.0,Germany,Attack Right Winger,right,27.0,122,73,player has no goal conceded,player has no clean sheets,349,ROOF
+33,192565,Leroy Sané,"['Jan', '11', '1996']",183.0,Germany,Attack Right Winger,left,27.0,110,111,player has no goal conceded,player has no clean sheets,409,LIAN Sports Group
+34,58358,Thomas Müller,"['Sep', '13', '1989']",185.0,Germany,Attack Second Striker,right,27.0,277,261,player has no goal conceded,player has no clean sheets,754,Kögl & Partner GmbH
+35,38253,Robert Lewandowski,"['Aug', '21', '1988']",185.0,Poland,Attack Centre Forward,right,131.0,542,142,player has no goal conceded,player has no clean sheets,720,Gol International
+36,45660,Eric Maxim Choupo-Moting,"['Mar', '23', '1989']",191.0,Cameroon,Attack Centre Forward,right,27.0,109,46,player has no goal conceded,player has no clean sheets,473,ROGON
+37,636898,Lucas Copado,"['Jan', '10', '2004']",181.0,Germany,Attack Centre Forward,right,28.0,30,23,player has no goal conceded,player has no clean sheets,80,Relatives
+38,257814,Gregor Kobel,"['Dec', '6', '1997']",194.0,Switzerland,Goalkeeper,right,16.0,-,keeper has no goal assisted,322,77,244,SBE Management AG
+39,388815,Luca Unbehaun,"['Feb', '27', '2001']",185.0,Germany,Goalkeeper,right,16.0,-,keeper has no goal assisted,178,39,149,SWSports
+40,59027,Roman Bürki,"['Nov', '14', '1990']",187.0,Switzerland,Goalkeeper,right,82686.0,-,keeper has no goal assisted,592,155,475,IFM
+41,59238,Marwin Hitz,"['Sep', '18', '1987']",194.0,Switzerland,Goalkeeper,right,26.0,1,keeper has no goal assisted,466,120,379,ROOF
+42,388067,Stefan Drljaca,"['Apr', '20', '1999']",192.0,Germany,Goalkeeper,right,129.0,-,keeper has no goal assisted,217,46,156,SD Sportmanagement
+43,684116,Silas Ostrzinski,"['Nov', '19', '2003']",198.0,Germany,Goalkeeper,right,17.0,-,keeper has no goal assisted,48,23,53,Kick&Run
+44,284730,Manuel Akanji,"['Jul', '19', '1995']",188.0,Switzerland,Defender Centre Back,right,281.0,12,8,player has no goal conceded,player has no clean sheets,357,IFM
+45,344598,Dan-Axel Zagadou,"['Jun', '3', '1999']",196.0,France,Defender Centre Back,left,79.0,4,1,player has no goal conceded,player has no clean sheets,126,
+46,39728,Mats Hummels,"['Dec', '16', '1988']",191.0,Germany,Defender Centre Back,right,16.0,55,31,player has no goal conceded,player has no clean sheets,661,HMH Sportmanagement
+47,282144,Marin Pongracic,"['Sep', '11', '1997']",193.0,Croatia,Defender Centre Back,right,1005.0,3,1,player has no goal conceded,player has no clean sheets,173,Match2gether
+48,659513,Soumaïla Coulibaly,"['Oct', '14', '2003']",191.0,France,Defender Centre Back,left,16.0,-,-,player has no goal conceded,player has no clean sheets,35,Epic Sports
+49,482573,Antonios Papadopoulos,"['Sep', '10', '1999']",186.0,Germany,Defender Centre Back,right,17.0,5,8,player has no goal conceded,player has no clean sheets,133,CAA Stellar
+50,170986,Raphaël Guerreiro,"['Dec', '22', '1993']",170.0,Portugal,Defender Left Back,left,16.0,51,60,player has no goal conceded,player has no clean sheets,376,Wasserman
+51,85867,Nico Schulz,"['Apr', '1', '1993']",180.0,Germany,Defender Left Back,left,16.0,18,39,player has no goal conceded,player has no clean sheets,337,ROGON
+52,798043,Tom Rothe,"['Oct', '29', '2004']",193.0,Germany,Defender Left Back,left,16.0,5,21,player has no goal conceded,player has no clean sheets,63,Wasserman
+53,35208,Marcel Schmelzer,"['Jan', '22', '1988']",180.0,Germany,Defender Left Back,left,,9,36,player has no goal conceded,player has no clean sheets,450,Relatives
+54,100986,Thomas Meunier,"['Sep', '12', '1991']",191.0,Belgium,Defender Right Back,right,16.0,36,52,player has no goal conceded,player has no clean sheets,408,Thomas Meunier
+55,193900,Marius Wolf,"['May', '27', '1995', 'Happy', 'Birthday']",187.0,Germany,Defender Right Back,right,16.0,37,44,player has no goal conceded,player has no clean sheets,323,ROGON
+56,388513,Mateu Morey Bauzà,"['Mar', '2', '2000']",173.0,Spain,Defender Right Back,right,16.0,-,7,player has no goal conceded,player has no clean sheets,46,
+57,274461,Felix Passlack,"['May', '29', '1998']",170.0,Germany,Defender Right Back,right,16.0,51,50,player has no goal conceded,player has no clean sheets,190,Teamgeist ...
+58,521919,Lion Semic,"['Sep', '13', '2003']",169.0,Germany,Defender Right Back,both,17.0,4,16,player has no goal conceded,player has no clean sheets,74,CAA Stellar
+59,119296,Emre Can,"['Jan', '12', '1994']",186.0,Germany,midfield Defensive Midfield,right,16.0,42,28,player has no goal conceded,player has no clean sheets,453,ISM Int. Soccer ...
+60,35047,Axel Witsel,"['Jan', '12', '1989']",186.0,Belgium,midfield Defensive Midfield,right,13.0,91,49,player has no goal conceded,player has no clean sheets,659,Nomi Sports
+61,718232,Abdoulaye Kamara,"['Nov', '6', '2004']",183.0,France,midfield Defensive Midfield,right,17.0,4,5,player has no goal conceded,player has no clean sheets,64,
+62,392710,Lennard Maloney,"['Oct', '8', '1999']",187.0,United States,midfield Defensive Midfield,right,2036.0,2,3,player has no goal conceded,player has no clean sheets,151,AKA Global GmbH
+63,581678,Jude Bellingham,"['Jun', '29', '2003']",186.0,England,midfield Central Midfield,right,16.0,28,27,player has no goal conceded,player has no clean sheets,177,
+64,191422,Mahmoud Dahoud,"['Jan', '1', '1996']",178.0,Germany,midfield Central Midfield,right,16.0,23,48,player has no goal conceded,player has no clean sheets,296,Lorimanagement
+65,91849,Thomas Delaney,"['Sep', '3', '1991']",182.0,Denmark,midfield Central Midfield,left,533.0,37,36,player has no goal conceded,player has no clean sheets,437,Elite Sports ...
+66,384745,Tobias Raschl,"['Feb', '21', '2000']",177.0,Germany,midfield Central Midfield,right,65.0,32,31,player has no goal conceded,player has no clean sheets,182,KL Sportsbase
+67,395928,Marco Pasalic,"['Sep', '14', '2000']",177.0,Croatia,midfield Right Midfield,left,17.0,28,19,player has no goal conceded,player has no clean sheets,138,
+68,504215,Giovanni Reyna,"['Nov', '13', '2002']",185.0,United States,midfield Attacking Midfield,right,16.0,25,25,player has no goal conceded,player has no clean sheets,123,Wasserman
+69,187492,Julian Brandt,"['May', '2', '1996']",185.0,Germany,midfield Attacking Midfield,right,16.0,108,111,player has no goal conceded,player has no clean sheets,452,Relatives
+70,35207,Marco Reus,"['May', '31', '1989']",180.0,Germany,midfield Attacking Midfield,right,16.0,230,153,player has no goal conceded,player has no clean sheets,586,Dirk Hebel
+71,627226,Reinier,"['Jan', '19', '2002']",185.0,Brazil,midfield Attacking Midfield,right,12321.0,10,4,player has no goal conceded,player has no clean sheets,73,Bertolucci Sports
+72,412935,Immanuel Pherai,"['Apr', '25', '2001']",175.0,Netherlands,midfield Attacking Midfield,right,23.0,40,61,player has no goal conceded,player has no clean sheets,182,JB Sports2Business ...
+73,655912,Göktan Gürpüz,"['Jan', '22', '2003']",176.0,Turkey,midfield Attacking Midfield,right,17.0,9,26,player has no goal conceded,player has no clean sheets,81,SBE Management AG
+74,102226,Thorgan Hazard,"['Mar', '29', '1993']",175.0,Belgium,Attack Left Winger,right,383.0,87,96,player has no goal conceded,player has no clean sheets,424,Relatives
+75,670882,Jamie Bynoe-Gittens,"['Aug', '8', '2004']",177.0,England,Attack Left Winger,right,16.0,15,6,player has no goal conceded,player has no clean sheets,46,Elite Project Group ...
+76,326029,Donyell Malen,"['Jan', '19', '1999']",178.0,Netherlands,Attack Right Winger,right,16.0,107,50,player has no goal conceded,player has no clean sheets,272,Rafaela Pimenta
+77,429874,Ansgar Knauff,"['Jan', '10', '2002']",180.0,Germany,Attack Right Winger,right,24.0,27,30,player has no goal conceded,player has no clean sheets,155,H.S.P. ...
+78,596153,Justin Njinmah,"['Nov', '15', '2000']",185.0,Germany,Attack Right Winger,both,17.0,36,15,player has no goal conceded,player has no clean sheets,82,Tenet Football
+79,418560,Erling Haaland,"['Jul', '21', '2000']",195.0,Norway,Attack Centre Forward,left,281.0,187,45,player has no goal conceded,player has no clean sheets,234,Rafaela Pimenta
+80,467720,Youssoufa Moukoko,"['Nov', '20', '2004']",179.0,Germany,Attack Centre Forward,left,16.0,154,35,player has no goal conceded,player has no clean sheets,162,Wasserman
+81,296879,Steffen Tigges,"['Jul', '31', '1998']",194.0,Germany,Attack Centre Forward,left,3.0,64,36,player has no goal conceded,player has no clean sheets,249,GOOD ADVICE Sports ...
+82,57071,Péter Gulácsi,"['May', '6', '1990']",190.0,Hungary,Goalkeeper,right,23826.0,-,keeper has no goal assisted,535,152,463,HCM Sports ...
+83,388516,Josep Martínez,"['May', '27', '1998', 'Happy', 'Birthday']",191.0,Spain,Goalkeeper,right,252.0,-,keeper has no goal assisted,115,52,123,INVSPORT (Sergio ...
+84,21726,Philipp Tschauner,"['Nov', '3', '1985']",196.0,Germany,Goalkeeper,right,,1,keeper has no goal assisted,463,105,362,
+85,692463,Fabian Eutinger,"['Oct', '12', '2003']",187.0,Germany,Goalkeeper,both,4948.0,-,keeper has no goal assisted,86,14,53,Munich Football ...
+86,475959,Josko Gvardiol,"['Jan', '23', '2002']",185.0,Croatia,Defender Centre Back,left,23826.0,9,7,player has no goal conceded,player has no clean sheets,155,Marjan Sisic
+87,666234,Mohamed Simakan,"['May', '3', '2000']",187.0,France,Defender Centre Back,right,23826.0,5,10,player has no goal conceded,player has no clean sheets,122,BS Group - BS Law
+88,93740,Willi Orbán,"['Nov', '3', '1992']",186.0,Hungary,Defender Centre Back,right,23826.0,55,16,player has no goal conceded,player has no clean sheets,476,ROGON
+89,574199,David Lelle,"['Mar', '9', '2003']",189.0,Germany,Defender Centre Back,left,1171.0,2,2,player has no goal conceded,player has no clean sheets,55,PESM
+90,277179,Angeliño,"['Jan', '4', '1997']",171.0,Spain,Defender Left Back,left,533.0,23,76,player has no goal conceded,player has no clean sheets,329,VIDA 11
+91,70243,Marcel Halstenberg,"['Sep', '27', '1991']",188.0,Germany,Defender Left Back,left,23826.0,37,35,player has no goal conceded,player has no clean sheets,459,TrueSports GmbH
+92,348026,Nordi Mukiele,"['Nov', '1', '1997']",187.0,France,Defender Right Back,right,583.0,12,17,player has no goal conceded,player has no clean sheets,269,Sport Cover
+93,215599,Lukas Klostermann,"['Jun', '3', '1996']",189.0,Germany,Defender Right Back,right,23826.0,20,15,player has no goal conceded,player has no clean sheets,322,EMG Mundial
+94,202591,Benjamin Henrichs,"['Feb', '23', '1997']",185.0,Germany,Defender Right Back,right,23826.0,28,38,player has no goal conceded,player has no clean sheets,326,CN Sports
+95,508637,Solomon Bonnah,"['Aug', '19', '2003']",165.0,Netherlands,Defender Right Back,right,28760.0,4,10,player has no goal conceded,player has no clean sheets,92,Skylar
+96,332705,Tyler Adams,"['Feb', '14', '1999']",175.0,United States,midfield Defensive Midfield,right,399.0,8,14,player has no goal conceded,player has no clean sheets,237,YMU Group
+97,223967,Konrad Laimer,"['May', '27', '1997', 'Happy', 'Birthday']",180.0,Austria,midfield Central Midfield,right,23826.0,23,29,player has no goal conceded,player has no clean sheets,303,ROOF
+98,402008,Amadou Haidara,"['Jan', '31', '1998']",175.0,Mali,midfield Central Midfield,right,23826.0,29,31,player has no goal conceded,player has no clean sheets,268,ROOF
+99,617074,Ilaix Moriba,"['Jan', '19', '2003']",185.0,Guinea,midfield Central Midfield,right,1049.0,5,9,player has no goal conceded,player has no clean sheets,100,ROGON
+100,53418,Kevin Kampl,"['Oct', '9', '1990']",178.0,Slovenia,midfield Central Midfield,right,23826.0,59,106,player has no goal conceded,player has no clean sheets,537,MR Sport Management ...
+101,717345,Sidney Raebiger,"['Apr', '17', '2005']",176.0,Germany,midfield Central Midfield,right,65.0,11,9,player has no goal conceded,player has no clean sheets,39,CN Sports
+102,692462,Ben Klefisch,"['Jun', '2', '2003']",186.0,Germany,midfield Central Midfield,,6604.0,7,6,player has no goal conceded,player has no clean sheets,67,Sports360 GmbH
+103,293385,Dani Olmo,"['May', '7', '1998']",179.0,Spain,midfield Attacking Midfield,right,23826.0,59,57,player has no goal conceded,player has no clean sheets,283,Niagara Sports ...
+104,451276,Dominik Szoboszlai,"['Oct', '25', '2000']",187.0,Hungary,midfield Attacking Midfield,right,23826.0,63,73,player has no goal conceded,player has no clean sheets,225,EM Sports Consulting
+105,111078,Emil Forsberg,"['Oct', '23', '1991']",177.0,Sweden,midfield Attacking Midfield,right,23826.0,118,91,player has no goal conceded,player has no clean sheets,496,HCM Sports ...
+106,605306,Mehmet Ibrahimi,"['Feb', '9', '2003']",182.0,Germany,Attack Left Winger,right,23.0,22,9,player has no goal conceded,player has no clean sheets,68,Sport Business ...
+107,668276,Hugo Novoa,"['Jan', '24', '2003']",182.0,Spain,Attack Right Winger,right,26.0,16,13,player has no goal conceded,player has no clean sheets,73,ROOF
+108,597004,Joscha Wosz,"['Jul', '20', '2002']",174.0,Germany,Attack Right Winger,right,93.0,27,10,player has no goal conceded,player has no clean sheets,97,EMG Mundial
+109,405685,Fabrice Hartmann,"['Mar', '2', '2001']",178.0,Germany,Attack Right Winger,left,8780.0,61,13,player has no goal conceded,player has no clean sheets,132,CAA Stellar
+110,344381,Christopher Nkunku,"['Nov', '14', '1997']",178.0,France,Attack Second Striker,right,23826.0,94,65,player has no goal conceded,player has no clean sheets,293,Gol International
+111,198008,André Silva,"['Nov', '6', '1995']",185.0,Portugal,Attack Centre Forward,right,23826.0,144,53,player has no goal conceded,player has no clean sheets,396,Gestifute
+112,292246,Hee-chan Hwang,"['Jan', '26', '1996']",177.0,"Korea, South",Attack Centre Forward,right,543.0,72,47,player has no goal conceded,player has no clean sheets,269,Relatives
+113,157635,Yussuf Poulsen,"['Jun', '15', '1994']",192.0,Denmark,Attack Centre Forward,right,23826.0,107,73,player has no goal conceded,player has no clean sheets,412,PEP Consulting
+114,473169,Brian Brobbey,"['Feb', '1', '2002']",180.0,Netherlands,Attack Centre Forward,right,610.0,112,27,player has no goal conceded,player has no clean sheets,195,Team Raiola
+115,48015,Lukas Hradecky,"['Nov', '24', '1989']",192.0,Finland,Goalkeeper,right,15.0,-,keeper has no goal assisted,592,162,497,
+116,112541,Andrey Lunev,"['Nov', '13', '1991']",190.0,Russia,Goalkeeper,right,15.0,-,keeper has no goal assisted,191,71,200,
+117,309397,Lennart Grill,"['Jan', '25', '1999']",192.0,Germany,Goalkeeper,right,89.0,-,keeper has no goal assisted,261,45,172,Soccertalk GmbH
+118,85543,Niklas Lomb,"['Jul', '28', '1993']",186.0,Germany,Goalkeeper,right,15.0,-,keeper has no goal assisted,208,66,181,Dirk Hebel
+119,696022,Maximilian Neutgens,"['Mar', '3', '2004']",188.0,Germany,Goalkeeper,,4713.0,-,keeper has no goal assisted,40,9,32,Epic Sports
+120,564545,Edmond Tapsoba,"['Feb', '2', '1999']",194.0,Burkina Faso,Defender Centre Back,right,15.0,20,4,player has no goal conceded,player has no clean sheets,199,D20 Sports
+121,196357,Jonathan Tah,"['Feb', '11', '1996']",195.0,Germany,Defender Centre Back,right,15.0,12,14,player has no goal conceded,player has no clean sheets,414,Gol International
+122,644771,Odilon Kossounou,"['Jan', '4', '2001']",191.0,Cote d'Ivoire,Defender Centre Back,right,15.0,1,5,player has no goal conceded,player has no clean sheets,133,Global Soccer ...
+123,659813,Piero Hincapié,"['Jan', '9', '2002']",183.0,Ecuador,Defender Centre Back,left,15.0,3,2,player has no goal conceded,player has no clean sheets,106,Fútbol División
+124,324351,Panagiotis Retsos,"['Aug', '9', '1998']",186.0,Greece,Defender Centre Back,right,683.0,4,3,player has no goal conceded,player has no clean sheets,145,LIAN Sports Group
+125,644613,Sadik Fofana,"['May', '16', '2003']",192.0,Germany,Defender Centre Back,right,4.0,5,2,player has no goal conceded,player has no clean sheets,65,Soccer and more
+126,361065,Mitchel Bakker,"['Jun', '20', '2000']",185.0,Netherlands,Defender Left Back,left,15.0,9,19,player has no goal conceded,player has no clean sheets,216,Team Raiola
+127,228433,Wendell,"['Jul', '20', '1993']",176.0,Brazil,Defender Left Back,left,720.0,11,25,player has no goal conceded,player has no clean sheets,352,
+128,215099,Daley Sinkgraven,"['Jul', '4', '1995']",179.0,Netherlands,Defender Left Back,left,15.0,9,27,player has no goal conceded,player has no clean sheets,248,V4S
+129,484547,Jeremie Frimpong,"['Dec', '10', '2000']",171.0,Netherlands,Defender Right Back,right,15.0,17,35,player has no goal conceded,player has no clean sheets,214,Prolific Sports ...
+130,315131,Timothy Fosu-Mensah,"['Jan', '2', '1998']",185.0,Netherlands,Defender Right Back,right,15.0,1,3,player has no goal conceded,player has no clean sheets,119,CAA Base Ltd
+131,119211,Mitchell Weiser,"['Apr', '21', '1994']",177.0,Germany,Defender Right Back,right,86.0,44,77,player has no goal conceded,player has no clean sheets,356,ROOF
+132,159088,Robert Andrich,"['Sep', '22', '1994']",187.0,Germany,midfield Defensive Midfield,right,15.0,55,26,player has no goal conceded,player has no clean sheets,361,teamplayer ...
+133,34787,Julian Baumgartlinger,"['Jan', '2', '1988']",184.0,Austria,midfield Defensive Midfield,right,167.0,21,29,player has no goal conceded,player has no clean sheets,477,PRO Profil GmbH
+134,125858,Kerem Demirbay,"['Jul', '3', '1993']",183.0,Germany,midfield Central Midfield,left,15.0,66,77,player has no goal conceded,player has no clean sheets,394,EMG Mundial
+135,401578,Exequiel Palacios,"['Oct', '5', '1998']",177.0,Argentina,midfield Central Midfield,right,15.0,18,16,player has no goal conceded,player has no clean sheets,173,Eleven Talent Group
+136,232454,Nadiem Amiri,"['Oct', '27', '1996']",180.0,Germany,midfield Central Midfield,right,15.0,36,40,player has no goal conceded,player has no clean sheets,336,
+137,89701,Charles Aránguiz,"['Apr', '17', '1989']",171.0,Chile,midfield Central Midfield,right,6600.0,54,72,player has no goal conceded,player has no clean sheets,449,Fernando Felicevich
+138,788445,Zidan Sertdemir,"['Feb', '4', '2005']",182.0,Denmark,midfield Central Midfield,left,2778.0,13,5,player has no goal conceded,player has no clean sheets,54,Relatives
+139,598577,Florian Wirtz,"['May', '3', '2003']",176.0,Germany,midfield Attacking Midfield,right,15.0,37,36,player has no goal conceded,player has no clean sheets,131,Relatives
+140,532776,Amine Adli,"['May', '10', '2000']",174.0,France,Attack Left Winger,left,15.0,19,18,player has no goal conceded,player has no clean sheets,116,Concept Sport Agency
+141,428791,Paulinho,"['Jul', '15', '2000']",177.0,Brazil,Attack Left Winger,right,330.0,27,13,player has no goal conceded,player has no clean sheets,129,Carlos Leite
+142,395516,Moussa Diaby,"['Jul', '7', '1999']",170.0,France,Attack Right Winger,left,15.0,60,61,player has no goal conceded,player has no clean sheets,239,AIS SPORT SERVICE
+143,61087,Karim Bellarabi,"['Apr', '8', '1990']",184.0,Germany,Attack Right Winger,right,15.0,87,89,player has no goal conceded,player has no clean sheets,414,KL Sportsbase
+144,242086,Patrik Schick,"['Jan', '24', '1996']",191.0,Czech Republic,Attack Centre Forward,left,15.0,81,19,player has no goal conceded,player has no clean sheets,251,Int. Sport ...
+145,180337,Sardar Azmoun,"['Jan', '1', '1995']",186.0,Iran,Attack Centre Forward,both,15.0,115,48,player has no goal conceded,player has no clean sheets,316,Epic Sports
+146,193782,Lucas Alario,"['Oct', '8', '1992']",185.0,Argentina,Attack Centre Forward,right,24.0,107,30,player has no goal conceded,player has no clean sheets,318,Pedro Aldave Ortuzar
+147,173491,Joel Pohjanpalo,"['Sep', '13', '1994']",186.0,Finland,Attack Centre Forward,right,607.0,100,20,player has no goal conceded,player has no clean sheets,285,Dirk Hebel
+148,580276,Emrehan Gedikli,"['Apr', '25', '2003']",187.0,Turkey,Attack Centre Forward,right,541.0,57,1,player has no goal conceded,player has no clean sheets,63,Sports eXcellence ...
+149,741292,Iker Bravo,"['Jan', '13', '2005']",184.0,Spain,Attack Centre Forward,right,6767.0,15,6,player has no goal conceded,player has no clean sheets,44,Phsport
+150,108880,Koen Casteels,"['Jun', '25', '1992']",197.0,Belgium,Goalkeeper,left,82.0,-,keeper has no goal assisted,454,104,330,Relatives
+151,51977,Pavao Pervan,"['Nov', '13', '1987']",194.0,Austria,Goalkeeper,both,82.0,-,keeper has no goal assisted,364,112,320,ROOF
+152,574203,Philipp Schulze,"['Jan', '29', '2003']",190.0,Germany,Goalkeeper,,82.0,1,keeper has no goal assisted,80,17,66,PRO Profil GmbH
+153,192268,Niklas Klinger,"['Oct', '13', '1995']",187.0,Germany,Goalkeeper,right,82.0,-,keeper has no goal assisted,102,33,97,TPWE GmbH
+154,434224,Maxence Lacroix,"['Apr', '6', '2000']",190.0,France,Defender Centre Back,right,82.0,3,1,player has no goal conceded,player has no clean sheets,126,Hexagon
+155,338629,Sebastiaan Bornauw,"['Mar', '22', '1999']",191.0,Belgium,Defender Centre Back,right,82.0,10,5,player has no goal conceded,player has no clean sheets,150,CAA Stellar
+156,124732,John Anthony Brooks,"['Jan', '28', '1993']",194.0,United States,Defender Centre Back,left,533.0,28,11,player has no goal conceded,player has no clean sheets,387,ROGON
+157,557459,Micky van de Ven,"['Apr', '19', '2001']",193.0,Netherlands,Defender Centre Back,left,82.0,5,8,player has no goal conceded,player has no clean sheets,129,Team Raiola
+158,631904,Anselmo García MacNulty,"['Feb', '19', '2003']",,Ireland,Defender Centre Back,left,132.0,5,2,player has no goal conceded,player has no clean sheets,73,LEADERBROCK
+159,221611,Paulo Otávio,"['Nov', '23', '1994']",173.0,Brazil,Defender Left Back,left,82.0,3,20,player has no goal conceded,player has no clean sheets,148,TFM Agency
+160,127076,Jérôme Roussillon,"['Jan', '6', '1993']",172.0,Guadeloupe,Defender Left Back,left,89.0,12,23,player has no goal conceded,player has no clean sheets,302,Only Pro Sport
+161,327251,Ridle Baku,"['Apr', '8', '1998']",176.0,Germany,Defender Right Back,right,82.0,41,29,player has no goal conceded,player has no clean sheets,265,AKA Global GmbH
+162,183321,Kevin Mbabu,"['Apr', '19', '1995']",184.0,Switzerland,Defender Right Back,right,61.0,10,26,player has no goal conceded,player has no clean sheets,266,Soccer Mondial AG
+163,341710,William,"['Apr', '3', '1995']",176.0,Brazil,Defender Right Back,right,609.0,6,15,player has no goal conceded,player has no clean sheets,174,
+164,472234,Jannis Lang,"['Jul', '12', '2002']",188.0,Germany,Defender Right Back,right,584.0,7,5,player has no goal conceded,player has no clean sheets,78,TrueSports GmbH
+165,93704,Josuha Guilavogui,"['Sep', '19', '1990']",188.0,France,midfield Defensive Midfield,right,82.0,22,14,player has no goal conceded,player has no clean sheets,407,Relatives
+166,223979,Xaver Schlager,"['Sep', '28', '1997']",174.0,Austria,midfield Central Midfield,left,23826.0,29,38,player has no goal conceded,player has no clean sheets,292,ROOF
+167,117674,Maximilian Arnold,"['May', '27', '1994', 'Happy', 'Birthday']",184.0,Germany,midfield Central Midfield,left,82.0,79,70,player has no goal conceded,player has no clean sheets,490,Karl M. Herzog ...
+168,503881,Aster Vranckx,"['Oct', '4', '2002']",183.0,Belgium,midfield Central Midfield,right,5.0,7,5,player has no goal conceded,player has no clean sheets,86,DW Sports Management
+169,119277,Yannick Gerhardt,"['Mar', '13', '1994']",184.0,Germany,midfield Central Midfield,left,82.0,42,47,player has no goal conceded,player has no clean sheets,369,Stephan Engels
+170,690222,Gil-Linnart Walther,"['Mar', '14', '2003']",,Germany,midfield Central Midfield,,515.0,1,1,player has no goal conceded,player has no clean sheets,18,
+171,711517,Kevin Paredes,"['May', '7', '2003']",170.0,United States,midfield Left Midfield,left,82.0,4,8,player has no goal conceded,player has no clean sheets,71,
+172,406640,Felix Nmecha,"['Oct', '10', '2000']",190.0,Germany,midfield Attacking Midfield,right,82.0,30,22,player has no goal conceded,player has no clean sheets,139,
+173,293169,Josip Brekalo,"['Jun', '23', '1998']",175.0,Croatia,Attack Left Winger,right,430.0,36,24,player has no goal conceded,player has no clean sheets,228,Niagara Sports ...
+174,303259,Dodi Lukébakio,"['Sep', '24', '1997']",187.0,Belgium,Attack Right Winger,left,44.0,49,34,player has no goal conceded,player has no clean sheets,212,BoostMySport
+175,194638,Renato Steffen,"['Nov', '3', '1991']",170.0,Switzerland,Attack Right Winger,left,2790.0,83,67,player has no goal conceded,player has no clean sheets,451,Kögl & Partner GmbH
+176,196095,Luca Waldschmidt,"['May', '19', '1996']",181.0,Germany,Attack Second Striker,left,82.0,90,25,player has no goal conceded,player has no clean sheets,270,Sports360 GmbH
+177,143891,Maximilian Philipp,"['Mar', '1', '1994']",183.0,Germany,Attack Second Striker,right,86.0,98,58,player has no goal conceded,player has no clean sheets,348,Unique Sports Group
+178,36182,Max Kruse,"['Mar', '19', '1988']",180.0,Germany,Attack Second Striker,left,515.0,162,133,player has no goal conceded,player has no clean sheets,553,EMG Mundial
+179,66058,Admir Mehmedi,"['Mar', '16', '1991']",183.0,Switzerland,Attack Second Striker,right,589.0,86,49,player has no goal conceded,player has no clean sheets,429,IFM
+180,314288,Lukas Nmecha,"['Dec', '14', '1998']",185.0,Germany,Attack Centre Forward,right,82.0,88,21,player has no goal conceded,player has no clean sheets,227,
+181,228645,Wout Weghorst,"['Aug', '7', '1992']",197.0,Netherlands,Attack Centre Forward,right,985.0,177,56,player has no goal conceded,player has no clean sheets,456,One II Agency
+182,391004,Jonas Wind,"['Feb', '7', '1999']",190.0,Denmark,Attack Centre Forward,right,82.0,85,28,player has no goal conceded,player has no clean sheets,200,People In Sport
+183,445939,Omar Marmoush,"['Feb', '7', '1999']",183.0,Egypt,Attack Centre Forward,right,82.0,33,12,player has no goal conceded,player has no clean sheets,147,CAA Stellar
+184,535551,Bartosz Bialek,"['Nov', '11', '2001']",191.0,Poland,Attack Centre Forward,right,499.0,29,8,player has no goal conceded,player has no clean sheets,129,BMG-SPORT
+185,79501,Daniel Ginczek,"['Apr', '13', '1991']",191.0,Germany,Attack Centre Forward,right,38.0,150,49,player has no goal conceded,player has no clean sheets,376,Unique Sports Group
+186,42205,Yann Sommer,"['Dec', '17', '1988']",183.0,Switzerland,Goalkeeper,right,27.0,-,keeper has no goal assisted,811,210,659,Relatives
+187,31653,Tobias Sippel,"['Mar', '22', '1988']",183.0,Germany,Goalkeeper,right,18.0,-,keeper has no goal assisted,366,105,319,Dr. Michael Becker
+188,455922,Jan Olschowsky,"['Nov', '18', '2001']",184.0,Germany,Goalkeeper,right,18.0,-,keeper has no goal assisted,181,37,134,B360 Sports
+189,597804,Jonas Kersken,"['Sep', '1', '2000']",190.0,Germany,Goalkeeper,right,247.0,-,keeper has no goal assisted,90,16,63,Lowens Sport
+190,124502,Matthias Ginter,"['Jan', '19', '1994']",191.0,Germany,Defender Centre Back,right,60.0,52,23,player has no goal conceded,player has no clean sheets,473,Unique Sports Group
+191,192635,Nico Elvedi,"['Sep', '30', '1996']",189.0,Switzerland,Defender Centre Back,right,18.0,19,13,player has no goal conceded,player has no clean sheets,351,IFM
+192,196231,Marvin Friedrich,"['Dec', '13', '1995']",193.0,Germany,Defender Centre Back,right,18.0,22,16,player has no goal conceded,player has no clean sheets,337,ROOF
+193,403898,Jordan Beyer,"['May', '19', '2000']",187.0,Germany,Defender Centre Back,right,1132.0,8,3,player has no goal conceded,player has no clean sheets,149,Robert Schneider
+194,47587,Tony Jantschke,"['Apr', '7', '1990']",177.0,Germany,Defender Centre Back,right,18.0,13,7,player has no goal conceded,player has no clean sheets,353,Fröhlich ...
+195,392133,Tom Gaal,"['Mar', '3', '2001']",193.0,Germany,Defender Centre Back,both,1006.0,5,6,player has no goal conceded,player has no clean sheets,96,B O K S
+196,340480,Mamadou Doucouré,"['May', '21', '1998']",183.0,France,Defender Centre Back,left,18.0,1,1,player has no goal conceded,player has no clean sheets,41,Sport Avenir ...
+197,284732,Ramy Bensebaini,"['Apr', '16', '1995']",187.0,Algeria,Defender Left Back,left,18.0,33,10,player has no goal conceded,player has no clean sheets,267,HCM Sports ...
+198,524285,Luca Netz,"['May', '15', '2003']",184.0,Germany,Defender Left Back,left,18.0,11,22,player has no goal conceded,player has no clean sheets,119,11WINS
+199,504153,Joe Scally,"['Dec', '31', '2002']",184.0,United States,Defender Right Back,right,18.0,3,2,player has no goal conceded,player has no clean sheets,85,Wasserman
+200,85791,Stefan Lainer,"['Aug', '27', '1992']",175.0,Austria,Defender Right Back,right,18.0,26,58,player has no goal conceded,player has no clean sheets,481,ROOF
+201,334526,Denis Zakaria,"['Nov', '20', '1996']",190.0,Switzerland,midfield Defensive Midfield,right,631.0,32,13,player has no goal conceded,player has no clean sheets,303,HCM Sports ...
+202,82097,Christoph Kramer,"['Feb', '19', '1991']",191.0,Germany,midfield Defensive Midfield,right,18.0,19,22,player has no goal conceded,player has no clean sheets,483,ROOF
+203,278332,Florian Neuhaus,"['Mar', '16', '1997']",185.0,Germany,midfield Central Midfield,right,18.0,43,35,player has no goal conceded,player has no clean sheets,276,CN Sports
+204,624690,Manu Koné,"['May', '17', '2001']",185.0,France,midfield Central Midfield,right,18.0,10,3,player has no goal conceded,player has no clean sheets,120,Classico
+205,243188,László Bénes,"['Sep', '9', '1997']",181.0,Slovakia,midfield Central Midfield,left,41.0,14,31,player has no goal conceded,player has no clean sheets,191,ROOF
+206,321096,Keanan Bennetts,"['Mar', '9', '1999']",181.0,England,midfield Left Midfield,left,105.0,17,23,player has no goal conceded,player has no clean sheets,153,DC International ...
+207,48298,Lars Stindl,"['Aug', '26', '1988']",181.0,Germany,midfield Attacking Midfield,right,18.0,142,104,player has no goal conceded,player has no clean sheets,579,Dirk Hebel
+208,520857,Conor Noß,"['Jan', '1', '2001']",181.0,Germany,midfield Attacking Midfield,both,18.0,18,6,player has no goal conceded,player has no clean sheets,130,B360 Sports
+209,368860,Torben Müsel,"['Jul', '25', '1999']",185.0,Germany,midfield Attacking Midfield,right,56.0,52,36,player has no goal conceded,player has no clean sheets,172,act SPORTS GROUP
+210,167329,Alassane Plea,"['Mar', '10', '1993']",181.0,France,Attack Left Winger,right,18.0,97,65,player has no goal conceded,player has no clean sheets,337,SMI SPORTS ...
+211,321070,Hannes Wolf,"['Apr', '16', '1999']",179.0,Austria,Attack Left Winger,left,18.0,51,40,player has no goal conceded,player has no clean sheets,238,HCM Sports ...
+212,472246,Mika Schroers,"['Feb', '4', '2002']",181.0,Germany,Attack Left Winger,both,1006.0,43,19,player has no goal conceded,player has no clean sheets,158,Lokurlu
+213,7161,Jonas Hofmann,"['Jul', '14', '1992']",176.0,Germany,Attack Right Winger,right,18.0,96,85,player has no goal conceded,player has no clean sheets,430,Dr. Marco Gutfleisch
+214,32711,Patrick Herrmann,"['Feb', '12', '1991']",179.0,Germany,Attack Right Winger,right,18.0,87,67,player has no goal conceded,player has no clean sheets,480,PRO Profil GmbH
+215,318528,Marcus Thuram,"['Aug', '6', '1997']",192.0,France,Attack Centre Forward,right,18.0,63,35,player has no goal conceded,player has no clean sheets,250,Sport Cover
+216,237662,Breel Embolo,"['Feb', '14', '1997']",187.0,Switzerland,Attack Centre Forward,right,162.0,89,55,player has no goal conceded,player has no clean sheets,328,ESHA
+217,45672,Kevin Trapp,"['Jul', '8', '1990']",189.0,Germany,Goalkeeper,right,24.0,-,keeper has no goal assisted,634,151,502,Sports360 GmbH
+218,448705,Diant Ramaj,"['Sep', '19', '2001']",189.0,Germany,Goalkeeper,both,24.0,1,keeper has no goal assisted,161,23,93,BMS Sportconsulting ...
+219,40034,Jens Grahl,"['Sep', '22', '1988']",192.0,Germany,Goalkeeper,right,24.0,-,keeper has no goal assisted,214,68,202,PESM
+220,586229,Jannik Horz,"['Apr', '14', '2003']",193.0,Germany,Goalkeeper,both,177.0,-,keeper has no goal assisted,48,7,27,JUNTOS
+221,629032,Matteo Bignetti,"['May', '6', '2004']",190.0,Austria,Goalkeeper,,177.0,-,keeper has no goal assisted,51,18,46,GROW
+222,371149,Evan Ndicka,"['Aug', '20', '1999']",192.0,France,Defender Centre Back,left,24.0,12,11,player has no goal conceded,player has no clean sheets,200,AMS CONSULTING
+223,546213,Tuta,"['Jul', '4', '1999']",185.0,Brazil,Defender Centre Back,right,24.0,7,1,player has no goal conceded,player has no clean sheets,119,Wolfs
+224,85789,Martin Hinteregger,"['Sep', '7', '1992']",184.0,Austria,Defender Centre Back,left,38430.0,45,16,player has no goal conceded,player has no clean sheets,489,World in Motion
+225,216181,Almamy Touré,"['Apr', '28', '1996']",183.0,Mali,Defender Centre Back,right,24.0,10,20,player has no goal conceded,player has no clean sheets,163,
+226,39259,Makoto Hasebe,"['Jan', '18', '1984']",180.0,Japan,Defender Centre Back,right,24.0,32,43,player has no goal conceded,player has no clean sheets,677,PRO Profil GmbH
+227,159844,Christopher Lenz,"['Sep', '22', '1994']",180.0,Germany,Defender Left Back,left,24.0,15,22,player has no goal conceded,player has no clean sheets,309,ROOF
+228,610798,Jan Schröder,"['Apr', '15', '2003']",182.0,Germany,Defender Left Back,left,24.0,-,8,player has no goal conceded,player has no clean sheets,54,
+229,85906,Danny da Costa,"['Jul', '13', '1993']",187.0,Germany,Defender Right Back,right,39.0,13,37,player has no goal conceded,player has no clean sheets,357,Sports360 GmbH
+230,49723,Timothy Chandler,"['Mar', '29', '1990']",186.0,United States,Defender Right Back,right,24.0,29,26,player has no goal conceded,player has no clean sheets,376,Sports eXcellence ...
+231,93922,Erik Durm,"['May', '12', '1992']",183.0,Germany,Defender Right Back,right,2.0,36,20,player has no goal conceded,player has no clean sheets,318,Haspel ...
+232,374954,Kristijan Jakic,"['May', '14', '1997']",181.0,Croatia,midfield Defensive Midfield,right,24.0,11,11,player has no goal conceded,player has no clean sheets,240,Niagara Sports ...
+233,40074,Stefan Ilsanker,"['May', '18', '1989']",189.0,Austria,midfield Defensive Midfield,right,252.0,14,24,player has no goal conceded,player has no clean sheets,516,More than Sport GmbH
+234,212723,Djibril Sow,"['Feb', '6', '1997']",184.0,Switzerland,midfield Central Midfield,right,24.0,22,33,player has no goal conceded,player has no clean sheets,319,Signature - ISCM AG
+235,44466,Sebastian Rode,"['Oct', '11', '1990']",179.0,Germany,midfield Central Midfield,right,24.0,22,31,player has no goal conceded,player has no clean sheets,378,PRO Profil GmbH
+236,315332,Aymen Barkok,"['May', '21', '1998']",189.0,Morocco,midfield Central Midfield,right,39.0,15,9,player has no goal conceded,player has no clean sheets,163,Sports eXcellence ...
+237,615036,Antonio Foti,"['Nov', '3', '2003']",180.0,Cyprus,midfield Central Midfield,right,42.0,19,7,player has no goal conceded,player has no clean sheets,41,YOU FIRST
+238,161011,Filip Kostic,"['Nov', '1', '1992']",184.0,Serbia,midfield Left Midfield,left,506.0,78,113,player has no goal conceded,player has no clean sheets,483,World Soccer Agency
+239,356141,Daichi Kamada,"['Aug', '5', '1996']",184.0,Japan,midfield Attacking Midfield,right,24.0,72,53,player has no goal conceded,player has no clean sheets,296,Roberto Tukada
+240,513245,Jesper Lindström,"['Feb', '29', '2000']",182.0,Denmark,midfield Attacking Midfield,right,24.0,55,35,player has no goal conceded,player has no clean sheets,199,NSG ApS
+241,265625,Ajdin Hrustic,"['Jul', '5', '1996']",180.0,Australia,midfield Attacking Midfield,left,276.0,22,11,player has no goal conceded,player has no clean sheets,199,LIAN Sports Group
+242,68033,Steven Zuber,"['Aug', '17', '1991']",182.0,Switzerland,Attack Left Winger,right,2441.0,80,49,player has no goal conceded,player has no clean sheets,447,Soccer Mondial AG
+243,96167,Amin Younes,"['Aug', '6', '1993']",168.0,Germany,Attack Left Winger,right,200.0,47,43,player has no goal conceded,player has no clean sheets,316,FUTURE11
+244,648909,Fabio Blanco,"['Feb', '18', '2004']",179.0,Spain,Attack Left Winger,right,2464.0,7,3,player has no goal conceded,player has no clean sheets,45,LEADERBROCK
+245,580277,Gianluca Schäfer,"['Feb', '27', '2003']",178.0,Germany,Attack Left Winger,,177.0,13,11,player has no goal conceded,player has no clean sheets,65,CAA Stellar
+246,422355,Jens Petter Hauge,"['Oct', '12', '1999']",184.0,Norway,Attack Right Winger,right,157.0,43,38,player has no goal conceded,player has no clean sheets,214,Aneke/PMG
+247,323831,Rafael Borré,"['Sep', '15', '1995']",174.0,Colombia,Attack Centre Forward,right,24.0,100,39,player has no goal conceded,player has no clean sheets,327,Wasserman
+248,386914,Sam Lammers,"['Apr', '30', '1997']",191.0,Netherlands,Attack Centre Forward,both,1038.0,81,33,player has no goal conceded,player has no clean sheets,253,ISM Int. Soccer ...
+249,181547,Gonçalo Paciência,"['Aug', '1', '1994']",184.0,Portugal,Attack Centre Forward,right,940.0,55,23,player has no goal conceded,player has no clean sheets,251,Proeleven S.A.
+250,416380,Ragnar Ache,"['Jul', '28', '1998']",183.0,Germany,Attack Centre Forward,right,65.0,52,21,player has no goal conceded,player has no clean sheets,170,Sports360 GmbH
+251,741295,Enrique Herrero,"['Jan', '28', '2005']",173.0,Spain,Attack Centre Forward,,28870.0,1,2,player has no goal conceded,player has no clean sheets,3,ROOF
+252,55089,Oliver Baumann,"['Jun', '2', '1990']",187.0,Germany,Goalkeeper,right,533.0,-,keeper has no goal assisted,820,135,549,CN Sports
+253,8246,Philipp Pentke,"['May', '1', '1985']",191.0,Germany,Goalkeeper,right,533.0,-,keeper has no goal assisted,543,127,441,Bigpoint
+254,432671,Luca Philipp,"['Nov', '28', '2000']",192.0,Germany,Goalkeeper,,533.0,-,keeper has no goal assisted,115,13,70,Relatives
+255,600942,Nahuel Noll,"['Mar', '17', '2003']",188.0,Germany,Goalkeeper,both,533.0,1,keeper has no goal assisted,106,25,77,VIDA 11
+256,160241,Kevin Akpoguma,"['Apr', '19', '1995']",192.0,Nigeria,Defender Centre Back,right,533.0,19,7,player has no goal conceded,player has no clean sheets,327,Unique Sports Group
+257,84435,Kevin Vogt,"['Sep', '23', '1991']",194.0,Germany,Defender Centre Back,right,533.0,17,17,player has no goal conceded,player has no clean sheets,462,ROOF
+258,51676,Ermin Bicakcic,"['Jan', '24', '1990']",185.0,Bosnia-Herzegovina,Defender Centre Back,right,533.0,18,8,player has no goal conceded,player has no clean sheets,308,Sport Business ...
+259,42234,Havard Nordtveit,"['Jun', '21', '1990']",188.0,Norway,Defender Centre Back,right,45587.0,14,16,player has no goal conceded,player has no clean sheets,346,Solbakken / Player ...
+260,263801,Kasim Adams,"['Jun', '22', '1995']",190.0,Ghana,Defender Centre Back,right,26.0,10,5,player has no goal conceded,player has no clean sheets,203,Signature - ISCM AG
+261,52348,Benjamin Hübner,"['Jul', '4', '1989']",193.0,Germany,Defender Centre Back,left,,20,12,player has no goal conceded,player has no clean sheets,367,Soccertalk GmbH
+262,523913,Gabriel Haider,"['Jun', '18', '2002']",184.0,Austria,Defender Centre Back,,983.0,3,1,player has no goal conceded,player has no clean sheets,82,ROGON
+263,685487,Noah König,"['May', '17', '2003']",188.0,Germany,Defender Centre Back,,983.0,-,-,player has no goal conceded,player has no clean sheets,50,
+264,318204,David Raum,"['Apr', '22', '1998']",180.0,Germany,Defender Left Back,left,23826.0,37,57,player has no goal conceded,player has no clean sheets,273,ROOF
+265,450234,Marco John,"['Apr', '2', '2002']",184.0,Germany,Defender Left Back,left,65.0,13,14,player has no goal conceded,player has no clean sheets,125,Sport Business ...
+266,223974,Stefan Posch,"['May', '14', '1997']",190.0,Austria,Defender Right Back,right,1025.0,20,5,player has no goal conceded,player has no clean sheets,253,ROGON
+267,143798,Pavel Kaderabek,"['Apr', '25', '1992']",182.0,Czech Republic,Defender Right Back,right,533.0,30,51,player has no goal conceded,player has no clean sheets,388,no agent
+268,796429,Justin Che,"['Nov', '18', '2003']",185.0,United States,Defender Right Back,right,533.0,1,5,player has no goal conceded,player has no clean sheets,66,CAA Stellar
+269,195736,Florian Grillitsch,"['Aug', '7', '1995']",187.0,Austria,midfield Defensive Midfield,right,610.0,66,50,player has no goal conceded,player has no clean sheets,315,YOU FIRST
+270,315604,Diadié Samassékou,"['Jan', '11', '1996']",177.0,Mali,midfield Defensive Midfield,right,683.0,6,14,player has no goal conceded,player has no clean sheets,275,Classico
+271,443710,Angelo Stiller,"['Apr', '4', '2001']",183.0,Germany,midfield Defensive Midfield,left,533.0,13,33,player has no goal conceded,player has no clean sheets,181,Gol International
+272,57051,Sebastian Rudy,"['Feb', '28', '1990']",180.0,Germany,midfield Defensive Midfield,right,533.0,33,63,player has no goal conceded,player has no clean sheets,481,Relatives
+273,476915,Melayro Bogarde,"['May', '28', '2002']",186.0,Netherlands,midfield Defensive Midfield,right,1269.0,4,5,player has no goal conceded,player has no clean sheets,123,Wasserman
+274,452065,Fabian Rüth,"['Jul', '2', '2001']",187.0,Germany,midfield Defensive Midfield,left,22327.0,8,1,player has no goal conceded,player has no clean sheets,125,Robert Schneider
+275,251309,Dennis Geiger,"['Jun', '10', '1998']",173.0,Germany,midfield Central Midfield,right,533.0,26,45,player has no goal conceded,player has no clean sheets,205,WINStar Management
+276,569031,Umut Tohumcu,"['Aug', '11', '2004']",175.0,Germany,midfield Central Midfield,both,533.0,31,23,player has no goal conceded,player has no clean sheets,78,ROGON
+277,270393,Robert Skov,"['May', '20', '1996']",185.0,Denmark,midfield Right Midfield,left,533.0,67,49,player has no goal conceded,player has no clean sheets,280,Elite Sports ...
+278,324278,Christoph Baumgartner,"['Aug', '1', '1999']",180.0,Austria,midfield Attacking Midfield,right,533.0,83,38,player has no goal conceded,player has no clean sheets,227,YOU FIRST
+279,215864,Mijat Gacinovic,"['Feb', '8', '1995']",175.0,Serbia,midfield Attacking Midfield,right,2441.0,33,37,player has no goal conceded,player has no clean sheets,308,Soccer Mondial AG
+280,822959,Tom Bischof,"['Jun', '28', '2005']",176.0,Germany,midfield Attacking Midfield,left,533.0,16,14,player has no goal conceded,player has no clean sheets,45,Agent is known - Player under 18
+281,293281,Jacob Bruun Larsen,"['Sep', '19', '1998']",183.0,Denmark,Attack Left Winger,right,533.0,50,42,player has no goal conceded,player has no clean sheets,195,Boutique Transfers
+282,574193,Bambasé Conté,"['Jul', '7', '2003']",178.0,Germany,Attack Left Winger,,983.0,10,11,player has no goal conceded,player has no clean sheets,34,ROGON
+283,237164,Ihlas Bebou,"['Apr', '23', '1994']",183.0,Togo,Attack Centre Forward,right,533.0,67,46,player has no goal conceded,player has no clean sheets,285,Wasserman
+284,538977,Georginio Rutter,"['Apr', '20', '2002']",182.0,France,Attack Centre Forward,left,399.0,21,10,player has no goal conceded,player has no clean sheets,106,ROGON
+285,46580,Andrej Kramaric,"['Jun', '19', '1991']",177.0,Croatia,Attack Centre Forward,right,533.0,205,71,player has no goal conceded,player has no clean sheets,435,
+286,145866,Munas Dabbur,"['May', '14', '1992']",182.0,Israel,Attack Centre Forward,right,533.0,183,82,player has no goal conceded,player has no clean sheets,419,Soccer Mondial AG
+287,125614,Sargis Adamyan,"['May', '23', '1993']",184.0,Armenia,Attack Centre Forward,right,3.0,123,70,player has no goal conceded,player has no clean sheets,397,Karl M. Herzog ...
+288,578392,Maximilian Beier,"['Oct', '17', '2002']",185.0,Germany,Attack Centre Forward,right,42.0,59,20,player has no goal conceded,player has no clean sheets,150,Eurosportsmanagement...
+289,524290,Fisnik Asllani,"['Aug', '8', '2002']",188.0,Germany,Attack Centre Forward,both,533.0,54,23,player has no goal conceded,player has no clean sheets,100,ROGON
+290,31535,Nick Proschwitz,"['Nov', '28', '1986']",192.0,Germany,Attack Centre Forward,right,983.0,171,32,player has no goal conceded,player has no clean sheets,508,ROOF Talents
+291,125714,Mark Flekken,"['Jun', '13', '1993']",195.0,Netherlands,Goalkeeper,both,60.0,2,keeper has no goal assisted,377,82,275,SEG
+292,526845,Noah Atubolu,"['May', '25', '2002']",190.0,Germany,Goalkeeper,right,60.0,1,keeper has no goal assisted,174,46,143,Unique Sports Group
+293,120296,Benjamin Uphoff,"['Aug', '8', '1993']",192.0,Germany,Goalkeeper,right,60.0,-,keeper has no goal assisted,375,79,278,Karl M. Herzog ...
+294,388198,Nico Schlotterbeck,"['Dec', '1', '1999']",191.0,Germany,Defender Centre Back,left,16.0,28,13,player has no goal conceded,player has no clean sheets,213,Robert Schneider
+295,225657,Philipp Lienhart,"['Jul', '11', '1996']",189.0,Austria,Defender Centre Back,right,60.0,13,1,player has no goal conceded,player has no clean sheets,266,YOU FIRST
+296,413843,Keven Schlotterbeck,"['Apr', '28', '1997']",189.0,Germany,Defender Centre Back,left,80.0,18,5,player has no goal conceded,player has no clean sheets,201,Robert Schneider
+297,110036,Dominique Heintz,"['Aug', '15', '1993']",188.0,Germany,Defender Centre Back,left,80.0,10,7,player has no goal conceded,player has no clean sheets,377,Sports360 GmbH
+298,45683,Manuel Gulde,"['Feb', '12', '1991']",184.0,Germany,Defender Centre Back,right,60.0,16,1,player has no goal conceded,player has no clean sheets,304,Unique Sports Group
+299,527276,Kenneth Schmidt,"['Jun', '3', '2002']",187.0,Germany,Defender Centre Back,left,60.0,1,1,player has no goal conceded,player has no clean sheets,93,Unique Sports Group
+300,93707,Christian Günter,"['Feb', '28', '1993']",184.0,Germany,Defender Left Back,left,60.0,15,50,player has no goal conceded,player has no clean sheets,472,Unique Sports Group
+301,453865,Kimberly Ezekwem,"['Jun', '19', '2001']",187.0,Germany,Defender Left Back,left,60.0,3,16,player has no goal conceded,player has no clean sheets,99,CN Sports
+302,578680,Hugo Siquet,"['Jul', '9', '2002']",180.0,Belgium,Defender Right Back,right,520.0,3,10,player has no goal conceded,player has no clean sheets,71,Eleven Plus
+303,93604,Lukas Kübler,"['Aug', '30', '1992']",182.0,Germany,Defender Right Back,right,60.0,10,12,player has no goal conceded,player has no clean sheets,288,ROOF
+304,548348,Kiliann Sildillia,"['May', '16', '2002']",186.0,France,Defender Right Back,right,60.0,8,3,player has no goal conceded,player has no clean sheets,99,ROGON
+305,70285,Jonathan Schmid,"['Jun', '22', '1990']",179.0,France,Defender Right Back,right,60.0,70,61,player has no goal conceded,player has no clean sheets,427,Unique Sports Group
+306,285323,Baptiste Santamaria,"['Mar', '9', '1995']",183.0,France,midfield Defensive Midfield,right,273.0,22,9,player has no goal conceded,player has no clean sheets,355,Sport Profile
+307,342039,Yannik Keitel,"['Feb', '15', '2000']",186.0,Germany,midfield Defensive Midfield,both,60.0,13,11,player has no goal conceded,player has no clean sheets,148,Unique Sports Group
+308,55099,Nicolas Höfler,"['Mar', '9', '1990']",181.0,Germany,midfield Defensive Midfield,right,60.0,36,29,player has no goal conceded,player has no clean sheets,486,
+309,405670,Yannik Engelhardt,"['Feb', '7', '2001']",184.0,Germany,midfield Defensive Midfield,right,245.0,15,9,player has no goal conceded,player has no clean sheets,131,Unique Sports Group
+310,190284,Maximilian Eggestein,"['Dec', '8', '1996']",181.0,Germany,midfield Central Midfield,right,60.0,51,39,player has no goal conceded,player has no clean sheets,394,ROOF
+311,177779,Janik Haberer,"['Apr', '2', '1994']",186.0,Germany,midfield Central Midfield,right,89.0,50,30,player has no goal conceded,player has no clean sheets,376,Unique Sports Group
+312,690429,Robert Wagner,"['Jul', '14', '2003']",181.0,Germany,midfield Central Midfield,right,60.0,8,4,player has no goal conceded,player has no clean sheets,81,VIDA 11
+313,185077,Vincenzo Grifo,"['Apr', '7', '1993']",180.0,Italy,Attack Left Winger,right,60.0,96,94,player has no goal conceded,player has no clean sheets,356,ROOF
+314,392163,Noah Weißhaupt,"['Sep', '20', '2001']",181.0,Germany,Attack Left Winger,right,60.0,22,36,player has no goal conceded,player has no clean sheets,160,Unique Sports Group
+315,346900,Nishan Burkart,"['Jan', '31', '2000']",175.0,Switzerland,Attack Left Winger,right,242.0,44,17,player has no goal conceded,player has no clean sheets,165,Promoesport
+316,332798,Roland Sallai,"['May', '22', '1997']",183.0,Hungary,Attack Right Winger,both,60.0,33,32,player has no goal conceded,player has no clean sheets,240,World Soccer Agency
+317,473050,Kevin Schade,"['Nov', '27', '2001']",185.0,Germany,Attack Right Winger,right,1148.0,35,22,player has no goal conceded,player has no clean sheets,151,Eurosportsmanagement...
+318,297583,Woo-yeong Jeong,"['Sep', '20', '1999']",179.0,"Korea, South",Attack Second Striker,right,60.0,30,24,player has no goal conceded,player has no clean sheets,166,Apertura Sports GmbH
+319,248999,Lucas Höler,"['Jul', '10', '1994']",184.0,Germany,Attack Centre Forward,right,60.0,79,41,player has no goal conceded,player has no clean sheets,343,Unique Sports Group
+320,335457,Ermedin Demirovic,"['Mar', '25', '1998']",185.0,Bosnia-Herzegovina,Attack Centre Forward,right,167.0,80,40,player has no goal conceded,player has no clean sheets,249,PRO Profil GmbH
+321,42936,Nils Petersen,"['Dec', '6', '1988']",188.0,Germany,Attack Centre Forward,right,60.0,193,47,player has no goal conceded,player has no clean sheets,521,Relatives
+322,273054,Vincent Vermeij,"['Aug', '9', '1994']",196.0,Netherlands,Attack Centre Forward,right,245.0,137,39,player has no goal conceded,player has no clean sheets,350,Armand Doorn
+323,284769,Florian Müller,"['Nov', '13', '1997']",190.0,Germany,Goalkeeper,left,79.0,-,keeper has no goal assisted,330,46,214,PRO Profil GmbH
+324,187624,Fabian Bredlow,"['Mar', '2', '1995']",190.0,Germany,Goalkeeper,both,79.0,-,keeper has no goal assisted,309,56,204,SEG
+325,470816,Florian Schock,"['May', '22', '2001']",200.0,Germany,Goalkeeper,right,79.0,-,keeper has no goal assisted,80,21,68,Relatives
+326,415912,Konstantinos Mavropanos,"['Dec', '11', '1997']",194.0,Greece,Defender Centre Back,right,79.0,17,3,player has no goal conceded,player has no clean sheets,171,Konstantinos Farras
+327,193004,Waldemar Anton,"['Jul', '20', '1996']",189.0,Germany,Defender Centre Back,right,79.0,18,9,player has no goal conceded,player has no clean sheets,316,AKA Global GmbH
+328,160938,Marc Oliver Kempf,"['Jan', '28', '1995']",186.0,Germany,Defender Centre Back,left,44.0,39,10,player has no goal conceded,player has no clean sheets,302,Sports360 GmbH
+329,353892,Hiroki Ito,"['May', '12', '1999']",188.0,Japan,Defender Centre Back,left,79.0,6,5,player has no goal conceded,player has no clean sheets,138,Universal Sports ...
+330,470594,Clinton Mola,"['Mar', '15', '2001']",184.0,England,Defender Centre Back,left,164.0,7,4,player has no goal conceded,player has no clean sheets,95,Elite Project Group ...
+331,433388,Matej Maglica,"['Sep', '25', '1998']",198.0,Croatia,Defender Centre Back,left,257.0,10,2,player has no goal conceded,player has no clean sheets,148,AKA Global GmbH
+332,293194,Borna Sosa,"['Jan', '21', '1998']",187.0,Croatia,Defender Left Back,left,79.0,5,39,player has no goal conceded,player has no clean sheets,166,CAA Stellar
+333,195246,Pascal Stenzel,"['Mar', '20', '1996']",183.0,Germany,Defender Right Back,right,79.0,21,19,player has no goal conceded,player has no clean sheets,272,Unique Sports Group
+334,146310,Wataru Endo,"['Feb', '9', '1993']",178.0,Japan,midfield Defensive Midfield,right,79.0,45,28,player has no goal conceded,player has no clean sheets,436,Universal Sports ...
+335,232320,Atakan Karazor,"['Oct', '13', '1996']",191.0,Germany,midfield Defensive Midfield,right,79.0,13,12,player has no goal conceded,player has no clean sheets,264,EMG Mundial
+336,493899,Luca Bazzoli,"['Nov', '1', '2000']",188.0,Germany,midfield Defensive Midfield,both,102.0,5,5,player has no goal conceded,player has no clean sheets,136,Soccertalk GmbH
+337,49032,Richard Weil,"['Feb', '6', '1988']",183.0,Germany,midfield Defensive Midfield,both,106.0,57,33,player has no goal conceded,player has no clean sheets,472,Emal Wardak Sales
+338,289592,Orel Mangala,"['Mar', '18', '1998']",178.0,Belgium,midfield Central Midfield,right,703.0,9,23,player has no goal conceded,player has no clean sheets,214,M-Soccermanagement
+339,569366,Enzo Millot,"['Jul', '17', '2002']",174.0,France,midfield Central Midfield,left,79.0,4,4,player has no goal conceded,player has no clean sheets,53,Klan Soccer FZCO
+340,400546,Nikolas Nartey,"['Feb', '22', '2000']",185.0,Denmark,midfield Central Midfield,left,79.0,7,10,player has no goal conceded,player has no clean sheets,112,Boutique Transfers
+341,538971,Naouirou Ahamada,"['Mar', '29', '2002']",183.0,France,midfield Central Midfield,right,873.0,9,6,player has no goal conceded,player has no clean sheets,97,YA'ATS SPORTS
+342,527270,Falko Michel,"['Jan', '14', '2001']",186.0,Germany,midfield Left Midfield,right,17.0,18,14,player has no goal conceded,player has no clean sheets,159,YOU FIRST
+343,179635,Philipp Förster,"['Feb', '4', '1995']",188.0,Germany,midfield Attacking Midfield,left,80.0,40,55,player has no goal conceded,player has no clean sheets,323,ROOF
+344,540302,Mateo Klimowicz,"['Jul', '6', '2000']",179.0,Germany,midfield Attacking Midfield,right,40188.0,20,11,player has no goal conceded,player has no clean sheets,124,
+345,156779,Erik Thommy,"['Aug', '20', '1994']",175.0,Germany,midfield Attacking Midfield,right,4284.0,55,38,player has no goal conceded,player has no clean sheets,267,Sports360 GmbH
+346,60394,Philipp Klement,"['Sep', '9', '1992']",175.0,Germany,midfield Attacking Midfield,left,2.0,86,101,player has no goal conceded,player has no clean sheets,365,think forward
+347,588020,Ömer Beyaz,"['Aug', '29', '2003']",171.0,Turkey,midfield Attacking Midfield,left,79.0,2,-,player has no goal conceded,player has no clean sheets,31,M-Soccermanagement
+348,472243,Lilian Egloff,"['Aug', '20', '2002']",182.0,Germany,midfield Attacking Midfield,right,79.0,33,34,player has no goal conceded,player has no clean sheets,112,VIDA 11
+349,57995,Daniel Didavi,"['Feb', '21', '1990']",180.0,Germany,midfield Attacking Midfield,left,515.0,86,41,player has no goal conceded,player has no clean sheets,336,Karlheinz Förster
+350,431561,Roberto Massimo,"['Oct', '12', '2000']",182.0,Germany,Attack Left Winger,right,7788.0,31,9,player has no goal conceded,player has no clean sheets,138,ROGON
+351,386786,Darko Churlinov,"['Jul', '11', '2000']",180.0,North Macedonia,Attack Left Winger,right,1132.0,41,18,player has no goal conceded,player has no clean sheets,159,M-Soccermanagement
+352,750886,Alexis Tibidi,"['Nov', '3', '2003']",187.0,France,Attack Left Winger,right,1095.0,10,9,player has no goal conceded,player has no clean sheets,54,Power Soccer ...
+353,612826,Silas,"['Oct', '6', '1998']",189.0,DR Congo,Attack Right Winger,right,79.0,39,17,player has no goal conceded,player has no clean sheets,136,M-Soccermanagement
+354,272278,Chris Führich,"['Jan', '9', '1998']",181.0,Germany,Attack Right Winger,right,79.0,46,33,player has no goal conceded,player has no clean sheets,227,KL Sportsbase
+355,618425,Tanguy Coulibaly,"['Feb', '18', '2001']",178.0,France,Attack Right Winger,left,79.0,7,6,player has no goal conceded,player has no clean sheets,89,
+356,369567,Sasa Kalajdzic,"['Jul', '7', '1997']",200.0,Austria,Attack Centre Forward,right,543.0,49,28,player has no goal conceded,player has no clean sheets,131,SPOCS Global Sports
+357,616344,Tiago Tomás,"['Jun', '16', '2002']",180.0,Portugal,Attack Centre Forward,right,79.0,20,8,player has no goal conceded,player has no clean sheets,117,Proeleven S.A.
+358,610431,Wahid Faghir,"['Jul', '29', '2003']",186.0,Denmark,Attack Centre Forward,right,2778.0,30,9,player has no goal conceded,player has no clean sheets,97,Boutique Transfers
+359,572919,Mohamed Sankoh,"['Oct', '16', '2003']",183.0,Netherlands,Attack Centre Forward,right,499.0,35,18,player has no goal conceded,player has no clean sheets,79,The Kulture Group
+360,193534,Hamadi Al Ghaddioui,"['Sep', '22', '1990']",190.0,Morocco,Attack Centre Forward,right,254.0,108,37,player has no goal conceded,player has no clean sheets,337,Sports360 GmbH
+361,93763,Alexander Schwolow,"['Jun', '2', '1992']",190.0,Germany,Goalkeeper,right,33.0,-,keeper has no goal assisted,607,95,396,feel soccer GmbH
+362,471936,Oliver Christensen,"['Mar', '22', '1999']",190.0,Denmark,Goalkeeper,right,44.0,-,keeper has no goal assisted,230,37,156,Boutique Transfers
+363,453737,Marcel Lotka,"['May', '25', '2001']",190.0,Germany,Goalkeeper,right,16.0,-,keeper has no goal assisted,184,46,142,SEG
+364,241974,Nils-Jonathan Körber,"['Nov', '13', '1996']",189.0,Germany,Goalkeeper,right,30.0,-,keeper has no goal assisted,189,71,183,EMG Mundial
+365,24112,Rune Jarstein,"['Sep', '29', '1984']",192.0,Norway,Goalkeeper,right,44.0,1,keeper has no goal assisted,611,127,445,Golden Patch ...
+366,162434,Niklas Stark,"['Apr', '14', '1995']",190.0,Germany,Defender Centre Back,right,86.0,23,7,player has no goal conceded,player has no clean sheets,342,Sports360 GmbH
+367,227110,Jordan Torunarigha,"['Aug', '7', '1997']",191.0,Germany,Defender Centre Back,left,157.0,13,9,player has no goal conceded,player has no clean sheets,242,11WINS
+368,432281,Márton Dárdai,"['Feb', '12', '2002']",188.0,Germany,Defender Centre Back,left,44.0,2,3,player has no goal conceded,player has no clean sheets,98,PRO Profil GmbH
+369,692734,Linus Gechter,"['Feb', '27', '2004']",190.0,Germany,Defender Centre Back,right,23.0,2,3,player has no goal conceded,player has no clean sheets,53,Sports360 GmbH
+370,88262,Dedryck Boyata,"['Nov', '28', '1990']",188.0,Belgium,Defender Centre Back,right,2282.0,25,12,player has no goal conceded,player has no clean sheets,318,Stirr Associates
+371,605225,Christalino Atemona,"['Apr', '26', '2002']",187.0,Germany,Defender Centre Back,right,601.0,2,1,player has no goal conceded,player has no clean sheets,59,SPOCS Global Sports
+372,533007,Marlon Morgenstern,"['Jan', '30', '2001']",188.0,Germany,Defender Centre Back,right,515.0,6,2,player has no goal conceded,player has no clean sheets,85,
+373,117482,Cimo Röcker,"['Jan', '21', '1994']",186.0,Germany,Defender Centre Back,left,45.0,12,14,player has no goal conceded,player has no clean sheets,261,
+374,282660,Maximilian Mittelstädt,"['Mar', '18', '1997']",180.0,Germany,Defender Left Back,left,44.0,17,27,player has no goal conceded,player has no clean sheets,243,Sports360 GmbH
+375,364938,Fredrik Björkan,"['Aug', '21', '1998']",180.0,Norway,Defender Left Back,left,501.0,8,16,player has no goal conceded,player has no clean sheets,158,Aneke/PMG
+376,89592,Marvin Plattenhardt,"['Jan', '26', '1992']",181.0,Germany,Defender Left Back,left,44.0,15,48,player has no goal conceded,player has no clean sheets,393,Briem Soccer ...
+377,338032,Deyovaisio Zeefuik,"['Mar', '11', '1998']",177.0,Netherlands,Defender Right Back,right,276.0,3,11,player has no goal conceded,player has no clean sheets,208,SEG
+378,282577,Lukas Klünter,"['May', '26', '1996']",184.0,Germany,Defender Right Back,right,10.0,7,15,player has no goal conceded,player has no clean sheets,208,Dirk Hebel
+379,51100,Peter Pekarik,"['Oct', '30', '1986']",177.0,Slovakia,Defender Right Back,right,44.0,13,29,player has no goal conceded,player has no clean sheets,466,ROGON
+380,706617,Julian Eitschberger,"['Mar', '5', '2004']",179.0,Germany,Defender Right Back,right,44.0,3,9,player has no goal conceded,player has no clean sheets,67,B360 Sports
+381,353948,Lucas Tousart,"['Apr', '29', '1997']",185.0,France,midfield Defensive Midfield,right,44.0,15,12,player has no goal conceded,player has no clean sheets,287,Hexagon
+382,423436,Santiago Ascacíbar,"['Feb', '25', '1997']",168.0,Argentina,midfield Defensive Midfield,right,288.0,5,7,player has no goal conceded,player has no clean sheets,210,Seven Group
+383,605222,Jonas Dirkner,"['Jul', '15', '2002']",,Germany,midfield Defensive Midfield,both,17847.0,3,7,player has no goal conceded,player has no clean sheets,110,ATHLEADZ
+384,261905,Suat Serdar,"['Apr', '11', '1997']",184.0,Germany,midfield Central Midfield,right,44.0,38,22,player has no goal conceded,player has no clean sheets,286,Sports360 GmbH
+385,361068,Jurgen Ekkelenkamp,"['Apr', '5', '2000']",188.0,Netherlands,midfield Central Midfield,right,1096.0,73,26,player has no goal conceded,player has no clean sheets,213,CAA Stellar
+386,179643,Vladimir Darida,"['Aug', '8', '1990']",172.0,Czech Republic,midfield Central Midfield,right,605.0,55,61,player has no goal conceded,player has no clean sheets,382,CHOVANECSPORT
+387,471901,Jonas Michelbrink,"['Jun', '23', '2001']",182.0,Germany,midfield Central Midfield,right,52.0,15,20,player has no goal conceded,player has no clean sheets,144,think forward
+388,392149,Julian Albrecht,"['Aug', '31', '2001']",182.0,Germany,midfield Central Midfield,right,107.0,14,9,player has no goal conceded,player has no clean sheets,152,PRO Profil GmbH
+389,16922,Kevin-Prince Boateng,"['Mar', '6', '1987']",186.0,Ghana,midfield Attacking Midfield,right,44.0,76,56,player has no goal conceded,player has no clean sheets,520,Excellence Sport
+390,371142,Myziane Maolida,"['Feb', '14', '1999']",182.0,France,Attack Left Winger,right,1421.0,26,9,player has no goal conceded,player has no clean sheets,148,USFA Management
+391,358870,Dennis Jastrzembski,"['Feb', '20', '2000']",180.0,Germany,Attack Left Winger,left,759.0,28,43,player has no goal conceded,player has no clean sheets,188,SEG
+392,654234,Anton Kade,"['Jan', '17', '2004']",185.0,Germany,Attack Left Winger,right,26.0,23,21,player has no goal conceded,player has no clean sheets,81,Lucky 13
+393,315125,Javairô Dilrosun,"['Jun', '22', '1998']",175.0,Netherlands,Attack Right Winger,left,234.0,17,37,player has no goal conceded,player has no clean sheets,180,More Than Goals
+394,279009,Marco Richter,"['Nov', '24', '1997']",176.0,Germany,Attack Right Winger,right,44.0,84,27,player has no goal conceded,player has no clean sheets,277,Sports360 GmbH
+395,569368,Kelian Nsona,"['May', '11', '2002']",189.0,France,Attack Right Winger,right,44.0,2,-,player has no goal conceded,player has no clean sheets,37,ROGON
+396,269601,Dong-jun Lee,"['Feb', '1', '1997']",173.0,"Korea, South",Attack Right Winger,right,6502.0,38,21,player has no goal conceded,player has no clean sheets,157,Apertura Sports GmbH
+397,574569,Marten Winkler,"['Oct', '31', '2002']",184.0,Germany,Attack Right Winger,left,85.0,32,20,player has no goal conceded,player has no clean sheets,105,ROOF
+398,517894,Matheus Cunha,"['May', '27', '1999', 'Happy', 'Birthday']",183.0,Brazil,Attack Centre Forward,right,543.0,41,30,player has no goal conceded,player has no clean sheets,199,Bertolucci Sports
+399,327757,Krzysztof Piatek,"['Jul', '1', '1995']",183.0,Poland,Attack Centre Forward,right,380.0,109,26,player has no goal conceded,player has no clean sheets,322,Fabryka Futbolu
+400,46104,Stevan Jovetic,"['Nov', '2', '1989']",183.0,Montenegro,Attack Centre Forward,right,44.0,114,55,player has no goal conceded,player has no clean sheets,405,LIAN Sports Group
+401,111039,Ishak Belfodil,"['Jan', '12', '1992']",192.0,Algeria,Attack Centre Forward,right,6297.0,76,35,player has no goal conceded,player has no clean sheets,311,Relatives
+402,178459,Davie Selke,"['Jan', '20', '1995']",195.0,Germany,Attack Centre Forward,right,3.0,102,30,player has no goal conceded,player has no clean sheets,349,Sports eXcellence ...
+403,678088,Luca Wollschläger,"['Feb', '8', '2003']",195.0,Germany,Attack Centre Forward,both,56.0,18,11,player has no goal conceded,player has no clean sheets,56,ATHLEADZ
+404,160963,Robin Zentner,"['Oct', '28', '1994']",195.0,Germany,Goalkeeper,right,39.0,-,keeper has no goal assisted,309,60,219,W&K Fairplay
+405,251299,Finn Dahmen,"['Mar', '27', '1998']",188.0,Germany,Goalkeeper,right,39.0,1,keeper has no goal assisted,197,28,127,CN Sports
+406,490609,Lasse Rieß,"['Jul', '27', '2001']",191.0,Germany,Goalkeeper,right,39.0,-,keeper has no goal assisted,130,37,113,ROOF Talents
+407,291200,Moussa Niakhaté,"['Mar', '8', '1996']",190.0,Senegal,Defender Centre Back,left,703.0,10,9,player has no goal conceded,player has no clean sheets,264,CAA Stellar
+408,288253,Jerry St. Juste,"['Oct', '19', '1996']",186.0,Netherlands,Defender Centre Back,right,336.0,14,10,player has no goal conceded,player has no clean sheets,261,St. Juste Management
+409,384553,Luca Kilian,"['Sep', '1', '1999']",192.0,Germany,Defender Centre Back,right,3.0,24,8,player has no goal conceded,player has no clean sheets,203,LK Management
+410,82350,Stefan Bell,"['Aug', '24', '1991']",192.0,Germany,Defender Centre Back,right,39.0,25,16,player has no goal conceded,player has no clean sheets,408,Haspel ...
+411,126281,Alexander Hack,"['Sep', '8', '1993']",193.0,Germany,Defender Centre Back,left,39.0,11,6,player has no goal conceded,player has no clean sheets,292,PRO Profil GmbH
+412,451906,David Nemeth,"['Mar', '18', '2001']",191.0,Austria,Defender Centre Back,both,35.0,6,2,player has no goal conceded,player has no clean sheets,108,YOU FIRST
+413,251878,Aarón Martín,"['Apr', '22', '1997']",180.0,Spain,Defender Left Back,left,39.0,7,12,player has no goal conceded,player has no clean sheets,246,BY AND FOR
+414,240274,Anderson Lucoqui,"['Jul', '6', '1997']",180.0,Angola,Defender Left Back,left,30.0,6,8,player has no goal conceded,player has no clean sheets,183,FSB – ...
+415,168989,Silvan Widmer,"['Mar', '5', '1993']",183.0,Switzerland,Defender Right Back,right,39.0,39,52,player has no goal conceded,player has no clean sheets,438,CAA Base Ltd
+416,43984,Daniel Brosinski,"['Jul', '17', '1988']",178.0,Germany,Defender Right Back,right,48.0,50,61,player has no goal conceded,player has no clean sheets,462,Dirk Hebel
+417,344069,Anton Stach,"['Nov', '15', '1998']",194.0,Germany,midfield Defensive Midfield,both,39.0,22,27,player has no goal conceded,player has no clean sheets,199,ROOF
+418,470815,Niklas Tauer,"['Feb', '17', '2001']",183.0,Germany,midfield Defensive Midfield,right,33.0,9,4,player has no goal conceded,player has no clean sheets,107,PRO Profil GmbH
+419,35493,Stephan Fürstner,"['Sep', '11', '1987']",178.0,Germany,midfield Defensive Midfield,both,,26,20,player has no goal conceded,player has no clean sheets,463,Talcon Management
+420,357233,Leandro Barreiro,"['Jan', '3', '2000']",174.0,Luxembourg,midfield Central Midfield,right,39.0,22,28,player has no goal conceded,player has no clean sheets,196,CAA Stellar
+421,118847,Dominik Kohr,"['Jan', '31', '1994']",183.0,Germany,midfield Central Midfield,right,39.0,31,30,player has no goal conceded,player has no clean sheets,391,Sports360 GmbH
+422,247555,Edimilson Fernandes,"['Apr', '15', '1996']",190.0,Switzerland,midfield Central Midfield,right,39.0,26,27,player has no goal conceded,player has no clean sheets,306,IFM
+423,405689,Merveille Papela,"['Jan', '18', '2001']",174.0,Germany,midfield Central Midfield,right,254.0,16,14,player has no goal conceded,player has no clean sheets,162,PRO Profil GmbH
+424,663189,Eniss Shabani,"['May', '29', '2003']",180.0,Germany,midfield Central Midfield,right,39.0,6,8,player has no goal conceded,player has no clean sheets,78,ASBW Sport Marketing
+425,627661,Timothé Rupil,"['Jun', '12', '2003']",171.0,Luxembourg,midfield Central Midfield,,851.0,13,13,player has no goal conceded,player has no clean sheets,66,Unique Sports Group
+426,182574,Jean-Paul Boëtius,"['Mar', '22', '1994']",178.0,Netherlands,midfield Attacking Midfield,right,44.0,53,58,player has no goal conceded,player has no clean sheets,345,CAA Stellar
+427,314398,Jae-sung Lee,"['Aug', '10', '1992']",180.0,"Korea, South",midfield Attacking Midfield,left,39.0,65,76,player has no goal conceded,player has no clean sheets,352,Unique Sports Group
+428,106872,Kevin Stöger,"['Aug', '27', '1993']",175.0,Austria,midfield Attacking Midfield,left,80.0,36,61,player has no goal conceded,player has no clean sheets,336,Relatives
+429,677794,Kaito Mizuta,"['Apr', '8', '2000']",182.0,Japan,midfield Attacking Midfield,both,851.0,32,32,player has no goal conceded,player has no clean sheets,128,RMB SPORTS
+430,333464,Romario Rösch,"['Jul', '1', '1999']",182.0,Germany,midfield Attacking Midfield,both,69.0,34,24,player has no goal conceded,player has no clean sheets,211,Players Factory
+431,436585,Delano Burgzorg,"['Nov', '7', '1998']",186.0,Netherlands,Attack Left Winger,right,39.0,33,8,player has no goal conceded,player has no clean sheets,165,PURE
+432,503160,Paul Nebel,"['Oct', '10', '2002']",169.0,Germany,Attack Right Winger,both,48.0,32,42,player has no goal conceded,player has no clean sheets,138,PRO Profil GmbH
+433,658116,Ben Bobzien,"['Apr', '29', '2003']",174.0,Germany,Attack Right Winger,right,64.0,25,18,player has no goal conceded,player has no clean sheets,79,ASBW Sport Marketing
+434,333647,Jonathan Burkardt,"['Jul', '11', '2000']",183.0,Germany,Attack Centre Forward,right,39.0,49,27,player has no goal conceded,player has no clean sheets,162,PRO Profil GmbH
+435,119234,Karim Onisiwo,"['Mar', '17', '1992']",188.0,Austria,Attack Centre Forward,right,39.0,88,65,player has no goal conceded,player has no clean sheets,355,ROOF
+436,269878,Marcus Ingvartsen,"['Jan', '4', '1996']",187.0,Denmark,Attack Centre Forward,left,39.0,67,17,player has no goal conceded,player has no clean sheets,243,People In Sport
+437,39106,Ádám Szalai,"['Dec', '9', '1987']",193.0,Hungary,Attack Centre Forward,right,515.0,105,34,player has no goal conceded,player has no clean sheets,487,Rechtsanwalt Oliver ...
+438,107775,Frederik Rönnow,"['Aug', '4', '1992']",188.0,Denmark,Goalkeeper,right,89.0,-,keeper has no goal assisted,357,95,303,Boutique Transfers
+439,41323,Andreas Luthe,"['Mar', '10', '1987']",195.0,Germany,Goalkeeper,right,2.0,-,keeper has no goal assisted,544,103,405,act SPORTS GROUP
+440,203411,Jakob Busk,"['Sep', '12', '1993']",189.0,Denmark,Goalkeeper,right,89.0,-,keeper has no goal assisted,146,23,97,Relatives
+441,698776,Niklas Petzsch,"['Jun', '18', '2004']",,Germany,Goalkeeper,,40719.0,-,keeper has no goal assisted,54,4,28,Dirk Hebel
+442,698840,Yannic Stein,"['Sep', '17', '2004']",,Germany,Goalkeeper,,7802.0,-,keeper has no goal assisted,39,9,26,INTEAMSPORTS
+443,284248,Paul Jaeckel,"['Jul', '22', '1998']",186.0,Germany,Defender Centre Back,right,89.0,8,1,player has no goal conceded,player has no clean sheets,231,Karl M. Herzog ...
+444,187491,Timo Baumgartl,"['Mar', '4', '1996']",190.0,Germany,Defender Centre Back,right,89.0,10,7,player has no goal conceded,player has no clean sheets,295,CN Sports
+445,94201,Robin Knoche,"['May', '22', '1992']",189.0,Germany,Defender Centre Back,right,89.0,30,15,player has no goal conceded,player has no clean sheets,484,Sports360 GmbH
+446,354340,Rick van Drongelen,"['Dec', '20', '1998']",188.0,Netherlands,Defender Centre Back,left,30.0,6,4,player has no goal conceded,player has no clean sheets,189,SEG
+447,153555,Sebastian Griesbeck,"['Oct', '3', '1990']",189.0,Germany,Defender Centre Back,right,65.0,17,21,player has no goal conceded,player has no clean sheets,410,Haspel ...
+448,699702,Mathis Bruns,"['Mar', '31', '2004']",192.0,Germany,Defender Centre Back,,5618.0,-,-,player has no goal conceded,player has no clean sheets,39,B360 Sports
+449,361575,Tymoteusz Puchacz,"['Jan', '23', '1999']",180.0,Poland,Defender Left Back,left,265.0,19,16,player has no goal conceded,player has no clean sheets,226,Fabryka Futbolu
+450,72792,Niko Gießelmann,"['Sep', '26', '1991']",182.0,Germany,Defender Left Back,left,89.0,41,39,player has no goal conceded,player has no clean sheets,463,SMG GmbH
+451,53437,Bastian Oczipka,"['Jan', '12', '1989']",185.0,Germany,Defender Left Back,left,10.0,9,57,player has no goal conceded,player has no clean sheets,491,Sports360 GmbH
+452,370789,Julian Ryerson,"['Nov', '17', '1997']",183.0,Norway,Defender Right Back,right,16.0,11,7,player has no goal conceded,player has no clean sheets,197,CAA Base Ltd
+453,75921,Christopher Trimmel,"['Feb', '24', '1987']",189.0,Austria,Defender Right Back,right,89.0,40,89,player has no goal conceded,player has no clean sheets,531,ROOF
+454,124410,Rani Khedira,"['Jan', '27', '1994']",189.0,Germany,midfield Defensive Midfield,right,89.0,24,16,player has no goal conceded,player has no clean sheets,403,NGM SPORTS
+455,234029,Grischa Prömel,"['Jan', '9', '1995']",184.0,Germany,midfield Central Midfield,right,533.0,30,19,player has no goal conceded,player has no clean sheets,268,Unique Sports Group
+456,454863,András Schäfer,"['Apr', '13', '1999']",178.0,Hungary,midfield Central Midfield,both,89.0,12,14,player has no goal conceded,player has no clean sheets,153,EM Sports Consulting
+457,168543,Levin Öztunali,"['Mar', '15', '1996']",184.0,Germany,midfield Central Midfield,right,89.0,27,37,player has no goal conceded,player has no clean sheets,284,CAA Stellar
+458,94137,Kevin Möhwald,"['Jul', '3', '1993']",182.0,Germany,midfield Central Midfield,right,89.0,41,35,player has no goal conceded,player has no clean sheets,334,Karl M. Herzog ...
+459,548803,Fabio Schneider,"['Jul', '31', '2002']",183.0,Germany,midfield Central Midfield,right,48991.0,8,8,player has no goal conceded,player has no clean sheets,55,B360 Sports
+460,692713,Maximilian Somnitz,"['Jun', '9', '2003']",189.0,Germany,midfield Central Midfield,,316.0,5,5,player has no goal conceded,player has no clean sheets,63,B360 Sports
+461,164759,Pawel Wszolek,"['Apr', '30', '1992']",186.0,Poland,midfield Right Midfield,right,255.0,50,58,player has no goal conceded,player has no clean sheets,354,KFM
+462,451403,Laurenz Dehl,"['Dec', '12', '2001']",181.0,Germany,midfield Right Midfield,both,40373.0,25,11,player has no goal conceded,player has no clean sheets,107,
+463,79377,Genki Haraguchi,"['May', '9', '1991']",178.0,Japan,midfield Attacking Midfield,right,79.0,64,70,player has no goal conceded,player has no clean sheets,494,PRO Profil GmbH
+464,421726,Keita Endo,"['Nov', '22', '1997']",175.0,Japan,midfield Attacking Midfield,right,23.0,17,23,player has no goal conceded,player has no clean sheets,182,UDN SPORTS
+465,188888,Sheraldo Becker,"['Feb', '9', '1995']",180.0,Suriname,Attack Second Striker,right,89.0,44,57,player has no goal conceded,player has no clean sheets,311,Sports360 GmbH
+466,295313,Taiwo Awoniyi,"['Aug', '12', '1997']",183.0,Nigeria,Attack Centre Forward,right,703.0,70,25,player has no goal conceded,player has no clean sheets,219,ROOF
+467,94771,Andreas Voglsammer,"['Jan', '9', '1992']",177.0,Germany,Attack Centre Forward,right,1028.0,123,53,player has no goal conceded,player has no clean sheets,487,Breeze Sports GmbH
+468,186988,Sven Michel,"['Jul', '15', '1990']",177.0,Germany,Attack Centre Forward,left,89.0,133,73,player has no goal conceded,player has no clean sheets,387,Karl M. Herzog ...
+469,207597,Cedric Teuchert,"['Jan', '14', '1997']",182.0,Germany,Attack Centre Forward,right,42.0,87,27,player has no goal conceded,player has no clean sheets,241,ROOF
+470,117432,Kevin Behrens,"['Feb', '3', '1991']",185.0,Germany,Attack Centre Forward,both,89.0,139,75,player has no goal conceded,player has no clean sheets,415,B O K S
+471,142281,Anthony Ujah,"['Oct', '14', '1990']",180.0,Nigeria,Attack Centre Forward,right,23.0,107,37,player has no goal conceded,player has no clean sheets,327,ROOF
+472,356118,Suleiman Abdullahi,"['Dec', '10', '1996']",185.0,Nigeria,Attack Centre Forward,right,801.0,30,17,player has no goal conceded,player has no clean sheets,150,Aneke/PMG
+473,160929,Marvin Schwäbe,"['Apr', '25', '1995']",190.0,Germany,Goalkeeper,right,3.0,-,keeper has no goal assisted,532,112,397,CN Sports
+474,84938,Timo Horn,"['May', '12', '1993']",192.0,Germany,Goalkeeper,left,3.0,-,keeper has no goal assisted,543,115,409,Sports360 GmbH
+475,607720,Jonas Urbig,"['Aug', '8', '2003']",189.0,Germany,Goalkeeper,both,109.0,-,keeper has no goal assisted,96,26,81,ROOF
+476,227089,Matthias Köbbing,"['May', '28', '1997']",196.0,Germany,Goalkeeper,both,3.0,-,keeper has no goal assisted,38,9,28,Haspel ...
+477,236981,Timo Hübers,"['Jul', '20', '1996']",190.0,Germany,Defender Centre Back,right,3.0,18,3,player has no goal conceded,player has no clean sheets,203,Timo Hübers
+478,286779,Jorge Meré,"['Apr', '17', '1997']",182.0,Spain,Defender Centre Back,right,2687.0,5,1,player has no goal conceded,player has no clean sheets,230,Gelu Rodríguez
+479,303219,Julian Chabot,"['Feb', '12', '1998']",195.0,Germany,Defender Centre Back,left,3.0,12,6,player has no goal conceded,player has no clean sheets,200,PRO Profil GmbH
+480,84150,Rafael Czichos,"['May', '14', '1990']",187.0,Germany,Defender Centre Back,left,432.0,55,27,player has no goal conceded,player has no clean sheets,453,ROOF
+481,108537,Jonas Hector,"['May', '27', '1990', 'Happy', 'Birthday']",185.0,Germany,Defender Left Back,left,3.0,37,59,player has no goal conceded,player has no clean sheets,444,act SPORTS GROUP
+482,231586,Jannes Horn,"['Feb', '6', '1997']",186.0,Germany,Defender Left Back,left,4.0,1,19,player has no goal conceded,player has no clean sheets,228,Dirk Hebel
+483,469949,Noah Katterbach,"['Apr', '13', '2001']",180.0,Germany,Defender Left Back,left,41.0,8,5,player has no goal conceded,player has no clean sheets,170,ROGON
+484,160968,Benno Schmitz,"['Nov', '17', '1994']",182.0,Germany,Defender Right Back,right,3.0,7,25,player has no goal conceded,player has no clean sheets,321,Kögl & Partner GmbH
+485,272812,Kingsley Ehizibue,"['May', '25', '1995']",189.0,Netherlands,Defender Right Back,right,410.0,14,25,player has no goal conceded,player has no clean sheets,285,Iconics Management
+486,244940,Salih Özcan,"['Jan', '11', '1998']",183.0,Turkey,midfield Defensive Midfield,right,16.0,42,23,player has no goal conceded,player has no clean sheets,281,Dirk Hebel
+487,290587,Ellyes Skhiri,"['May', '10', '1995']",185.0,Tunisia,midfield Defensive Midfield,right,3.0,30,13,player has no goal conceded,player has no clean sheets,266,CAA Stellar
+488,287188,Dejan Ljubicic,"['Oct', '8', '1997']",187.0,Austria,midfield Defensive Midfield,right,3.0,23,15,player has no goal conceded,player has no clean sheets,278,Dirk Hebel
+489,205544,Niklas Hauptmann,"['Jun', '27', '1996']",176.0,Germany,midfield Central Midfield,left,129.0,13,19,player has no goal conceded,player has no clean sheets,221,T21plus
+490,490581,Mathias Olesen,"['Mar', '21', '2001']",188.0,Luxembourg,midfield Central Midfield,both,3.0,7,1,player has no goal conceded,player has no clean sheets,95,PESM
+491,153678,Kingsley Schindler,"['Jul', '12', '1993']",183.0,Ghana,midfield Right Midfield,right,3.0,55,52,player has no goal conceded,player has no clean sheets,321,11WINS
+492,232418,Ondrej Duda,"['Dec', '5', '1994']",181.0,Slovakia,midfield Attacking Midfield,right,276.0,46,41,player has no goal conceded,player has no clean sheets,327,CAA Stellar
+493,147485,Louis Schaub,"['Dec', '29', '1994']",177.0,Austria,midfield Attacking Midfield,left,42.0,85,69,player has no goal conceded,player has no clean sheets,401,YOU FIRST
+494,428189,Tomás Ostrák,"['Feb', '5', '2000']",176.0,Czech Republic,midfield Attacking Midfield,right,82686.0,20,16,player has no goal conceded,player has no clean sheets,137,BMG-SPORT
+495,106270,Florian Kainz,"['Oct', '24', '1992']",176.0,Austria,Attack Left Winger,both,3.0,74,87,player has no goal conceded,player has no clean sheets,438,YOU FIRST
+496,522084,Marvin Obuz,"['Jan', '25', '2002']",182.0,Germany,Attack Left Winger,right,269.0,46,11,player has no goal conceded,player has no clean sheets,142,Dirk Hebel
+497,472249,Jan Thielmann,"['May', '26', '2002']",178.0,Germany,Attack Right Winger,right,3.0,37,13,player has no goal conceded,player has no clean sheets,160,Relatives
+498,112935,Mark Uth,"['Aug', '24', '1991']",185.0,Germany,Attack Centre Forward,left,3.0,145,65,player has no goal conceded,player has no clean sheets,365,Sports360 GmbH
+499,50512,Anthony Modeste,"['Apr', '14', '1988']",188.0,France,Attack Centre Forward,right,16.0,178,38,player has no goal conceded,player has no clean sheets,478,Wasserman
+500,147573,Sebastian Andersson,"['Jul', '15', '1991']",190.0,Sweden,Attack Centre Forward,right,3.0,138,47,player has no goal conceded,player has no clean sheets,395,People In Sport
+501,553285,Tim Lemperle,"['Feb', '5', '2002']",189.0,Germany,Attack Centre Forward,right,3.0,36,22,player has no goal conceded,player has no clean sheets,125,ROGON
+502,78339,Rafal Gikiewicz,"['Oct', '26', '1987']",190.0,Poland,Goalkeeper,right,167.0,1,keeper has no goal assisted,422,100,316,Wasserman
+503,146714,Tomas Koubek,"['Aug', '26', '1992']",197.0,Czech Republic,Goalkeeper,right,167.0,-,keeper has no goal assisted,363,77,267,SPORT INVEST
+504,392124,Daniel Klein,"['Mar', '13', '2001']",193.0,Germany,Goalkeeper,right,167.0,-,keeper has no goal assisted,183,28,119,Sport Business ...
+505,314295,Reece Oxford,"['Dec', '16', '1998']",190.0,England,Defender Centre Back,right,167.0,8,5,player has no goal conceded,player has no clean sheets,155,CAA Base Ltd
+506,278343,Felix Uduokhai,"['Sep', '9', '1997']",192.0,Germany,Defender Centre Back,left,167.0,10,1,player has no goal conceded,player has no clean sheets,218,CN Sports
+507,106405,Jeffrey Gouweleeuw,"['Jul', '10', '1991']",187.0,Netherlands,Defender Centre Back,right,167.0,20,18,player has no goal conceded,player has no clean sheets,410,SEG
+508,569349,Frederik Winther,"['Jan', '4', '2001']",190.0,Denmark,Defender Centre Back,left,206.0,2,2,player has no goal conceded,player has no clean sheets,109,Nordic Sky
+509,520468,Iago,"['Mar', '23', '1997']",181.0,Brazil,Defender Left Back,left,167.0,4,16,player has no goal conceded,player has no clean sheets,132,C.R
+510,288429,Mads Pedersen,"['Sep', '1', '1996']",174.0,Denmark,Defender Left Back,left,167.0,7,14,player has no goal conceded,player has no clean sheets,179,Nordic Sky
+511,522245,Lasse Günther,"['Mar', '21', '2003']",183.0,Germany,Defender Left Back,left,109.0,17,14,player has no goal conceded,player has no clean sheets,89,11WINS
+512,353826,Robert Gumny,"['Jun', '4', '1998']",182.0,Poland,Defender Right Back,right,167.0,9,9,player has no goal conceded,player has no clean sheets,212,Fabryka Futbolu
+513,146163,Raphael Framberger,"['Sep', '6', '1995']",179.0,Germany,Defender Right Back,right,254.0,3,8,player has no goal conceded,player has no clean sheets,212,Kögl & Partner GmbH
+514,251302,Niklas Dorsch,"['Jan', '15', '1998']",178.0,Germany,midfield Defensive Midfield,right,167.0,16,20,player has no goal conceded,player has no clean sheets,254,CN Sports
+515,189475,Carlos Gruezo,"['Apr', '19', '1995']",172.0,Ecuador,midfield Defensive Midfield,right,218.0,9,11,player has no goal conceded,player has no clean sheets,301,Seth Sports
+516,57845,Tobias Strobl,"['May', '12', '1990']",188.0,Germany,midfield Defensive Midfield,right,167.0,16,26,player has no goal conceded,player has no clean sheets,368,CN Sports
+517,664973,Dikeni Salifou,"['Jun', '8', '2003']",191.0,Togo,midfield Defensive Midfield,right,86.0,3,1,player has no goal conceded,player has no clean sheets,40,ROOF Talents
+518,296397,Arne Maier,"['Jan', '8', '1999']",186.0,Germany,midfield Central Midfield,right,167.0,18,36,player has no goal conceded,player has no clean sheets,215,11WINS
+519,63022,Jan Moravek,"['Nov', '1', '1989']",180.0,Czech Republic,midfield Central Midfield,right,715.0,22,14,player has no goal conceded,player has no clean sheets,245,MSG-Agency
+520,588747,Tim Civeja,"['Jan', '4', '2002']",180.0,Germany,midfield Central Midfield,both,4795.0,16,6,player has no goal conceded,player has no clean sheets,89,fair-sport GmbH
+521,476498,Dominic Schmidt,"['Mar', '12', '2001']",185.0,Germany,midfield Central Midfield,right,103.0,7,4,player has no goal conceded,player has no clean sheets,92,"PRO Profil GmbH, U23"
+522,249157,Fredrik Jensen,"['Sep', '9', '1997']",183.0,Finland,midfield Attacking Midfield,right,167.0,22,19,player has no goal conceded,player has no clean sheets,174,V4S
+523,345886,Rubén Vargas,"['Aug', '5', '1998']",179.0,Switzerland,Attack Left Winger,right,167.0,48,29,player has no goal conceded,player has no clean sheets,224,IFM
+524,42783,André Hahn,"['Aug', '13', '1990']",185.0,Germany,Attack Right Winger,right,167.0,78,53,player has no goal conceded,player has no clean sheets,413,Sports360 GmbH
+525,283001,Noah Joel Sarenren Bazee,"['Aug', '21', '1996']",183.0,Germany,Attack Right Winger,right,167.0,29,28,player has no goal conceded,player has no clean sheets,130,Rummenigge Sport ...
+526,38410,Daniel Caligiuri,"['Jan', '15', '1988']",182.0,Italy,Attack Right Winger,right,167.0,100,69,player has no goal conceded,player has no clean sheets,556,Caligiuri Sports
+527,627207,Ricardo Pepi,"['Jan', '9', '2003']",185.0,United States,Attack Centre Forward,right,202.0,40,8,player has no goal conceded,player has no clean sheets,119,SXI
+528,120205,Michael Gregoritsch,"['Apr', '18', '1994']",193.0,Austria,Attack Centre Forward,left,60.0,94,29,player has no goal conceded,player has no clean sheets,408,ROGON
+529,345468,Andi Zeqiri,"['Jun', '22', '1999']",185.0,Switzerland,Attack Centre Forward,left,26.0,81,19,player has no goal conceded,player has no clean sheets,244,Gold Kick SA
+530,152963,Florian Niederlechner,"['Oct', '24', '1990']",187.0,Germany,Attack Centre Forward,right,44.0,124,56,player has no goal conceded,player has no clean sheets,407,Haspel ...
+531,377387,Sergio Córdova,"['Aug', '9', '1997']",188.0,Venezuela,Attack Centre Forward,right,6321.0,21,6,player has no goal conceded,player has no clean sheets,169,JV SPORTS SL
+532,90024,Alfred Finnbogason,"['Feb', '1', '1989']",184.0,Iceland,Attack Centre Forward,right,369.0,157,46,player has no goal conceded,player has no clean sheets,343,Relatives
+533,405568,Maurice Malone,"['Aug', '17', '2000']",187.0,Germany,Attack Centre Forward,left,4441.0,85,32,player has no goal conceded,player has no clean sheets,188,ROOF
+534,85941,Stefan Ortega,"['Nov', '6', '1992']",185.0,Germany,Goalkeeper,right,281.0,1,keeper has no goal assisted,480,103,359,neblung ...
+535,68410,Stefanos Kapino,"['Mar', '18', '1994']",196.0,Greece,Goalkeeper,right,515.0,-,keeper has no goal assisted,138,44,133,feel soccer GmbH
+536,366974,Oscar Linnér,"['Feb', '23', '1997']",199.0,Sweden,Goalkeeper,right,1092.0,-,keeper has no goal assisted,148,56,140,
+537,606301,Arne Schulz,"['Mar', '23', '2003']",190.0,Germany,Goalkeeper,,10.0,-,keeper has no goal assisted,106,12,53,ROGON
+538,334221,Amos Pieper,"['Jan', '17', '1998']",192.0,Germany,Defender Centre Back,right,86.0,10,16,player has no goal conceded,player has no clean sheets,255,Sports360 GmbH
+539,216804,Joakim Nilsson,"['Feb', '6', '1994']",187.0,Sweden,Defender Centre Back,left,82686.0,18,6,player has no goal conceded,player has no clean sheets,243,ROOF
+540,340521,Guilherme Ramos,"['Aug', '11', '1997']",191.0,Portugal,Defender Centre Back,right,10.0,7,-,player has no goal conceded,player has no clean sheets,121,Proeleven S.A.
+541,403808,Andrés Andrade,"['Oct', '16', '1998']",187.0,Panama,Defender Centre Back,left,10.0,5,11,player has no goal conceded,player has no clean sheets,139,RELC SPORTS INC.
+542,187105,Mike van der Hoorn,"['Oct', '15', '1992']",190.0,Netherlands,Defender Centre Back,right,200.0,21,11,player has no goal conceded,player has no clean sheets,351,V4S
+543,285951,Nathan de Medina,"['Oct', '8', '1997']",183.0,Belgium,Defender Centre Back,right,23.0,4,2,player has no goal conceded,player has no clean sheets,132,Relatives
+544,596481,Kenson Pierre Bauer,"['Jul', '31', '2003']",185.0,Germany,Defender Centre Back,left,6604.0,1,-,player has no goal conceded,player has no clean sheets,74,
+545,504147,George Bello,"['Jan', '22', '2002']",170.0,United States,Defender Left Back,left,10.0,4,6,player has no goal conceded,player has no clean sheets,110,Wasserman
+546,309393,Lennart Czyborra,"['May', '3', '1999']",181.0,Germany,Defender Left Back,left,252.0,10,21,player has no goal conceded,player has no clean sheets,173,Teamgeist ...
+547,185164,Jacob Barrett Laursen,"['Nov', '17', '1994']",179.0,Denmark,Defender Left Back,left,3057.0,11,19,player has no goal conceded,player has no clean sheets,209,MB Sports
+548,147038,Cédric Brunner,"['Feb', '17', '1994']",180.0,Switzerland,Defender Right Back,right,33.0,14,14,player has no goal conceded,player has no clean sheets,335,ROOF
+549,152317,Manuel Prietl,"['Aug', '3', '1991']",187.0,Austria,midfield Defensive Midfield,right,10.0,20,14,player has no goal conceded,player has no clean sheets,472,YOU FIRST
+550,334186,Fabian Kunze,"['Jun', '14', '1998']",191.0,Germany,midfield Defensive Midfield,right,42.0,6,18,player has no goal conceded,player has no clean sheets,225,SPANIER ...
+551,606308,Julian Frommann,"['Apr', '11', '2003']",188.0,Germany,midfield Defensive Midfield,right,668.0,6,1,player has no goal conceded,player has no clean sheets,76,
+552,189073,Marcel Hartel,"['Jan', '19', '1996']",177.0,Germany,midfield Central Midfield,both,35.0,52,60,player has no goal conceded,player has no clean sheets,305,Dirk Hebel
+553,333516,Sebastian Vasiliadis,"['Oct', '4', '1997']",177.0,Greece,midfield Central Midfield,right,10.0,18,21,player has no goal conceded,player has no clean sheets,203,Guido Walter
+554,697144,Burak Ince,"['Jan', '20', '2004']",181.0,Turkey,midfield Central Midfield,left,10.0,12,3,player has no goal conceded,player has no clean sheets,80,GROW
+555,28947,Gonzalo Castro,"['Jun', '11', '1987']",172.0,Germany,midfield Central Midfield,right,,68,105,player has no goal conceded,player has no clean sheets,628,Sports360 GmbH
+556,118397,Alessandro Schöpf,"['Feb', '7', '1994']",178.0,Austria,midfield Right Midfield,right,6321.0,63,41,player has no goal conceded,player has no clean sheets,368,EMG Mundial
+557,307052,Masaya Okugawa,"['Apr', '14', '1996']",177.0,Japan,midfield Attacking Midfield,both,10.0,52,39,player has no goal conceded,player has no clean sheets,251,Yu Matoji
+558,606307,Vladislav Cherny,"['Jun', '21', '2003']",172.0,Germany,midfield Attacking Midfield,right,4955.0,4,2,player has no goal conceded,player has no clean sheets,78,ROGON U23
+559,815888,Cem-Ali Dogan,"['Jul', '19', '2004']",,Turkey,Attack,,4556.0,6,-,player has no goal conceded,player has no clean sheets,22,FG Sports GmbH
+560,284010,Robin Hack,"['Aug', '27', '1998']",176.0,Germany,Attack Left Winger,right,10.0,72,45,player has no goal conceded,player has no clean sheets,228,CN Sports
+561,533295,Patrick Wimmer,"['May', '30', '2001']",182.0,Austria,Attack Right Winger,,82.0,17,28,player has no goal conceded,player has no clean sheets,133,More than Sport GmbH
+562,275423,Christian Gebauer,"['Dec', '20', '1993']",187.0,Austria,Attack Right Winger,right,10.0,37,29,player has no goal conceded,player has no clean sheets,277,Future Sports ...
+563,317740,Florian Krüger,"['Feb', '13', '1999']",186.0,Germany,Attack Centre Forward,,202.0,99,53,player has no goal conceded,player has no clean sheets,240,feel soccer GmbH
+564,294534,Janni Serra,"['Mar', '13', '1998']",193.0,Germany,Attack Centre Forward,left,10.0,90,41,player has no goal conceded,player has no clean sheets,243,Headtrick GmbH & ...
+565,477109,Bryan Lasme,"['Nov', '14', '1998']",194.0,France,Attack Centre Forward,right,10.0,26,5,player has no goal conceded,player has no clean sheets,139,Hexagon
+566,78147,Fabian Klos,"['Dec', '2', '1987']",194.0,Germany,Attack Centre Forward,right,10.0,242,87,player has no goal conceded,player has no clean sheets,544,KL Sportsbase
+567,40792,Manuel Riemann,"['Sep', '9', '1988']",186.0,Germany,Goalkeeper,right,80.0,2,keeper has no goal assisted,658,163,512,ROOF
+568,61989,Michael Esser,"['Nov', '22', '1987']",198.0,Germany,Goalkeeper,right,80.0,-,keeper has no goal assisted,334,52,223,Robert Schneider
+569,553282,Tjark Ernst,"['Mar', '15', '2003']",193.0,Germany,Goalkeeper,both,44.0,-,keeper has no goal assisted,49,27,56,BMS Sportconsulting ...
+570,452192,Paul Grave,"['Apr', '10', '2001']",193.0,Germany,Goalkeeper,right,80.0,-,keeper has no goal assisted,87,29,74,FG Sports GmbH
+571,467563,Armel Bella-Kotchap,"['Dec', '11', '2001']",190.0,Germany,Defender Centre Back,right,180.0,3,3,player has no goal conceded,player has no clean sheets,150,Relatives
+572,334207,Maxim Leitsch,"['May', '18', '1998']",189.0,Germany,Defender Centre Back,left,39.0,4,4,player has no goal conceded,player has no clean sheets,156,Sports360 GmbH
+573,343959,Erhan Masovic,"['Nov', '22', '1998']",189.0,Serbia,Defender Centre Back,both,80.0,5,-,player has no goal conceded,player has no clean sheets,153,Relatives
+574,63489,Vasilios Lampropoulos,"['Mar', '31', '1990']",185.0,Greece,Defender Centre Back,right,80.0,12,3,player has no goal conceded,player has no clean sheets,318,WoS
+575,154578,Saulo Decarli,"['Feb', '4', '1992']",188.0,Switzerland,Defender Centre Back,right,23.0,11,3,player has no goal conceded,player has no clean sheets,264,Relatives
+576,154396,Danilo Soares,"['Oct', '29', '1991']",170.0,Brazil,Defender Left Back,left,80.0,6,24,player has no goal conceded,player has no clean sheets,338,TDL Sports ...
+577,148967,Konstantinos Stafylidis,"['Dec', '2', '1993']",178.0,Greece,Defender Left Back,left,80.0,9,12,player has no goal conceded,player has no clean sheets,215,ROGON
+578,452222,Moritz Römling,"['Apr', '30', '2001']",186.0,Germany,Defender Left Back,left,56.0,9,5,player has no goal conceded,player has no clean sheets,116,FG Sports GmbH
+579,186477,Herbert Bockhorn,"['Jan', '31', '1995']",176.0,Germany,Defender Right Back,right,187.0,23,22,player has no goal conceded,player has no clean sheets,236,ROOF
+580,121686,Cristian Gamboa,"['Oct', '24', '1989']",175.0,Costa Rica,Defender Right Back,right,80.0,3,11,player has no goal conceded,player has no clean sheets,288,Wasserman
+581,111266,Anthony Losilla,"['Mar', '10', '1986']",185.0,France,midfield Defensive Midfield,right,80.0,37,25,player has no goal conceded,player has no clean sheets,597,Soccertalk GmbH
+582,280575,Elvis Rexhbecaj,"['Nov', '1', '1997']",182.0,Germany,midfield Central Midfield,left,167.0,26,22,player has no goal conceded,player has no clean sheets,247,Soccertalk GmbH
+583,260655,Eduard Löwen,"['Jan', '28', '1997']",188.0,Germany,midfield Central Midfield,right,82686.0,20,23,player has no goal conceded,player has no clean sheets,227,Soccer and more
+584,443331,Patrick Osterhage,"['Feb', '1', '2000']",186.0,Germany,midfield Central Midfield,left,80.0,6,13,player has no goal conceded,player has no clean sheets,109,H.S.P. ...
+585,41458,Robert Tesche,"['May', '27', '1987', 'Happy', 'Birthday']",182.0,Germany,midfield Central Midfield,right,81.0,59,26,player has no goal conceded,player has no clean sheets,489,
+586,199633,Raman Chibsah,"['Mar', '10', '1993']",177.0,Ghana,midfield Central Midfield,right,553.0,14,9,player has no goal conceded,player has no clean sheets,281,Keyscout Football
+587,232144,Milos Pantovic,"['Jul', '7', '1996']",186.0,Serbia,midfield Attacking Midfield,right,89.0,70,48,player has no goal conceded,player has no clean sheets,276,ROOF
+588,93837,Tom Weilandt,"['Apr', '27', '1992']",186.0,Germany,midfield Attacking Midfield,right,48991.0,65,49,player has no goal conceded,player has no clean sheets,359,EMG Mundial
+589,190289,Gerrit Holtmann,"['Mar', '25', '1995']",185.0,Philippines,Attack Left Winger,left,80.0,41,31,player has no goal conceded,player has no clean sheets,248,Relatives
+590,289182,Christopher Antwi-Adjei,"['Feb', '7', '1994']",174.0,Ghana,Attack Left Winger,right,80.0,63,54,player has no goal conceded,player has no clean sheets,330,Kay Sports ...
+591,41541,Danny Blum,"['Jan', '7', '1991']",184.0,Germany,Attack Left Winger,left,4.0,55,51,player has no goal conceded,player has no clean sheets,342,MK Sport Consulting
+592,245744,Takuma Asano,"['Nov', '10', '1994']",173.0,Japan,Attack Right Winger,right,80.0,71,42,player has no goal conceded,player has no clean sheets,293,JEB ENTERTAINMENT ...
+593,283140,Tarsis Bonga,"['Jan', '10', '1997']",197.0,Germany,Attack Right Winger,right,23.0,27,14,player has no goal conceded,player has no clean sheets,212,Clever Sports GmbH
+594,60957,Sebastian Polter,"['Apr', '1', '1991']",192.0,Germany,Attack Centre Forward,right,33.0,142,48,player has no goal conceded,player has no clean sheets,422,PRO Profil GmbH
+595,166240,Jürgen Locadia,"['Nov', '7', '1993']",193.0,Curacao,Attack Centre Forward,right,35272.0,117,49,player has no goal conceded,player has no clean sheets,330,Archana Mahabiersing
+596,79967,Simon Zoller,"['Jun', '26', '1991']",179.0,Germany,Attack Centre Forward,right,80.0,119,46,player has no goal conceded,player has no clean sheets,379,GoalSky
+597,312819,Silvère Ganvoula,"['Jun', '29', '1996']",191.0,Congo,Attack Centre Forward,right,80.0,41,14,player has no goal conceded,player has no clean sheets,193,BY Sport Consulting
+598,148824,Soma Novothny,"['Jun', '16', '1994']",185.0,Hungary,Attack Centre Forward,right,5378.0,106,23,player has no goal conceded,player has no clean sheets,356,Stars & Friends
+599,571140,Luis Hartwig,"['Nov', '23', '2002']",180.0,Germany,Attack Centre Forward,,2662.0,45,7,player has no goal conceded,player has no clean sheets,86,CN Sports
+600,199221,Andreas Linde,"['Jul', '24', '1993']",196.0,Sweden,Goalkeeper,right,65.0,-,keeper has no goal assisted,325,71,246,Solbakken / Player ...
+601,36898,Sascha Burchert,"['Oct', '30', '1989']",187.0,Germany,Goalkeeper,right,35.0,-,keeper has no goal assisted,404,74,293,SEG
+602,170517,Marius Funk,"['Jan', '1', '1996']",187.0,Germany,Goalkeeper,right,4795.0,-,keeper has no goal assisted,267,47,177,fair-sport GmbH
+603,291383,Leon Schaffran,"['Jul', '31', '1998']",186.0,Germany,Goalkeeper,right,65.0,-,keeper has no goal assisted,188,40,141,
+604,748061,Lasse Schulz,"['Mar', '29', '2003']",198.0,Finland,Goalkeeper,right,65.0,-,keeper has no goal assisted,81,9,41,
+605,388363,Maximilian Bauer,"['Feb', '9', '2000']",189.0,Germany,Defender Centre Back,right,167.0,11,1,player has no goal conceded,player has no clean sheets,167,Robert Schneider
+606,411287,Justin Hoogma,"['Jun', '11', '1998']",190.0,Netherlands,Defender Centre Back,left,1304.0,10,4,player has no goal conceded,player has no clean sheets,211,V4S
+607,93081,Nick Viergever,"['Aug', '3', '1989']",183.0,Netherlands,Defender Centre Back,left,200.0,22,20,player has no goal conceded,player has no clean sheets,470,Soccer Vision
+608,247661,Gideon Jung,"['Sep', '12', '1994']",189.0,Germany,Defender Centre Back,right,65.0,9,6,player has no goal conceded,player has no clean sheets,244,Wasserman
+609,536472,Abdourahmane Barry,"['Feb', '21', '2000']",185.0,France,Defender Centre Back,right,1416.0,2,2,player has no goal conceded,player has no clean sheets,65,Bernard Collignon
+610,690218,Oliver Fobassam,"['Apr', '6', '2003']",190.0,Germany,Defender Centre Back,right,65.0,7,3,player has no goal conceded,player has no clean sheets,78,EMG Mundial
+611,296378,Luca Itter,"['Jan', '5', '1999']",183.0,Germany,Defender Left Back,left,65.0,5,18,player has no goal conceded,player has no clean sheets,157,Clever Sports GmbH
+612,146258,Jetro Willems,"['Mar', '30', '1994']",177.0,Netherlands,Defender Left Back,left,202.0,16,46,player has no goal conceded,player has no clean sheets,333,
+613,196084,Marco Meyerhöfer,"['Nov', '18', '1995']",179.0,Germany,Defender Right Back,right,65.0,13,30,player has no goal conceded,player has no clean sheets,303,Sports eXcellence ...
+614,392131,Simon Asta,"['Jan', '25', '2001']",178.0,Germany,Defender Right Back,right,65.0,4,7,player has no goal conceded,player has no clean sheets,122,ROOF
+615,192300,Max Christiansen,"['Sep', '25', '1996']",185.0,Germany,midfield Defensive Midfield,right,65.0,15,12,player has no goal conceded,player has no clean sheets,262,Soccertalk GmbH
+616,379979,Adrian Fein,"['Mar', '18', '1999']",187.0,Germany,midfield Defensive Midfield,both,798.0,15,33,player has no goal conceded,player has no clean sheets,185,Sports360 GmbH
+617,451340,Nunoo Sarpei,"['Aug', '22', '1998']",178.0,Ghana,midfield Defensive Midfield,right,4795.0,2,2,player has no goal conceded,player has no clean sheets,126,M-Soccermanagement
+618,183780,Paul Seguin,"['Mar', '29', '1995']",185.0,Germany,midfield Central Midfield,right,89.0,39,26,player has no goal conceded,player has no clean sheets,309,think forward
+619,310662,Timothy Tillman,"['Jan', '4', '1999']",183.0,United States,midfield Central Midfield,right,51828.0,26,38,player has no goal conceded,player has no clean sheets,207,ROOF
+620,161204,Julian Green,"['Jun', '6', '1995']",173.0,United States,midfield Central Midfield,right,65.0,83,29,player has no goal conceded,player has no clean sheets,291,acta7
+621,279064,Nils Seufert,"['Feb', '3', '1997']",182.0,Germany,midfield Central Midfield,both,65.0,13,15,player has no goal conceded,player has no clean sheets,181,CAA Stellar
+622,147359,Jeremy Dudziak,"['Aug', '28', '1995']",176.0,Germany,midfield Attacking Midfield,left,7775.0,31,30,player has no goal conceded,player has no clean sheets,293,100and10 ...
+623,658293,Mert Yusuf Torlak,"['Jul', '18', '2002']",173.0,Turkey,midfield Attacking Midfield,right,11282.0,5,6,player has no goal conceded,player has no clean sheets,42,1K Sportmanagement
+624,518505,Jamie Leweling,"['Feb', '26', '2001']",184.0,Germany,Attack Second Striker,both,89.0,11,7,player has no goal conceded,player has no clean sheets,114,Sports eXcellence ...
+625,171209,Branimir Hrgota,"['Jan', '12', '1993']",185.0,Sweden,Attack Centre Forward,left,65.0,102,37,player has no goal conceded,player has no clean sheets,309,GOOLD Soccer Agency
+626,448177,Jessic Ngankam,"['Jul', '20', '2000']",184.0,Germany,Attack Centre Forward,right,44.0,67,23,player has no goal conceded,player has no clean sheets,152,Sports360 GmbH
+627,243856,Cedric Itten,"['Dec', '27', '1996']",189.0,Switzerland,Attack Centre Forward,right,452.0,133,41,player has no goal conceded,player has no clean sheets,323,IFM
+628,410649,Afimico Pululu,"['Mar', '23', '1999']",175.0,Angola,Attack Centre Forward,left,65.0,54,19,player has no goal conceded,player has no clean sheets,219,LITCHI AG
+629,136181,Havard Nielsen,"['Jul', '15', '1993']",187.0,Norway,Attack Centre Forward,right,42.0,62,35,player has no goal conceded,player has no clean sheets,340,Caligiuri Sports
+630,596813,Dickson Abiama,"['Nov', '3', '1998']",184.0,Nigeria,Attack Centre Forward,right,65.0,32,8,player has no goal conceded,player has no clean sheets,118,JFSM
+631,334998,Robin Kehr,"['Feb', '22', '2000']",189.0,Germany,Attack Centre Forward,left,65.0,28,19,player has no goal conceded,player has no clean sheets,82,Wasserman
