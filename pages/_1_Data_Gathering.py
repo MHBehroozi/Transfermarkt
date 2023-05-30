@@ -187,17 +187,17 @@ for country, url in country_url.items():
             income_arrival=income_td.find('td',attrs={'class':'zentriert test-class transfer-record__text'}).text
             income_arrivals.append(income_arrival)
 
-            income=income_td.find('td',attrs={'class':'transfer-record__total transfer-record__total--positive'}).text.split('\n')[1].rstrip().lstrip()
+            income=income_td.find('td',attrs={'class':'transfer-record__total transfer-record__total--positive'}).text.split('\\n')[1].rstrip().lstrip()
             incomes.append(income) 
 
             expend_td=transfer_record_box.find('table').find('tbody').find('tr',attrs={'class':'transfer-record__expenses'})
             expend_arrival=expend_td.find('td',attrs={'class':'zentriert transfer-record__text'}).text 
             expend_arrivals.append(expend_arrival)
 
-            expend=expend_td.find('td',attrs={'class':'transfer-record__total transfer-record__total--negative'}).text.split('\n')[1]
+            expend=expend_td.find('td',attrs={'class':'transfer-record__total transfer-record__total--negative'}).text.split('\\n')[1]
             expends.append(expend)
             try:
-                overall_td=transfer_record_box.find('table').find('tfoot').find('tr').find('td',attrs={'class':'redtext rechts transfer-record__total'}).text.replace('\n','')
+                overall_td=transfer_record_box.find('table').find('tfoot').find('tr').find('td',attrs={'class':'redtext rechts transfer-record__total'}).text.replace('\\n','')
             except:
                 try:
                     overall_td=transfer_record_box.find('table').find('tfoot').find('tr').find('td',attrs={'greentext rechts transfer-record__total'}).text.rstrip().lstrip()
