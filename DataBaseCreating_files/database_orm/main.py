@@ -4,8 +4,8 @@ from utils import *
 import pandas as pd
 import os
 
-
-engine = get_engine(db='quera_project1')
+db='quera_project1'
+engine = get_engine(db=db)
 
 
 dirname = os.path.dirname(__file__)
@@ -18,6 +18,7 @@ df_stadium = pd.read_csv( os.path.join(dirname, "../preprocessing/final csv/Stad
 df_player = pd.read_csv( os.path.join(dirname, "../preprocessing/final csv/palyers.csv"))
 df_player_stats= pd.read_csv( os.path.join(dirname, "../preprocessing/final csv/palyers_statistic.csv"))
 df_player_transfers= pd.read_csv( os.path.join(dirname, "../preprocessing/final csv/transfer_players.csv"))
+df_players_completed= pd.read_csv( os.path.join(dirname, "../preprocessing/final csv/players_completed.csv"))
 
 with engine.connect() as connection :
  
@@ -133,4 +134,20 @@ with engine.connect() as connection :
     connection.commit()
     print('player transfer inserted to database')
 
+    #update player data by update function or to_sql
+    # for index, row in df_players_completed.iterrows():
+    #     print(index)
+    #     complete_player_data(db=db,
+    #             player_id = row['player_id'],
+    #             birth_date = row['birth_date'],
+    #             height = row['height'],
+    #             main_position = row['main_position'],
+    #             agent = row['agent'],
+    #             name = row['name'],
+    #             foot = row['foot'],
+    #     )
 
+    df_players_completed.to_sql(name='player', con=connection, schema='quera_project1', if_exists='replace',\
+            index=False, method='multi', chunksize=12)
+            
+    connection.close()
