@@ -51,7 +51,6 @@ with engine.connect() as connection :
     'League name':'league_name',
     'Total market value':'total_market_value'
     }, inplace=True)
-
     df_club_stats.to_sql(name='club_stats', con=connection, schema='quera_project1', if_exists='append',\
                 index=False, method='multi', chunksize=12)
     connection.commit()
@@ -117,6 +116,9 @@ with engine.connect() as connection :
     }, inplace=True)
 
     df_player_stats =df_player_stats.drop_duplicates(subset=['club_id', 'player_id', 'season', 'competition'])
+    df_player_stats = df_player_stats[df_player_stats.competition.isin(['Premier League', 'Bundesliga', 'Serie A', 'Ligue 1', 'LaLiga'])]
+    df_player_stats.dropna(subset=['club_id'], inplace=True)
+
     df_player_stats.to_sql(name='player_statistics', con=connection, schema='quera_project1', if_exists='append',\
                 index=False, method='multi', chunksize=12)
     connection.commit()

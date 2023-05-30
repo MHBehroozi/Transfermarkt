@@ -37,7 +37,7 @@ class Club_stats(Base):
 
     # declare columns
     id = Column(Integer, primary_key=True, autoincrement=True)
-    club_id = Column(Integer)
+    club_id = Column(Integer, ForeignKey(Club.id))
     season = Column(Integer)
     income = Column(Float(precision='30,2'))
     expend = Column(Float(precision='30,2'))
@@ -47,6 +47,8 @@ class Club_stats(Base):
     league_name = Column(String(50))
     player_avg_age = Column(String(30))
     total_market_value= Column(Float(precision='30,2'))
+
+    club = relationship('Club', foreign_keys='Club.id')
 
     def __repr__(self) -> str:
         return f"Club_stats(club_id= \n{self.id}  \n season= {self.season}) \n income= {self.income})\n expend= {self.expend})\n overall_balance= {self.overall_balance})\n arrivals= {self.arrivals})\n departures= {self.departures})\n league_name= {self.league_name} \n player_avg_age= {self.player_avg_age}\n total_market_value= {self.total_market_value})"
@@ -70,12 +72,15 @@ class Award_winners(Base):
 
     # declare columns
     award_id = Column(String(60))
-    club_id = Column(Integer)
+    club_id = Column(Integer,ForeignKey(Club.id))
     win_year = Column(Integer)
 
     __table_args__ = (
             PrimaryKeyConstraint(club_id, award_id, win_year),
         )
+
+    club = relationship('Club', foreign_keys='Club.id')
+
     def __repr__(self) -> str:
         return f"Award_winners(award_id= \n{self.award_id} \n cup_id= {self.cup_id}\n win_year= {self.win_year} )"
 
@@ -85,7 +90,7 @@ class Coach(Base):
     __tablename__ = "coach"
 
     # declare columns
-    club_id = Column(Integer)
+    club_id = Column(Integer, ForeignKey(Club.id))
     coach_name = Column(String(60))
     appointed_date = Column(Date)
 
@@ -95,6 +100,8 @@ class Coach(Base):
             PrimaryKeyConstraint(club_id, coach_name, appointed_date),
         )
 
+    club = relationship('Club', foreign_keys='Club.id')
+
     def __repr__(self) -> str:
         return f"Coach( club_id= {self.club_id}\n coach_name= {self.coach_name}\n appointed_date= {self.appointed_date} )"
 
@@ -102,13 +109,14 @@ class Stadium(Base):
     __tablename__ = "stadium"
 
     # declare columns
-    club_id = Column(Integer)
+    club_id = Column(Integer, ForeignKey(Club.id))
     stadium_name = Column(String(60))
 
     __table_args__ = (
             PrimaryKeyConstraint(club_id, stadium_name),
         )
     # club_id = relationship('Club', foreign_keys='club.id')
+    club = relationship('Club', foreign_keys='Club.id')
 
     def __repr__(self) -> str:
         return f"Coach( club_id= {self.club_id}\n coach_name= {self.coach_name}\n appointed_date= {self.appointed_date} )"
@@ -135,8 +143,8 @@ class Player_statistics(Base):
     #player_id,season,Competition,club full name,Squad,Appearances,PPG,Goals,Own goals,Substitutions on,Substitutions off,Yellow cards,
     # Second yellow cards,Red cards,Goals conceded,
     # Clean sheets,Minutes played,Assists,Penalty goals,Minutes per goal,club_id,club name,market_value
-    player_id = Column(Integer)
-    club_id = Column(Integer)
+    player_id = Column(Integer, ForeignKey(Player.id))
+    club_id = Column(Integer, ForeignKey(Club.id))
     season = Column(Integer)
     competition = Column(String(60))
     club_full_name = Column(String(50))
@@ -160,8 +168,11 @@ class Player_statistics(Base):
     market_value = Column(Float(precision='30,2'))
 
     __table_args__ = (
-            PrimaryKeyConstraint(club_full_name, player_id, season, competition),
+            PrimaryKeyConstraint(club_id, player_id, season, competition),
         )
+
+    club = relationship('Club', foreign_keys='Club.id')
+    player = relationship('Player', foreign_keys='Player.id')
 
     def __repr__(self) -> str:
         return f"Player_statistics( player_id= {self.player_id}\n club_id= {self.club_id}\n season= {self.season} \n competition= {self.competition} \n squad= {self.squad} \n appearances= {self.appearances} \n PPG= {self.PPG} \n goals= {self.goals} \n own_goals= {self.own_goals} \n substitutions_on= {self.substitutions_on}\n substitutions_off= {self.substitutions_off}\n yellow_cards= {self.yellow_cards} \n second_yellow_cards= {self.second_yellow_cards} \n red_cards= {self.red_cards} \n goals_conceded= {self.goals_conceded} \n clean_sheets= {self.clean_sheets} \n minutes_played= {self.minutes_played} \n assists= {self.assists} \n penalty_goals= {self.penalty_goals} \n minutes_per_goal= {self.minutes_per_goal} \n market_value= {self.market_value} )"
@@ -173,7 +184,7 @@ class Player_transfers(Base):
     # declare columns
     # player_id,MV,Transfer_Fee,left,joined,Date,season,Loan_Fee,transfer/loan
     id = Column(Integer, primary_key=True, autoincrement=True)
-    player_id = Column(Integer)
+    player_id = Column(Integer, ForeignKey(Player.id))
     MV = Column(Integer)
     transfer_Fee = Column(Float(precision='15,2'))
     left = Column(Integer())
@@ -183,6 +194,7 @@ class Player_transfers(Base):
     loan_fee = Column(Float(2))
     transfer_loan = Column(Integer)
     
+    player = relationship('Player', foreign_keys='Player.id')
    
     def __repr__(self) -> str:
         return f"Player_transfers( player_id= {self.player_id}\n MV= {self.MV}\n transfer_Fee= {self.transfer_Fee} \n left= {self.left} \n joined= {self.joined} \n date= {self.date} \n season= {self.season} \n loan_fee= {self.loan_fee} \n transfer_loan= {self.transfer_loan}  )"
