@@ -70,4 +70,18 @@ st.table(part6_table.rename(columns={'Unnamed: 0':'distribution'}))
 image = Image.open(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\statistical_analysis\Descriptive Statistics\exported_data\part6_diagram.png')
 st.image(image)
 
+"---------"
+
+st.header('Expert request')
+"One of the experts wants to know how accurate the transfermarkt site is in estimating the players' prices. Also, recently there has been a problem in the football industry where players are traded for much more than their real value. For this reason, in this section you are asked to compare the distribution of estimated market values of players sold per season, and the actual market value of transfers per season (omitting free transfers)."
+'You can check Jupyter notebook for this part in this [link](https://github.com/MHBehoozi/Transfermarkt/tree/master/statistical_analysis/ExperRequest)'
+
+'In the following, you can see normal probability distribution for both real and estimated market value. The difference between the two values is very small compared to the range of changes.'
+image = Image.open(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\statistical_analysis\ExperRequest\exported_data\fig_all.png')
+st.image(image)
+
+'In the following, you can see normal probability distribution for both real and estimated market value in each seasons.'
+image = Image.open(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\statistical_analysis\ExperRequest\exported_data\fig_merged.png')
+st.image(image)
+
 
