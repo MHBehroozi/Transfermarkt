@@ -57,7 +57,7 @@ st.image(image)
 # 'After removing the outlier data, bar chart of total goals scored has been drawn for each league'
 
 st.subheader('Question 5: Distribution of goals scored in each leagues in season 2021/22')
-'After removing the outlier data, the common statistical probability distributions were checked on total goals scored. Python Fitter library has been used for this purpose'
+'You can see total goals in each league in season 2021/22 in the following:'
 
 image = Image.open(r'.\statistical_analysis\Descriptive Statistics\exported_data\part5_diagram.png')
 st.image(image)
