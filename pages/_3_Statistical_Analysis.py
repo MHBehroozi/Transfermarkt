@@ -240,4 +240,128 @@ table = pd.read_csv(r".\statistical_analysis\Statistical_Coach'sRequest\exported
 st.dataframe(table)
 
 
+"---------"
 
+st.header('hypothesis-1 Test')
+'In this section, first we need a metric to give each player a performance score. for this section we use following code which is very similar to the metric in section Coach Request.'
+'You can see code for this section using this [link](https://github.com/MHBehoozi/Transfermarkt/tree/master/statistical_analysis/hypothesis1)'
+
+st.code("""
+metric_score=[]
+for index,record in df.iterrows():
+    if record['position_group'] == 'Attack':
+        Appearances = record['Appearances']
+        goal = record['Goals']
+        Assist= record['Assists']
+        ppg = record['PPG'] # teammate_score
+        forward_metric=(3*goal+Assist)/Appearances + ppg 
+        Minutes= record['Minutes played']
+        if Minutes >= 100:
+            increment = Minutes // 100 # experience_score
+            forward_metric += increment+1
+        metric_score.append(forward_metric)
+
+    elif record['position_group'] =='Goalkeeper':
+        clean_sheet= record['player_clean_sheet']
+        goal_coneded= record['Goals conceded']
+        own_goal = record['Own goals']
+        Appearances = record['Appearances']
+        ppg = record['PPG'] # teammate_score
+        Goalkeeper_metric= (3*clean_sheet - goal_coneded - 2*own_goal)/Appearances + ppg
+        Minutes= record['Minutes played']
+        if Minutes >= 100:
+            increment = Minutes // 100 # experience_score
+            Goalkeeper_metric += increment+1
+        metric_score.append(Goalkeeper_metric)
+
+
+    elif record['position_group'] == 'Defender':
+        team_cleansheet = record['club_clean_sheet']   
+        red_card=int(record['Red cards'])
+        Minutes= record['Minutes played']
+        own_goal = record['Own goals']
+        Appearances = record['Appearances']
+        ppg = record['PPG'] # teammate_score
+        Defender_metric=(2*team_cleansheet-red_card -own_goal)/Appearances + ppg
+        if Minutes >= 100:
+            increment = Minutes // 100 # experience_score
+            Defender_metric += increment+1
+        metric_score.append(Defender_metric)
+
+    elif record['position_group'] == 'midfield':
+        goal= record['Goals']
+        red_card= record['Red cards']
+        Assist= record['Assists']
+        Appearances = record['Appearances']
+        ppg = record['PPG'] # teammate_score
+        midfield_metric=((goal+Assist)*3-red_card)/Appearances + ppg
+        Minutes= record['Minutes played']
+        if Minutes >= 100:
+            increment = Minutes // 100 # experience_score
+            midfield_metric += increment+1
+        metric_score.append(midfield_metric)    
+    else:
+         metric_score.append(0)   
+
+df['perf_score'] = metric_score
+""")
+
+'By normalizing performance score in each position, using following code, we will have boxplot diagram for performance score.'
+
+st.code("""
+df.loc[df[df.position_group == 'Attack'].index, 'perf_score'] = normalize(df[df.position_group == 'Attack'].perf_score)
+df.loc[df[df.position_group == 'Goalkeeper'].index, 'perf_score'] = normalize(df[df.position_group == 'Goalkeeper'].perf_score)
+df.loc[df[df.position_group == 'Defender'].index, 'perf_score'] = normalize(df[df.position_group == 'Defender'].perf_score)
+df.loc[df[df.position_group == 'midfield'].index, 'perf_score'] = normalize(df[df.position_group == 'midfield'].perf_score)
+""")
+
+image = Image.open(r".\statistical_analysis\hypothesis1\metric_after_normalization.png")
+st.image(image)
+
+'We distinguished each season if it is the first season that players have joind new club by following code:'
+
+st.code("""
+result = []
+for pid in new_df.player_id.unique().tolist():
+    seasons = new_df[new_df.player_id == pid].Season.tolist()
+    # print(pid)
+    for j, s in enumerate(seasons):
+        # print(j, s)
+        c_cid = new_df[(new_df.player_id == pid) & (new_df.Season == s)].club_id.values[0]
+        if j == 0:
+            p_cid = c_cid
+        else:
+            p_cid = new_df[(new_df.player_id == pid) & (new_df.Season == seasons[j-1])].club_id.values[0]
+        
+        if c_cid != p_cid:
+            result.append({'player_id':pid, 'seasons':seasons[j], 'club_id':c_cid, 'New_season':True})
+        else:
+            result.append({'player_id':pid, 'seasons':seasons[j], 'club_id':c_cid, 'New_season':False})
+
+status_df = pd.DataFrame(result)
+""")
+
+'Finally we split two groups based on players age an run tow-sample t-test. In the followin you can see the result:'
+image = Image.open(r".\statistical_analysis\hypothesis1\hypothesis1_result.png")
+st.image(image)
+
+'Also we ran this test for each position:'
+image = Image.open(r".\statistical_analysis\hypothesis1\hypothesis1_secondary_result.png")
+st.image(image)
+
+'**Discuss the results**'
+'''
+* According to the normal distribution diagram for the two groups, as well as the result of the t-test, there is no significant difference between the two groups.
+* However, a more detailed examination of the difference in performance, at least in the first season, shows that the performance of goalkeepers is related to age. It can be interpreted that a goalkeeper needs a lot of agility and increasing age can affect the goalkeeper's performance.
+* It was tried to be a metric for each position according to the goals of that group of positions. Therefore, it can be interpreted that in the case of most positions, age should not be considered in evaluating the performance of players at least in the first season
+'''
+
+"---------"
+
+st.header('hypothesis-2 Test')
+'In this section, we examine the hypothesis that the performance of teams in the European Champions League is better than other teams in the league.'
+'You can see code for this section using this [link](https://github.com/MHBehoozi/Transfermarkt/tree/master/statistical_analysis/hypothesis2)'
+
+"We used two metrics for the performance of the clubs. The first is the season's points and the second is the number of clean sheets in the season. In the following, you can see the results of two-sample t-test for both metrics."
+image = Image.open(r".\statistical_analysis\hypothesis2\hypothesis2_result.png")
+st.image(image)
