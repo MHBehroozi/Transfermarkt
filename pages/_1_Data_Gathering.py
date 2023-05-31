@@ -230,7 +230,12 @@ df.to_csv('over_all_balance.csv', index=False)
 
 st.header('Players Data Crawling')
 """
-Players Data has Crawled using a main code block and functions for each detailed. in the following, you can see main code block and for checking all functions you can open this section [Jupyter Notebook](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/Player_crawl/Data_collection_of_soccer_players.ipynb). Also you can crawled CSVs in this [Link](https://github.com/MHBehoozi/Transfermarkt/tree/master/WebScraping_data/Player_crawl/player%20info%20csvs)
+Three tables have been crawled for players, including:
+* [Player Details](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/preprocessing/final%20csv/players_completed.csv)
+* [Player Transfers](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/preprocessing/final%20csv/transfer_players.csv)
+* [Player Statistics](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/preprocessing/final%20csv/palyers_statistic.csv)
+
+These Data has Crawled using a main code block and functions for each detailed. in the following, you can see main code block and for checking all functions you can open this section [Jupyter Notebook](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/Player_crawl/Data_collection_of_soccer_players.ipynb). Also you can see crawled CSVs in this [Link](https://github.com/MHBehoozi/Transfermarkt/tree/master/WebScraping_data/Player_crawl/player%20info%20csvs)
 """
 
 st.code("""
@@ -337,3 +342,18 @@ df_selection = df[(df.win_year_from >=2015) & (df.win_year_to<=2022)].reset_inde
 df_selection.to_csv('cup_winners_selected.csv', index=False)
 """,
     language="python")
+
+"---------"
+
+st.header('Additional Tables')
+"""
+In addition to mentioned data, we crawled other tables from [transfermarkt.com](transfermarkt.com). Although these tables are not directly in the database, you can see them listed in the following:
+1. [Each League Total Goals in Season 21/22](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/LeagueGoals/Season_goals.csv)
+2. [All Competitions and their Statistics in Season 21/22](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/Competitions_sesaion(21_22)/competitions.csv)
+3. [Events Description for Players](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/Player_crawl/description.csv)
+4. [Players Ages in each Season](https://github.com/MHBehoozi/Transfermarkt/blob/master/statistical_analysis/hypothesis1/data/AGE.csv)
+5. [Club Cleansheets in Season 21/22](https://github.com/MHBehoozi/Transfermarkt/blob/master/statistical_analysis/hypothesis2/team_claensheet_seasion(21-22).csv)
+6. [Players Market Value in each Season](https://github.com/MHBehoozi/Transfermarkt/blob/master/WebScraping_data/Player_crawl/players%20market_value/market_value_df.csv)
+7. [Corresponding Records of Full name, Short name and ID of each Club](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/preprocessing/club_ids101.csv)
+8. [Coach Table with Appointed Date](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/preprocessing/final%20csv/coach_df.csv)
+"""
