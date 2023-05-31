@@ -19,7 +19,7 @@ st.subheader('Awards and Cups')
 """
 In this section, `Cups_winners` between the seasons 2015/16 to 2021/22 was filtered and divided into two tables `Awards` and `Award_Winners`. In total, we have 29 records for Awards and 166 records for Award Winners.
 """
-cup_winners_selected = pd.read_csv('F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\WebScraping_data\Cup_crawl\cup_winners_selected.csv') 
+cup_winners_selected = pd.read_csv('.\WebScraping_data\Cup_crawl\cup_winners_selected.csv') 
 cup_name=cup_winners_selected['cup_name'].unique()
 awards_id=[]
 awards=[]
@@ -141,11 +141,11 @@ merged.to_csv('Clubs_stats.csv', index=False)
 """)
 
 '**Club table:**'
-Clubs_df = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\Club_table.csv')
+Clubs_df = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\Club_table.csv')
 st.dataframe(Clubs_df)
 
 '**Club_stats table:**'
-merged = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\Clubs_stats.csv')
+merged = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\Clubs_stats.csv')
 st.dataframe(merged)
 
 "---------"
@@ -168,7 +168,7 @@ coach_df.to_csv('coach_df.csv', index=False)
 """)
 
 '**coach table:**'
-coach_df = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\coach_df.csv')
+coach_df = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\coach_df.csv')
 st.dataframe(coach_df)
 
 "---------"
@@ -193,7 +193,7 @@ Stadium_table.drop(index,axis=0,inplace=True)
 Stadium_table.to_csv('Stadium_table.csv', index=False)
 """)
 '**Stadium table:**'
-Stadium_table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\Stadium_table.csv')
+Stadium_table = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\Stadium_table.csv')
 st.dataframe(Stadium_table)
 
 "---------"
@@ -295,15 +295,15 @@ merged.to_csv('transfer_players.csv',index=False)
 """)
 
 '**Players table:**'
-table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\palyers.csv').drop(columns=['Unnamed: 0'])
+table = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\palyers.csv').drop(columns=['Unnamed: 0'])
 st.dataframe(table)
 
 '**Player_statistics table:**'
-table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\palyers_statistic.csv')
+table = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\palyers_statistic.csv')
 st.dataframe(table)
 
 '**Player_transfers table:**'
-table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\transfer_players.csv')
+table = pd.read_csv(r'.\DataBaseCreating_files\preprocessing\final csv\transfer_players.csv')
 st.dataframe(table)
 
 
