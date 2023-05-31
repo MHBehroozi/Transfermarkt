@@ -87,6 +87,7 @@ st.image(image)
 "---------"
 st.header('Players Request')
 'To find the clubs that need strikers, we first calculated the defense and attack metrics of each club using the following code:'
+'You can check Jupyter notebook for this part in this [link](https://github.com/MHBehoozi/Transfermarkt/tree/master/statistical_analysis/PlayerRequest)'
 
 st.code("""
 pos_attack_metrics = [ "goals", "assists", ]
@@ -115,10 +116,10 @@ def defence_metric(row):
     return row['defence_metric']
 """)
 
-'Then we sort all the clubs based on the difference between these two metrics. Top 100 clubs with most difference between attack metric and deffencet metrik are listed in the following.'
+'Then we sort all the clubs based on the difference between these two metrics. Clubs with positive difference between attack metric and deffencet metrik are listed in the following.'
 
-# table = pd.read_csv('')
-# st.dataframe(table)
+table = pd.read_csv('.\statistical_analysis\PlayerRequest\player_request.csv').reset_index(drop=True)
+st.dataframe(table)
 
 
 "---------"
