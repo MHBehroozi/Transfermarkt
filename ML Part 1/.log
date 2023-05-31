@@ -1,0 +1,112 @@
+2023-05-31 02:26:54,141 [47805] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-05-31 02:27:22,636 [47805] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-05-31 02:27:37,074 [47805] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-05-31 03:09:47,629 [47805] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-31 03:09:47,629 [47805] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 26; new: 11
+2023-05-31 03:09:47,630 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:3] new[1:3]
+2023-05-31 03:09:47,630 [47805] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:3] new[1:3]
+2023-05-31 03:09:47,631 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[delete] old[4:4] new[4:3]
+2023-05-31 03:09:47,631 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[5:10] new[4:9]
+2023-05-31 03:09:47,633 [47805] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 4 to 11 (to 10 in part parser)
+2023-05-31 03:09:47,634 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[11:26] new[10:11]
+2023-05-31 03:09:47,634 [47805] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-31 03:09:47,847 [47805] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/base.py
+2023-05-31 03:20:44,748 [47805] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-31 03:20:44,748 [47805] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 11; new: 2
+2023-05-31 03:20:44,748 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:11] new[1:2]
+2023-05-31 03:20:44,749 [47805] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 2 (to 1 in part parser)
+2023-05-31 03:20:44,749 [47805] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-31 03:20:44,803 [47805] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/utils/__init__.py
+2023-05-31 03:20:44,978 [47805] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/masoud533/anaconda3/lib/python3.8/functools.py
+2023-05-31 03:20:44,998 [47805] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/masoud533/anaconda3/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/functools.pyi
+2023-05-31 03:37:15,197 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/compat.py:31: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:15,908 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:17,013 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:17,019 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:31,296 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:31,427 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:31,435 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:37,172 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:37,308 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:37,315 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:43,999 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:44,141 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 03:37:44,148 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:13:47,170 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:13:47,329 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:13:47,336 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:14:49,659 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:14:49,829 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:14:49,834 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:16:29,607 [47805] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-31 04:16:29,608 [47805] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 2; new: 15
+2023-05-31 04:16:29,608 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[1:2] new[1:15]
+2023-05-31 04:16:29,610 [47805] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 1 to 15 (to 14 in part parser)
+2023-05-31 04:16:29,610 [47805] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-31 04:16:44,935 [47805] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-31 04:16:44,936 [47805] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 15; new: 15
+2023-05-31 04:16:44,936 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:14] new[1:14]
+2023-05-31 04:16:44,938 [47805] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:14] new[1:14]
+2023-05-31 04:16:44,938 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[15:15] new[15:15]
+2023-05-31 04:16:44,940 [47805] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 15 to 15 (to 14 in part parser)
+2023-05-31 04:16:44,941 [47805] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-31 04:16:49,887 [47805] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2023-05-31 04:16:49,888 [47805] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 15; new: 15
+2023-05-31 04:16:49,888 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:14] new[1:14]
+2023-05-31 04:16:49,888 [47805] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:14] new[1:14]
+2023-05-31 04:16:49,888 [47805] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[15:15] new[15:15]
+2023-05-31 04:16:49,888 [47805] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 15 to 15 (to 14 in part parser)
+2023-05-31 04:16:49,889 [47805] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2023-05-31 04:17:23,214 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:17:23,383 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:17:23,391 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:20:46,910 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 04:21:48,128 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
