@@ -110,3 +110,33 @@
 2023-05-31 04:21:48,128 [47805] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
   from pandas import MultiIndex, Int64Index
 
+2023-05-31 08:12:47,646 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/base.py:432: UserWarning: X has feature names, but RandomForestRegressor was fitted without feature names
+  warnings.warn(
+
+2023-05-31 08:12:47,655 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/base.py:432: UserWarning: X has feature names, but RandomForestRegressor was fitted without feature names
+  warnings.warn(
+
+2023-05-31 08:12:48,884 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/base.py:432: UserWarning: X has feature names, but SVC was fitted without feature names
+  warnings.warn(
+
+2023-05-31 08:12:49,062 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/sklearn/base.py:432: UserWarning: X has feature names, but SVC was fitted without feature names
+  warnings.warn(
+
+2023-05-31 08:12:49,414 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/compat.py:31: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 08:12:49,598 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 08:13:25,722 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 08:14:33,477 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 08:14:33,638 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
+2023-05-31 08:14:33,651 [54655] WARNING  py.warnings:109: [JupyterRequire] /home/masoud533/anaconda3/lib/python3.8/site-packages/xgboost/data.py:192: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  from pandas import MultiIndex, Int64Index
+
