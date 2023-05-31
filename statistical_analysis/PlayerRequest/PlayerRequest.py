@@ -14,14 +14,15 @@
 
 # # import Libraries
 
+# +
 import numpy as np
 import pandas as pd
-# import matplotlib.pyplot as plt
-# from scipy import stats
+
 from sqlalchemy import create_engine
 from sqlalchemy import URL
 from sqlalchemy import text
 from urllib.parse import quote_plus
+# -
 
 # # create sql URL
 
@@ -68,14 +69,14 @@ df_final = pd.merge(df['club_full_name'], df_normalized, left_index=True, right_
 df_final.head()
 
 # +
-pos_attack_metrics = [ "goals", "assists", ]
-pos_attack_weight = [70, 30 ]
+pos_attack_metrics = [ "goals", "assists", "PPG"]
+pos_attack_weight = [ 70, 30,10 ]
 
 neg_attack_metrics = ["minutes_per_goal"]
 neg_attack_weight = [20]
 
-pos_defence_metrics = ["clean_sheets" ]
-pos_defence_weight = [20 ]
+pos_defence_metrics = [ "clean_sheets" ]
+pos_defence_weight = [ 50 ]
 neg_defence_metrics = ["own_goals", "yellow_cards", "second_yellow_cards", "red_cards", "goals_conceded"]
 neg_defence_weight = [10, 10, 10, 30, 40]
 
@@ -102,13 +103,15 @@ df_final.head(5)
 
 
 # +
-# df_final[['club_full_name', 'attack_metric', 'defence_metric']].sort_values(by=['attack_metric', 'defence_metric'],
-                            #  ascending=[False, True])
-df_final['diff'] =  df_final['attack_metric'] -  df_final['defence_metric']
+df_final[['club_full_name', 'attack_metric', 'defence_metric']].sort_values(by=['attack_metric', 'defence_metric'],
+                             ascending=[False, True])
+# df_final['defence_attack_diff'] =  df_final['attack_metric'] -  df_final['defence_metric']
 
-df_final[['club_full_name', 'diff']].sort_values(by=['diff'],
-                             ascending=[False])
+# df_final[['club_full_name', 'defence_attack_diff']].sort_values(by=['defence_attack_diff'],
+#                              ascending=[False])
 
 # -
+
+df_final[['club_full_name', 'defence_attack_diff']].to_csv('player_request.csv', index=False)
 
 # !jupytext --to py -o PlayerRequest.py PlayerRequest.ipynb
