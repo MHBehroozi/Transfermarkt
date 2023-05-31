@@ -295,7 +295,7 @@ merged.to_csv('transfer_players.csv',index=False)
 """)
 
 '**Players table:**'
-table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\palyers.csv')
+table = pd.read_csv(r'F:\Jupyter\Quera Data Science\BootCamp\Projects\Transfermarkt-1\DataBaseCreating_files\preprocessing\final csv\palyers.csv').drop(columns=['Unnamed: 0'])
 st.dataframe(table)
 
 '**Player_statistics table:**'
@@ -310,3 +310,31 @@ st.dataframe(table)
 "---------"
 
 st.header('Database Design')
+st.subheader('Database Diagram')
+"""
+In this project, a MySQL Database has used to store data. As we described in the preprocessing section, we have 9 tables in our Database:
+1. award_winners
+1. awards
+1. club
+1. club_stats
+1. coach
+1. player
+1. player_statistics
+1. player_transfers
+1. stadium
+"""
+
+"---------"
+st.subheader('ORM and Inserting Data into Database')
+"""
+For creating tables and inserting data into the database, after creating the schema, **ORM** has been used. For this purpose, three module has been defined:
+* [main.py](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/database_orm/main.py)
+* [core.py](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/database_orm/core.py)
+* [utils.py](https://github.com/MHBehoozi/Transfermarkt/blob/master/DataBaseCreating_files/database_orm/utils.py)
+
+`core.py` contains classes for each table that contain all the attributes and columns of that table. These classes will be used to create Database tables.
+
+By running `main.py`, this module will make a connection with Database, will use `core.py` module to create tables and will insert preprocessed data into tables.
+
+`utils.py` is the module that has functions for creating connection with Database and updating Data which `main.py` use them for it's purpose.
+"""
