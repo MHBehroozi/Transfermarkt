@@ -1,0 +1,328 @@
+,player_id,season,Age,Competition,Club,club_id,position_group,New_season,Squad,Appearances,club_clean_sheet,player_clean_sheet,Goals conceded,PPG,Assists,Penalty goals,market_value
+0,2857,2017,32,Premier League,Leicester City,1003,Goalkeeper,False,10,2,8,0,6,1.5,0,0,1000000.0
+3,16911,2021,34,Premier League,Leicester City,1003,Goalkeeper,False,38,37,7,7,58,1.32,0,0,4000000.0
+9,14044,2019,35,Premier League,Liverpool FC,31,Goalkeeper,False,2,0,17,0,0,0.0,0,0,250000.0
+15,340918,2020,21,Premier League,Liverpool FC,31,Goalkeeper,False,15,2,12,1,1,1.5,0,0,2500000.0
+17,71271,2021,34,Premier League,Liverpool FC,31,Goalkeeper,False,5,0,21,0,0,0.0,0,0,1000000.0
+19,340918,2021,22,Premier League,Liverpool FC,31,Goalkeeper,False,36,2,21,1,2,2.0,0,0,8000000.0
+21,30690,2017,30,Premier League,Manchester United,985,Goalkeeper,False,30,1,19,1,0,3.0,0,0,5000000.0
+24,33873,2019,32,Serie A,AC Milan,5,Goalkeeper,True,19,2,13,0,3,0.5,0,0,2400000.0
+26,55282,2020,34,Serie A,AC Milan,5,Goalkeeper,False,38,1,14,0,3,1.0,0,0,600000.0
+28,592924,2020,18,Serie A,AC Milan,5,Goalkeeper,False,2,0,14,0,0,0.0,0,0,150000.0
+29,22141,2021,37,Serie A,AC Milan,5,Goalkeeper,True,29,0,18,0,0,0.0,0,0,300000.0
+32,357991,2021,21,Serie A,AC Milan,5,Goalkeeper,False,2,0,18,0,0,0.0,0,0,800000.0
+34,592924,2021,19,Serie A,AC Milan,5,Goalkeeper,False,8,0,18,0,0,0.0,0,0,150000.0
+38,448632,2021,21,Ligue 1,Stade Reims,1421,Goalkeeper,False,31,0,11,0,0,0.0,0,0,500000.0
+39,6442,2018,35,Serie A,Torino FC,416,Goalkeeper,False,36,0,15,0,0,0.0,0,0,200000.0
+44,42744,2019,30,Serie A,Torino FC,416,Goalkeeper,False,35,1,7,0,3,0.0,0,0,200000.0
+45,463792,2019,18,Serie A,Torino FC,416,Goalkeeper,False,2,0,7,0,0,0.0,0,0,75000.0
+46,6442,2020,37,Serie A,Torino FC,416,Goalkeeper,False,20,0,8,0,0,0.0,0,0,100000.0
+47,6442,2020,37,Serie A,Torino FC,416,Goalkeeper,False,20,0,8,0,0,0.0,0,0,100000.0
+50,257474,2020,23,Serie A,Torino FC,416,Goalkeeper,False,32,5,8,1,6,1.6,0,0,800000.0
+51,6442,2020,37,Serie A,ACF Fiorentina,430,Goalkeeper,False,15,0,10,0,0,0.0,0,0,100000.0
+52,6442,2020,37,Serie A,ACF Fiorentina,430,Goalkeeper,False,15,0,10,0,0,0.0,0,0,100000.0
+53,96254,2020,30,Serie A,ACF Fiorentina,430,Goalkeeper,False,38,4,10,2,4,0.5,0,0,800000.0
+55,6442,2021,38,Serie A,ACF Fiorentina,430,Goalkeeper,True,28,0,12,0,0,0.0,0,0,100000.0
+56,96254,2021,31,Serie A,ACF Fiorentina,430,Goalkeeper,False,37,32,12,9,43,1.66,0,0,1500000.0
+63,323255,2018,19,Serie A,US Sassuolo,6574,Goalkeeper,True,17,0,13,0,0,0.0,0,0,150000.0
+64,21872,2019,38,Serie A,US Sassuolo,6574,Goalkeeper,False,32,5,7,2,4,1.6,0,0,150000.0
+66,21872,2020,39,Serie A,US Sassuolo,6574,Goalkeeper,False,35,1,8,1,0,1.0,0,0,100000.0
+71,323255,2021,22,Serie A,US Sassuolo,6574,Goalkeeper,False,29,1,4,1,0,0.0,0,0,200000.0
+72,502475,2021,18,Serie A,US Sassuolo,6574,Goalkeeper,False,4,0,4,0,0,0.0,0,0,100000.0
+74,31653,2017,29,Bundesliga,Borussia Mönchengladbach,18,Goalkeeper,False,34,5,8,1,10,0.6,0,0,750000.0
+76,31653,2018,30,Bundesliga,Borussia Mönchengladbach,18,Goalkeeper,False,34,0,13,0,0,0.0,0,0,750000.0
+78,31653,2019,31,Bundesliga,Borussia Mönchengladbach,18,Goalkeeper,False,29,0,7,0,0,0.0,0,0,400000.0
+80,31653,2020,32,Bundesliga,Borussia Mönchengladbach,18,Goalkeeper,False,34,4,8,1,6,1.25,0,0,400000.0
+82,31653,2021,33,Bundesliga,Borussia Mönchengladbach,18,Goalkeeper,False,34,1,5,0,1,1.0,0,0,400000.0
+84,7825,2017,34,Serie A,SSC Napoli,6195,Goalkeeper,False,38,37,19,18,29,2.43,0,0,1000000.0
+88,357991,2018,18,Serie A,AC Milan,5,Goalkeeper,False,7,0,14,0,0,0.0,0,0,2500000.0
+92,7825,2020,37,Serie A,SS Lazio,398,Goalkeeper,True,38,29,12,9,41,1.97,0,0,800000.0
+94,538079,2020,18,Serie A,SS Lazio,398,Goalkeeper,False,8,0,12,0,0,0.0,0,0,75000.0
+95,7825,2021,38,Serie A,SS Lazio,398,Goalkeeper,False,38,15,9,2,29,1.47,0,0,700000.0
+98,538079,2021,19,Serie A,SS Lazio,398,Goalkeeper,False,1,0,9,0,0,0.0,0,0,50000.0
+100,75411,2018,28,Serie A,Juventus FC,506,Goalkeeper,False,38,1,16,0,2,0.0,0,0,500000.0
+103,75411,2019,29,Serie A,Juventus FC,506,Goalkeeper,False,38,1,12,1,0,0.0,0,0,400000.0
+104,110923,2019,26,Serie A,Juventus FC,506,Goalkeeper,False,2,0,12,0,0,0.0,0,0,8000000.0
+105,110923,2019,26,Serie A,Juventus FC,506,Goalkeeper,False,2,0,12,0,0,0.0,0,0,8000000.0
+107,75411,2020,30,Serie A,Juventus FC,506,Goalkeeper,False,37,1,6,0,1,3.0,0,0,400000.0
+110,75411,2021,31,Serie A,Juventus FC,506,Goalkeeper,False,36,1,13,0,1,0.0,0,0,400000.0
+111,110923,2021,28,Serie A,Juventus FC,506,Goalkeeper,False,37,5,13,1,7,1.4,0,0,4000000.0
+113,494301,2021,19,Serie A,Juventus FC,506,Goalkeeper,False,1,0,13,0,0,0.0,0,0,50000.0
+116,59377,2021,30,Premier League,Manchester United,985,Goalkeeper,False,38,38,8,8,57,1.53,0,0,15000000.0
+120,61989,2019,31,Bundesliga,TSG 1899 Hoffenheim,533,Goalkeeper,False,4,0,8,0,0,0.0,0,0,400000.0
+121,8246,2020,35,Bundesliga,TSG 1899 Hoffenheim,533,Goalkeeper,False,33,3,6,0,3,1.67,0,0,300000.0
+125,8246,2021,36,Bundesliga,TSG 1899 Hoffenheim,533,Goalkeeper,False,17,1,8,0,3,3.0,0,0,300000.0
+128,19948,2017,35,Premier League,Chelsea FC,631,Goalkeeper,True,38,3,16,1,4,1.33,0,0,1000000.0
+130,19948,2018,36,Premier League,Chelsea FC,631,Goalkeeper,False,38,2,16,2,0,2.0,0,0,1000000.0
+135,346546,2020,20,Ligue 1,AS Monaco,162,Goalkeeper,False,28,1,15,0,1,3.0,0,0,4000000.0
+138,346546,2021,21,Ligue 1,AS Monaco,162,Goalkeeper,False,22,0,11,0,0,0.0,0,0,3000000.0
+139,12359,2017,32,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,5,0,10,0,0,0.0,0,0,250000.0
+140,33027,2017,29,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,33,0,10,0,0,0.0,0,0,2500000.0
+142,13460,2018,35,Premier League,Manchester United,985,Goalkeeper,False,9,0,7,0,0,0.0,0,0,750000.0
+143,30690,2018,31,Premier League,Manchester United,985,Goalkeeper,False,29,0,7,0,0,0.0,0,0,3500000.0
+146,30690,2019,32,Premier League,Manchester United,985,Goalkeeper,False,35,0,13,0,0,0.0,0,0,2800000.0
+148,13460,2020,37,Premier League,Manchester United,985,Goalkeeper,False,6,0,14,0,0,0.0,0,0,250000.0
+149,59377,2020,29,Premier League,Manchester United,985,Goalkeeper,False,33,26,14,9,32,1.73,0,0,18000000.0
+152,33873,2021,34,Premier League,Everton FC,29,Goalkeeper,True,38,3,8,1,8,1.0,0,0,1000000.0
+155,27807,2019,33,Serie A,Inter Milan,46,Goalkeeper,False,37,3,14,1,4,2.0,0,0,650000.0
+157,27807,2020,34,Serie A,Inter Milan,46,Goalkeeper,False,32,1,16,0,1,3.0,0,0,400000.0
+158,28021,2020,35,Serie A,Inter Milan,46,Goalkeeper,False,38,37,16,15,33,2.38,0,0,2500000.0
+160,75458,2021,31,Premier League,Aston Villa,405,Goalkeeper,True,18,1,11,0,3,0.0,0,0,2000000.0
+163,484838,2021,19,Premier League,Aston Villa,405,Goalkeeper,False,2,0,11,0,0,0.0,0,0,200000.0
+165,101118,2017,27,Premier League,Everton FC,29,Goalkeeper,False,30,0,10,0,0,0.0,0,0,3500000.0
+167,14555,2019,33,Premier League,Manchester City,281,Goalkeeper,False,10,0,18,0,0,0.0,0,0,800000.0
+171,221624,2020,25,Premier League,Manchester City,281,Goalkeeper,False,35,1,19,0,1,3.0,0,0,6000000.0
+174,221624,2021,26,Premier League,Manchester City,281,Goalkeeper,False,30,1,21,1,0,3.0,0,0,6000000.0
+177,16408,2018,32,Serie A,SSC Napoli,6195,Goalkeeper,True,38,9,16,4,7,2.22,0,0,1500000.0
+178,16408,2018,32,Serie A,SSC Napoli,6195,Goalkeeper,True,38,9,16,4,7,2.22,0,0,1500000.0
+179,73396,2018,29,Serie A,SSC Napoli,6195,Goalkeeper,True,33,17,16,5,20,1.82,0,0,4000000.0
+181,417414,2018,18,Serie A,SSC Napoli,6195,Goalkeeper,False,2,0,16,0,0,0.0,0,0,100000.0
+182,15930,2019,33,Premier League,West Ham United,379,Goalkeeper,False,13,5,8,2,6,1.2,0,0,250000.0
+184,51321,2019,32,Premier League,West Ham United,379,Goalkeeper,False,17,2,8,0,5,0.5,0,0,2800000.0
+187,51321,2020,33,Premier League,West Ham United,379,Goalkeeper,False,27,3,11,1,3,2.0,0,0,1500000.0
+188,45672,2017,26,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,36,4,18,1,4,2.25,0,0,8000000.0
+192,45672,2018,27,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,1,0,11,0,0,0.0,0,0,10000000.0
+201,465955,2021,21,Ligue 1,OGC Nice,417,Goalkeeper,True,38,1,14,0,1,0.0,0,0,2000000.0
+204,73396,2019,30,Serie A,SSC Napoli,6195,Goalkeeper,False,35,17,8,5,17,1.76,0,0,2800000.0
+207,16408,2020,34,Ligue 1,LOSC Lille,1082,Goalkeeper,True,25,0,21,0,0,0.0,0,0,500000.0
+210,28021,2021,36,Serie A,Inter Milan,46,Goalkeeper,False,38,37,15,15,30,2.27,0,0,2000000.0
+212,704337,2021,18,Serie A,Inter Milan,46,Goalkeeper,False,1,0,15,0,0,0.0,0,0,200000.0
+214,203026,2018,25,Premier League,Leicester City,1003,Goalkeeper,True,38,0,10,0,0,0.0,0,0,8000000.0
+216,203026,2019,26,Premier League,Leicester City,1003,Goalkeeper,False,38,0,13,0,0,0.0,0,0,6500000.0
+218,203026,2020,27,Premier League,Leicester City,1003,Goalkeeper,False,38,0,11,0,0,0.0,0,0,6000000.0
+220,96254,2019,29,Serie A,ACF Fiorentina,430,Goalkeeper,False,38,7,11,3,5,2.29,0,0,400000.0
+222,370701,2019,20,Serie A,ACF Fiorentina,430,Goalkeeper,False,3,0,11,0,0,0.0,0,0,275000.0
+224,241974,2021,24,Bundesliga,Hertha BSC,44,Goalkeeper,False,6,0,7,0,0,0.0,0,0,300000.0
+226,471936,2021,22,Bundesliga,Hertha BSC,44,Goalkeeper,False,25,0,7,0,0,0.0,0,0,1500000.0
+228,40680,2017,28,Bundesliga,Bayern Munich,27,Goalkeeper,False,32,29,14,12,26,2.48,0,0,6000000.0
+232,40680,2018,29,Bundesliga,Bayern Munich,27,Goalkeeper,False,34,9,13,2,9,2.0,0,0,4500000.0
+233,317444,2018,19,Bundesliga,Bayern Munich,27,Goalkeeper,False,5,0,13,0,0,0.0,0,0,200000.0
+236,40680,2019,30,Bundesliga,Bayern Munich,27,Goalkeeper,False,34,1,15,0,1,3.0,0,0,3500000.0
+239,195778,2020,23,Bundesliga,Bayern Munich,27,Goalkeeper,True,27,1,9,0,2,1.0,0,0,6000000.0
+240,317444,2020,21,Bundesliga,Bayern Munich,27,Goalkeeper,False,6,0,9,0,0,0.0,0,0,600000.0
+242,40680,2021,32,Bundesliga,Bayern Munich,27,Goalkeeper,False,24,6,12,1,11,1.17,0,0,900000.0
+247,428016,2019,20,Premier League,Tottenham Hotspur,148,Goalkeeper,False,4,0,6,0,0,0.0,0,0,200000.0
+249,17965,2021,34,Premier League,Tottenham Hotspur,148,Goalkeeper,False,38,38,16,16,40,1.87,0,0,7000000.0
+253,226073,2021,25,Ligue 1,LOSC Lille,1082,Goalkeeper,False,32,21,10,2,28,1.48,0,0,3500000.0
+254,258267,2021,24,Ligue 1,LOSC Lille,1082,Goalkeeper,False,21,0,10,0,0,0.0,0,0,500000.0
+257,93730,2017,26,Ligue 1,Angers SCO,1420,Goalkeeper,False,17,13,1,1,17,1.0,0,0,1000000.0
+258,290559,2017,20,Ligue 1,Angers SCO,1420,Goalkeeper,False,7,0,1,0,0,0.0,0,0,100000.0
+262,188930,2020,27,Ligue 1,Angers SCO,1420,Goalkeeper,False,1,0,9,0,0,0.0,0,0,700000.0
+265,290559,2021,24,Ligue 1,Angers SCO,1420,Goalkeeper,False,26,10,8,2,14,1.2,0,0,1000000.0
+266,318507,2021,24,Ligue 1,Angers SCO,1420,Goalkeeper,False,13,13,8,4,19,1.31,0,0,7000000.0
+267,19948,2019,37,Premier League,Chelsea FC,631,Goalkeeper,False,38,5,9,1,7,1.6,0,0,600000.0
+270,192279,2020,25,Premier League,Chelsea FC,631,Goalkeeper,False,35,7,18,2,8,1.14,0,0,13000000.0
+273,52570,2021,33,Premier League,Southampton FC,180,Goalkeeper,False,33,19,8,3,35,1.21,0,0,2000000.0
+275,341043,2021,23,Premier League,Southampton FC,180,Goalkeeper,False,4,0,8,0,0,0.0,0,0,200000.0
+278,244192,2017,22,Serie A,Atalanta BC,800,Goalkeeper,False,38,7,12,4,4,1.57,0,0,3500000.0
+282,126634,2019,28,Serie A,Atalanta BC,800,Goalkeeper,False,38,1,10,0,1,3.0,0,0,100000.0
+283,199976,2019,27,Serie A,Atalanta BC,800,Goalkeeper,True,37,6,10,2,5,2.0,0,0,2000000.0
+285,126634,2020,29,Serie A,Atalanta BC,800,Goalkeeper,False,38,0,12,0,0,0.0,0,0,100000.0
+288,258482,2020,24,Serie A,Atalanta BC,800,Goalkeeper,True,2,0,12,0,0,0.0,0,0,300000.0
+291,27490,2020,34,Ligue 1,RC Lens,826,Goalkeeper,False,37,37,10,9,51,1.54,0,0,800000.0
+294,27490,2021,35,Ligue 1,RC Lens,826,Goalkeeper,False,34,27,9,6,33,1.41,0,0,500000.0
+301,388516,2020,22,Bundesliga,RB Leipzig,23826,Goalkeeper,False,29,1,15,0,2,0.0,0,0,2500000.0
+304,388516,2021,23,Bundesliga,RB Leipzig,23826,Goalkeeper,False,34,1,11,0,3,0.0,0,0,2200000.0
+308,242359,2018,24,Serie A,Udinese Calcio,410,Goalkeeper,False,37,29,9,7,40,1.21,0,0,10000000.0
+311,257474,2017,20,Serie A,Torino FC,416,Goalkeeper,False,33,1,10,0,1,3.0,0,0,2000000.0
+313,73090,2021,31,Serie A,US Salernitana 1919,380,Goalkeeper,True,38,23,4,3,49,0.74,0,0,500000.0
+316,541282,2021,21,Serie A,US Salernitana 1919,380,Goalkeeper,False,14,0,4,0,0,0.0,0,0,100000.0
+317,606614,2021,18,Serie A,US Salernitana 1919,380,Goalkeeper,False,3,0,4,0,0,0.0,0,0,50000.0
+320,22141,2018,34,Serie A,AS Roma,12,Goalkeeper,True,35,11,10,6,6,2.0,0,0,800000.0
+322,438682,2018,20,Serie A,AS Roma,12,Goalkeeper,False,37,0,10,0,0,0.0,0,0,100000.0
+323,22141,2019,35,Serie A,AS Roma,12,Goalkeeper,False,25,5,7,2,5,1.4,0,0,650000.0
+327,75458,2020,30,Serie A,AS Roma,12,Goalkeeper,False,1,0,11,0,0,0.0,0,0,3000000.0
+328,75458,2020,30,Serie A,AS Roma,12,Goalkeeper,False,1,0,11,0,0,0.0,0,0,3000000.0
+330,438682,2020,22,Serie A,AS Roma,12,Goalkeeper,False,22,5,11,2,7,1.4,0,0,800000.0
+332,73090,2017,27,Serie A,UC Sampdoria,1038,Goalkeeper,False,13,2,0,0,5,0.0,0,0,1700000.0
+333,73090,2018,28,Serie A,UC Sampdoria,1038,Goalkeeper,False,37,0,11,0,0,0.0,0,0,800000.0
+334,256339,2018,21,Serie A,UC Sampdoria,1038,Goalkeeper,True,38,36,11,11,51,1.36,0,0,15000000.0
+340,238537,2021,26,Serie A,UC Sampdoria,1038,Goalkeeper,False,37,10,9,3,14,0.7,0,0,3000000.0
+342,613533,2021,19,Serie A,UC Sampdoria,1038,Goalkeeper,False,3,0,9,0,0,0.0,0,0,100000.0
+346,696600,2019,16,Ligue 1,Olympique Marseille,244,Goalkeeper,False,1,0,12,0,0,0.0,0,0,150000.0
+348,696600,2020,17,Ligue 1,Olympique Marseille,244,Goalkeeper,False,8,0,8,0,0,0.0,0,0,150000.0
+350,23951,2021,36,Ligue 1,Olympique Marseille,244,Goalkeeper,False,37,9,15,5,7,2.22,0,0,1500000.0
+353,801577,2021,18,Ligue 1,Olympique Marseille,244,Goalkeeper,False,1,0,15,0,0,0.0,0,0,150000.0
+356,23974,2019,34,Ligue 1,Stade Rennais FC,273,Goalkeeper,False,26,4,10,1,5,1.5,0,0,200000.0
+360,57134,2020,31,Ligue 1,FC Lorient,1158,Goalkeeper,False,38,15,5,2,25,1.33,0,0,600000.0
+363,57134,2021,32,Ligue 1,FC Lorient,1158,Goalkeeper,False,38,16,11,7,25,1.19,0,0,300000.0
+367,163568,2020,26,Ligue 1,Stade Rennais FC,273,Goalkeeper,True,26,22,10,5,25,1.18,0,0,7000000.0
+369,685086,2020,17,Ligue 1,Stade Rennais FC,273,Goalkeeper,False,13,0,10,0,0,0.0,0,0,500000.0
+372,576033,2021,18,Ligue 1,Stade Rennais FC,273,Goalkeeper,False,19,12,14,4,13,1.58,0,0,3500000.0
+373,685086,2021,18,Ligue 1,Stade Rennais FC,273,Goalkeeper,False,7,0,14,0,0,0.0,0,0,400000.0
+378,24112,2020,35,Bundesliga,Hertha BSC,44,Goalkeeper,False,26,8,9,1,13,0.88,0,0,500000.0
+381,453737,2020,19,Bundesliga,Hertha BSC,44,Goalkeeper,False,1,0,9,0,0,0.0,0,0,125000.0
+382,27807,2017,31,Serie A,Inter Milan,46,Goalkeeper,True,38,0,17,0,0,0.0,0,0,800000.0
+384,27807,2018,32,Serie A,Inter Milan,46,Goalkeeper,False,38,0,17,0,0,0.0,0,0,800000.0
+385,28021,2018,33,Serie A,Inter Milan,46,Goalkeeper,False,38,38,17,17,33,1.82,0,0,6000000.0
+386,79422,2021,34,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,32,21,15,9,18,2.14,0,0,8000000.0
+387,93730,2021,30,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,4,1,15,1,0,3.0,0,0,400000.0
+390,606576,2021,18,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,1,0,15,0,0,0.0,0,0,250000.0
+393,40423,2018,35,Premier League,Manchester City,281,Goalkeeper,False,2,0,20,0,0,0.0,0,0,2500000.0
+396,228975,2021,26,Ligue 1,Olympique Lyon,1041,Goalkeeper,False,35,6,11,2,6,1.83,0,0,800000.0
+397,461581,2021,22,Ligue 1,Olympique Lyon,1041,Goalkeeper,False,3,0,11,0,0,0.0,0,0,250000.0
+399,77383,2021,38,Ligue 1,RC Strasbourg Alsace,667,Goalkeeper,False,34,1,14,1,0,3.0,0,0,200000.0
+402,27486,2020,33,Premier League,Leeds United,399,Goalkeeper,False,34,3,12,1,2,2.0,0,0,800000.0
+406,130388,2021,29,Serie A,Udinese Calcio,410,Goalkeeper,True,3,0,8,0,0,0.0,0,0,50000.0
+407,238993,2021,25,Serie A,Udinese Calcio,410,Goalkeeper,False,2,0,8,0,0,0.0,0,0,600000.0
+408,487828,2021,19,Serie A,Udinese Calcio,410,Goalkeeper,False,17,0,8,0,0,0.0,0,0,200000.0
+413,28356,2020,32,Ligue 1,FC Nantes,995,Goalkeeper,False,37,0,5,0,0,0.0,0,0,250000.0
+416,282028,2021,25,Ligue 1,FC Nantes,995,Goalkeeper,True,18,0,8,0,0,0.0,0,0,800000.0
+418,80894,2017,26,Serie A,AS Roma,12,Goalkeeper,False,38,1,18,1,0,3.0,0,0,7000000.0
+423,187624,2020,25,Bundesliga,VfB Stuttgart,79,Goalkeeper,False,34,1,5,0,1,3.0,0,0,500000.0
+426,120629,2019,26,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,4,3,14,2,2,2.0,0,0,13000000.0
+427,207302,2019,25,Ligue 1,Paris Saint-Germain,583,Goalkeeper,True,23,2,14,0,4,3.0,0,0,8000000.0
+428,207302,2019,25,Ligue 1,Paris Saint-Germain,583,Goalkeeper,True,23,2,14,0,4,3.0,0,0,8000000.0
+429,460626,2019,19,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,1,0,14,0,0,0.0,0,0,150000.0
+432,192279,2021,26,Premier League,Chelsea FC,631,Goalkeeper,False,38,4,16,2,2,1.75,0,0,10000000.0
+436,29712,2018,31,Premier League,Wolverhampton Wanderers,543,Goalkeeper,False,37,1,10,1,0,3.0,0,0,3000000.0
+439,29712,2019,32,Premier League,Wolverhampton Wanderers,543,Goalkeeper,False,38,0,13,0,0,0.0,0,0,2000000.0
+441,29712,2020,33,Premier League,Wolverhampton Wanderers,543,Goalkeeper,False,38,2,11,1,1,0.0,0,0,800000.0
+446,444641,2021,19,Premier League,Wolverhampton Wanderers,543,Goalkeeper,False,9,0,11,0,0,0.0,0,0,200000.0
+449,71271,2018,31,Premier League,West Ham United,379,Goalkeeper,False,38,0,7,0,0,0.0,0,0,3500000.0
+450,29692,2021,36,Premier League,West Ham United,379,Goalkeeper,False,37,37,8,8,50,1.51,0,0,1000000.0
+453,71271,2017,30,Premier League,West Ham United,379,Goalkeeper,False,38,19,6,6,29,1.42,0,0,5000000.0
+454,77825,2021,32,Serie A,Torino FC,416,Goalkeeper,True,36,10,9,4,8,1.3,0,0,800000.0
+457,652920,2021,18,Serie A,Torino FC,416,Goalkeeper,False,2,0,9,0,0,0.0,0,0,100000.0
+461,110925,2021,29,Serie A,Bologna FC 1909,1025,Goalkeeper,False,38,2,14,1,2,2.0,0,0,600000.0
+466,256996,2017,21,Serie A,SS Lazio,398,Goalkeeper,False,38,0,11,0,0,0.0,0,0,300000.0
+469,48870,2019,30,Premier League,Everton FC,29,Goalkeeper,True,13,0,9,0,0,0.0,0,0,3200000.0
+472,75458,2020,30,Premier League,Everton FC,29,Goalkeeper,False,28,7,12,2,9,1.29,0,0,3000000.0
+473,75458,2020,30,Premier League,Everton FC,29,Goalkeeper,False,28,7,12,2,9,1.29,0,0,3000000.0
+478,341043,2020,22,Premier League,Southampton FC,180,Goalkeeper,False,2,0,9,0,0,0.0,0,0,200000.0
+480,258267,2018,21,Ligue 1,LOSC Lille,1082,Goalkeeper,False,34,0,15,0,0,0.0,0,0,500000.0
+482,288415,2019,24,Ligue 1,LOSC Lille,1082,Goalkeeper,False,28,0,12,0,0,0.0,0,0,3200000.0
+484,427568,2017,19,Premier League,AFC Bournemouth,989,Goalkeeper,False,1,0,6,0,0,0.0,0,0,500000.0
+487,125350,2021,31,Ligue 1,ESTAC Troyes,1095,Goalkeeper,False,19,0,9,0,0,0.0,0,0,250000.0
+489,34130,2020,34,Premier League,Aston Villa,405,Goalkeeper,False,23,0,15,0,0,0.0,0,0,1000000.0
+499,309397,2020,21,Bundesliga,Bayer 04 Leverkusen,15,Goalkeeper,False,20,4,10,1,7,0.75,0,0,1500000.0
+501,85543,2021,27,Bundesliga,Bayer 04 Leverkusen,15,Goalkeeper,False,14,0,8,0,0,0.0,0,0,250000.0
+502,112541,2021,29,Bundesliga,Bayer 04 Leverkusen,15,Goalkeeper,False,24,1,8,0,1,3.0,0,0,2500000.0
+505,59238,2018,30,Bundesliga,Borussia Dortmund,16,Goalkeeper,True,33,2,10,0,4,3.0,0,0,2500000.0
+507,59238,2019,31,Bundesliga,Borussia Dortmund,16,Goalkeeper,False,31,4,16,3,1,2.5,0,0,2000000.0
+510,59238,2020,32,Bundesliga,Borussia Dortmund,16,Goalkeeper,False,31,16,12,8,16,2.19,0,0,1700000.0
+511,388067,2020,21,Bundesliga,Borussia Dortmund,16,Goalkeeper,False,5,0,12,0,0,0.0,0,0,250000.0
+514,59238,2021,33,Bundesliga,Borussia Dortmund,16,Goalkeeper,False,33,5,8,0,12,1.2,0,0,1000000.0
+517,388815,2021,20,Bundesliga,Borussia Dortmund,16,Goalkeeper,False,2,0,8,0,0,0.0,0,0,1500000.0
+519,238993,2020,24,Serie A,Udinese Calcio,410,Goalkeeper,False,35,1,9,0,2,0.0,0,0,800000.0
+521,487828,2020,18,Serie A,Udinese Calcio,410,Goalkeeper,False,35,1,9,1,0,0.0,0,0,300000.0
+525,251299,2021,23,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,30,2,10,0,3,2.0,0,0,1500000.0
+527,68410,2018,24,Bundesliga,SV Werder Bremen,86,Goalkeeper,False,17,1,0,0,1,3.0,0,0,1000000.0
+528,41323,2020,33,Bundesliga,1.FC Union Berlin,89,Goalkeeper,True,31,31,8,5,42,1.45,0,0,900000.0
+530,203411,2020,26,Bundesliga,1.FC Union Berlin,89,Goalkeeper,False,3,0,8,0,0,0.0,0,0,250000.0
+531,51977,2021,33,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,34,6,11,1,14,0.5,0,0,600000.0
+533,192268,2021,25,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,6,0,11,0,0,0.0,0,0,100000.0
+534,41323,2021,34,Bundesliga,1.FC Union Berlin,89,Goalkeeper,False,30,27,8,6,39,1.48,0,0,800000.0
+539,127217,2020,29,Serie A,Hellas Verona,276,Goalkeeper,False,37,1,8,1,0,1.0,0,0,50000.0
+540,371013,2020,20,Serie A,Hellas Verona,276,Goalkeeper,False,38,4,8,0,6,0.75,0,0,1000000.0
+544,371013,2021,21,Serie A,Hellas Verona,276,Goalkeeper,False,23,3,4,0,6,1.0,0,0,1000000.0
+545,488270,2021,17,Serie A,Hellas Verona,276,Goalkeeper,False,2,0,4,0,0,0.0,0,0,75000.0
+550,95976,2017,27,Premier League,Southampton FC,180,Goalkeeper,False,37,18,8,4,26,0.94,0,0,2500000.0
+551,52570,2018,30,Premier League,Southampton FC,180,Goalkeeper,False,5,1,7,0,3,0.0,0,0,8000000.0
+556,201574,2019,23,Premier League,Southampton FC,180,Goalkeeper,False,38,10,9,2,25,0.8,0,0,6500000.0
+557,341043,2019,21,Premier League,Southampton FC,180,Goalkeeper,False,1,0,9,0,0,0.0,0,0,200000.0
+559,256996,2018,22,Serie A,SS Lazio,398,Goalkeeper,False,33,1,10,0,3,1.0,0,0,300000.0
+563,195778,2017,20,Bundesliga,FC Schalke 04,33,Goalkeeper,False,34,1,1,1,0,3.0,0,0,500000.0
+567,146714,2020,27,Bundesliga,FC Augsburg,167,Goalkeeper,False,34,0,7,0,0,0.0,0,0,1500000.0
+569,146714,2021,28,Bundesliga,FC Augsburg,167,Goalkeeper,False,32,0,9,0,0,0.0,0,0,1000000.0
+571,42744,2021,32,Serie A,FC Empoli,749,Goalkeeper,True,35,0,7,0,0,0.0,0,0,200000.0
+572,146799,2021,29,Serie A,FC Empoli,749,Goalkeeper,False,2,0,7,0,0,0.0,0,0,1200000.0
+576,691529,2021,17,Serie A,FC Empoli,749,Goalkeeper,False,1,0,7,0,0,0.0,0,0,75000.0
+578,74960,2017,28,Premier League,Newcastle United,762,Goalkeeper,False,13,12,9,4,11,1.58,0,0,4000000.0
+580,226049,2017,20,Premier League,Newcastle United,762,Goalkeeper,False,6,0,9,0,0,0.0,0,0,500000.0
+583,99397,2019,28,Premier League,Newcastle United,762,Goalkeeper,False,37,0,11,0,0,0.0,0,0,2400000.0
+585,257814,2017,19,Bundesliga,TSG 1899 Hoffenheim,533,Goalkeeper,False,21,0,10,0,0,0.0,0,0,500000.0
+587,257814,2018,20,Bundesliga,TSG 1899 Hoffenheim,533,Goalkeeper,False,13,1,5,0,1,3.0,0,0,6000000.0
+589,251299,2019,21,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,12,0,6,0,0,0.0,0,0,150000.0
+590,284769,2019,21,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,31,13,6,2,25,0.92,0,0,2400000.0
+591,160963,2020,25,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,31,31,5,5,46,1.16,0,0,5000000.0
+593,45672,2018,27,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,False,33,33,10,8,48,1.55,0,0,10000000.0
+594,107775,2018,25,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,False,33,2,10,2,0,3.0,0,0,1500000.0
+595,45672,2019,28,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,True,23,22,5,4,38,1.64,0,0,8000000.0
+596,107775,2019,26,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,False,29,9,5,1,14,1.0,0,0,2400000.0
+598,107775,2020,27,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,False,2,0,4,0,0,0.0,0,0,2500000.0
+601,448705,2021,19,Bundesliga,Eintracht Frankfurt,24,Goalkeeper,False,20,1,5,0,1,1.0,0,0,750000.0
+603,40034,2017,28,Bundesliga,VfB Stuttgart,79,Goalkeeper,False,18,0,0,0,0,0.0,0,0,250000.0
+607,208166,2017,19,Serie A,ACF Fiorentina,430,Goalkeeper,False,36,3,15,0,8,0.0,0,0,2000000.0
+610,61989,2021,33,Bundesliga,VfL Bochum,80,Goalkeeper,True,33,3,7,0,7,2.0,0,0,400000.0
+611,452192,2021,20,Bundesliga,VfL Bochum,80,Goalkeeper,False,3,0,7,0,0,0.0,0,0,100000.0
+613,41323,2017,30,Bundesliga,FC Augsburg,167,Goalkeeper,False,33,2,9,0,4,0.5,0,0,500000.0
+615,41323,2018,31,Bundesliga,FC Augsburg,167,Goalkeeper,False,26,15,6,3,22,1.13,0,0,700000.0
+616,257814,2018,20,Bundesliga,FC Augsburg,167,Goalkeeper,False,16,16,6,3,42,0.88,0,0,6000000.0
+617,41323,2019,32,Bundesliga,FC Augsburg,167,Goalkeeper,False,33,10,7,3,12,1.2,0,0,400000.0
+618,146714,2019,26,Bundesliga,FC Augsburg,167,Goalkeeper,True,33,24,7,4,51,1.0,0,0,3500000.0
+621,64399,2018,31,Premier League,Crystal Palace,873,Goalkeeper,False,37,20,13,8,23,1.7,0,0,5000000.0
+622,45494,2019,32,Premier League,Crystal Palace,873,Goalkeeper,False,37,3,10,0,8,0.33,0,0,2400000.0
+625,64399,2020,33,Premier League,Crystal Palace,873,Goalkeeper,False,38,37,8,8,64,1.11,0,0,2000000.0
+627,64399,2021,34,Premier League,Crystal Palace,873,Goalkeeper,False,35,30,13,12,33,1.27,0,0,1500000.0
+630,116648,2018,26,Premier League,Fulham FC,931,Goalkeeper,False,22,7,5,0,20,0.71,0,0,4000000.0
+631,207302,2018,24,Premier League,Fulham FC,931,Goalkeeper,False,35,29,5,5,56,0.72,0,0,12000000.0
+632,78339,2017,29,Bundesliga,SC Freiburg,60,Goalkeeper,False,34,2,10,0,3,2.0,0,0,500000.0
+635,125714,2018,25,Bundesliga,SC Freiburg,60,Goalkeeper,False,28,1,5,0,1,3.0,0,0,600000.0
+637,125714,2019,26,Bundesliga,SC Freiburg,60,Goalkeeper,False,26,10,7,3,14,1.5,0,0,950000.0
+639,125714,2020,27,Bundesliga,SC Freiburg,60,Goalkeeper,False,3,3,6,0,6,1.33,0,0,2500000.0
+643,526845,2021,19,Bundesliga,SC Freiburg,60,Goalkeeper,False,3,0,10,0,0,0.0,0,0,1500000.0
+645,111873,2018,25,Premier League,Arsenal FC,11,Goalkeeper,False,2,0,7,0,0,0.0,0,0,2000000.0
+647,111873,2019,26,Premier League,Arsenal FC,11,Goalkeeper,False,38,9,11,3,9,1.78,0,0,2800000.0
+649,128969,2020,28,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,12,11,12,2,19,0.91,0,0,6000000.0
+650,208379,2020,24,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,8,0,12,0,0,0.0,0,0,800000.0
+653,73564,2021,30,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,33,1,11,0,2,0.0,0,0,600000.0
+656,463527,2021,21,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,8,0,11,0,0,0.0,0,0,2200000.0
+659,258482,2019,23,Serie A,Hellas Verona,276,Goalkeeper,False,35,3,10,1,8,1.0,0,0,475000.0
+660,160963,2017,22,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,25,15,3,2,27,0.93,0,0,600000.0
+662,284769,2017,19,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,14,5,3,1,7,0.8,0,0,1000000.0
+663,160963,2018,23,Bundesliga,1.FSV Mainz 05,39,Goalkeeper,False,34,10,7,2,14,1.6,0,0,1000000.0
+668,438682,2021,23,Serie A,AS Roma,12,Goalkeeper,False,35,0,15,0,0,0.0,0,0,800000.0
+672,93730,2020,29,Ligue 1,Paris Saint-Germain,583,Goalkeeper,True,10,0,21,0,0,0.0,0,0,400000.0
+673,207302,2020,26,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,36,10,21,5,9,2.2,0,0,7000000.0
+676,606576,2020,17,Ligue 1,Paris Saint-Germain,583,Goalkeeper,False,2,0,21,0,0,0.0,0,0,250000.0
+678,371816,2021,23,Ligue 1,Montpellier HSC,969,Goalkeeper,False,36,11,12,3,20,0.82,0,0,1500000.0
+682,429563,2021,20,Premier League,Brentford FC,1148,Goalkeeper,False,1,0,9,0,0,0.0,0,0,500000.0
+683,453704,2021,23,Premier League,Brentford FC,1148,Goalkeeper,False,31,12,9,1,24,0.92,0,0,4000000.0
+685,73564,2018,27,Premier League,Brighton & Hove Albion,1237,Goalkeeper,False,13,0,6,0,0,0.0,0,0,750000.0
+690,84938,2021,28,Bundesliga,1.FC Köln,3,Goalkeeper,False,26,13,4,1,21,1.38,0,0,2000000.0
+692,227089,2021,24,Bundesliga,1.FC Köln,3,Goalkeeper,False,1,0,4,0,0,0.0,0,0,25000.0
+694,51977,2018,30,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,34,9,10,1,11,1.89,0,0,800000.0
+696,51977,2019,31,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,34,8,8,3,8,1.25,0,0,650000.0
+698,192268,2019,23,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,1,0,8,0,0,0.0,0,0,100000.0
+699,51977,2020,32,Bundesliga,VfL Wolfsburg,82,Goalkeeper,False,32,2,14,0,4,0.5,0,0,600000.0
+702,55282,2019,33,Ligue 1,Olympique Lyon,1041,Goalkeeper,True,25,2,9,1,2,1.5,0,0,1200000.0
+704,55282,2020,34,Ligue 1,Olympique Lyon,1041,Goalkeeper,False,1,0,11,0,0,0.0,0,0,600000.0
+706,228975,2020,25,Ligue 1,Olympique Lyon,1041,Goalkeeper,False,33,0,11,0,0,0.0,0,0,600000.0
+708,107775,2020,27,Bundesliga,FC Schalke 04,33,Goalkeeper,True,20,11,1,1,24,0.36,0,0,2500000.0
+709,85528,2017,26,Serie A,Hellas Verona,276,Goalkeeper,False,38,2,0,0,7,0.0,0,0,350000.0
+710,415801,2017,17,Serie A,Hellas Verona,276,Goalkeeper,False,1,0,0,0,0,0.0,0,0,50000.0
+713,73396,2020,31,Serie A,SSC Napoli,6195,Goalkeeper,False,33,16,14,8,12,2.06,0,0,5000000.0
+715,555557,2020,18,Serie A,SSC Napoli,6195,Goalkeeper,False,5,0,14,0,0,0.0,0,0,150000.0
+716,73396,2021,32,Serie A,SSC Napoli,6195,Goalkeeper,False,36,31,17,13,25,2.03,0,0,5000000.0
+718,417414,2021,21,Serie A,SSC Napoli,6195,Goalkeeper,False,35,1,17,1,0,3.0,0,0,50000.0
+720,56809,2017,28,Ligue 1,RC Strasbourg Alsace,667,Goalkeeper,False,34,17,3,3,29,1.0,0,0,700000.0
+722,130388,2018,26,Serie A,Bologna FC 1909,1025,Goalkeeper,False,22,0,10,0,0,0.0,0,0,100000.0
+724,187624,2021,26,Bundesliga,VfB Stuttgart,79,Goalkeeper,False,30,4,4,0,7,0.5,0,0,500000.0
+728,371816,2018,20,Ligue 1,Montpellier HSC,969,Goalkeeper,False,31,1,12,1,0,1.0,0,0,500000.0
+730,371816,2019,21,Ligue 1,Montpellier HSC,969,Goalkeeper,False,24,3,8,0,3,0.0,0,0,900000.0
+733,371816,2020,22,Ligue 1,Montpellier HSC,969,Goalkeeper,False,34,9,6,3,11,1.56,0,0,1000000.0
+735,72476,2020,28,Premier League,Arsenal FC,11,Goalkeeper,False,37,35,12,11,37,1.63,0,0,22000000.0
+736,128969,2020,28,Premier League,Arsenal FC,11,Goalkeeper,True,15,3,12,1,2,1.33,0,0,6000000.0
+737,72476,2021,29,Premier League,Arsenal FC,11,Goalkeeper,False,33,4,13,1,9,0.75,0,0,9000000.0
+739,493513,2021,19,Premier League,Arsenal FC,11,Goalkeeper,False,1,0,13,0,0,0.0,0,0,800000.0
+745,203411,2019,25,Bundesliga,1.FC Union Berlin,89,Goalkeeper,False,2,0,8,0,0,0.0,0,0,300000.0
+746,418561,2021,20,Premier League,Leeds United,399,Goalkeeper,False,38,1,5,0,1,3.0,0,0,2000000.0
+748,68410,2019,25,Bundesliga,SV Werder Bremen,86,Goalkeeper,False,33,1,0,0,2,1.0,0,0,800000.0
+751,99397,2018,27,Premier League,Newcastle United,762,Goalkeeper,False,23,0,11,0,0,0.0,0,0,3500000.0
+752,226049,2018,21,Premier League,Newcastle United,762,Goalkeeper,False,15,0,11,0,0,0.0,0,0,500000.0
+753,74960,2020,31,Premier League,Newcastle United,762,Goalkeeper,False,24,13,7,3,19,1.54,0,0,5000000.0
+755,142389,2020,28,Premier League,Newcastle United,762,Goalkeeper,False,20,0,7,0,0,0.0,0,0,400000.0
+756,74960,2021,32,Premier League,Newcastle United,762,Goalkeeper,False,29,26,8,8,35,1.65,0,0,4000000.0
+758,142389,2021,29,Premier League,Newcastle United,762,Goalkeeper,False,11,0,8,0,0,0.0,0,0,300000.0
+760,379869,2021,27,Ligue 1,Clermont Foot 63,3524,Goalkeeper,False,31,15,9,3,33,0.93,0,0,1200000.0
+764,199976,2021,29,Serie A,Atalanta BC,800,Goalkeeper,False,37,5,10,2,5,0.6,0,0,1500000.0
+768,704079,2021,19,Serie A,Atalanta BC,800,Goalkeeper,False,1,0,10,0,0,0.0,0,0,150000.0
+779,395251,2020,22,Ligue 1,Stade Brestois 29,3911,Goalkeeper,True,28,3,7,1,4,1.33,0,0,400000.0
+781,357047,2021,24,Ligue 1,Stade Brestois 29,3911,Goalkeeper,False,37,0,7,0,0,0.0,0,0,3000000.0
+782,525155,2021,22,Ligue 1,Stade Brestois 29,3911,Goalkeeper,False,3,0,7,0,0,0.0,0,0,200000.0
+783,79045,2020,29,Serie A,Spezia Calcio,3522,Goalkeeper,False,20,7,5,1,12,1.43,0,0,2000000.0
+785,79045,2021,30,Serie A,Spezia Calcio,3522,Goalkeeper,False,36,7,8,0,19,0.57,0,0,850000.0
+792,208166,2018,20,Serie A,ACF Fiorentina,430,Goalkeeper,False,20,3,10,1,2,1.33,0,0,10000000.0
+795,448632,2019,19,Ligue 1,Stade Reims,1421,Goalkeeper,True,1,0,12,0,0,0.0,0,0,350000.0
+797,448632,2020,20,Ligue 1,Stade Reims,1421,Goalkeeper,False,34,2,11,1,1,0.5,0,0,500000.0
